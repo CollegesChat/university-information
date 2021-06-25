@@ -6,15 +6,15 @@
 
 ## 查询
 
-进入 issue 寻找相关条目。
+进入 discussion 寻找相关条目。
 
 ## 贡献
 
-回答或添加相关 issue。
+回答或添加相关 discussion。
 
 ## 询问
 
-提 issue。
+提 discussion。
 
 ## FAQ
 
