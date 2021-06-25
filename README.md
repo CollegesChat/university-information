@@ -2,7 +2,7 @@
 
 这是什么项目？
 
-这是一个启发于 https://t.me/RiNGNiR/3571 和 https://t.me/RiNGNiR/3572 的一个项目，用来收集高校生活的一些相关信息，<del>来劝退新生</del>
+这是一个受 https://t.me/RiNGNiR/3571 和 https://t.me/RiNGNiR/3572 启发的一个项目，用来收集高校生活的一些相关信息，<del>来劝退新生</del>
 
 ## 查询
 
