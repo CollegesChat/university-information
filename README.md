@@ -1,20 +1,11 @@
-# 关于大学生活质量
+# 一些大学的生活质量
 
 这是什么项目？
 
-这是一个受 https://t.me/RiNGNiR/3571 和 https://t.me/RiNGNiR/3572 启发的一个项目，用来收集高校生活的一些相关信息，<del>来劝退新生</del>
+这是一个受 https://t.me/RiNGNiR/3571 和 https://t.me/RiNGNiR/3572 启发的一个项目，意在收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节。
 
-## 查询
-
-进入 discussion 寻找相关条目。
-
-## 贡献
-
-回答或添加相关 discussion。
-
-## 询问
-
-提 discussion。
+## 查询 & 贡献 & 提问
+请前往 [Discussions](https://github.com/YanWQ-monad/university-information/discussions)
 
 ## 参考 FAQ
 
