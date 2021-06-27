@@ -102,9 +102,9 @@
 
 [东北农业大学](./universities/东北农业大学.md)
 
-[东北大学(浑南校区)](./universities/东北大学(浑南校区).md)
-
 [东北大学](./universities/东北大学.md)
+
+[东北大学(浑南校区)](./universities/东北大学(浑南校区).md)
 
 [东北大学秦皇岛分校](./universities/东北大学秦皇岛分校.md)
 
@@ -250,9 +250,9 @@
 
 [兰州理工大学](./universities/兰州理工大学.md)
 
-[内蒙古大学(南校区)](./universities/内蒙古大学(南校区).md)
-
 [内蒙古大学](./universities/内蒙古大学.md)
+
+[内蒙古大学(南校区)](./universities/内蒙古大学(南校区).md)
 
 [内蒙古师范大学](./universities/内蒙古师范大学.md)
 
@@ -296,9 +296,9 @@
 
 [北京工商大学](./universities/北京工商大学.md)
 
-[北京师范大学-香港浸会大学联合国际学院](./universities/北京师范大学-香港浸会大学联合国际学院.md)
-
 [北京师范大学](./universities/北京师范大学.md)
+
+[北京师范大学-香港浸会大学联合国际学院](./universities/北京师范大学-香港浸会大学联合国际学院.md)
 
 [北京师范大学珠海分校](./universities/北京师范大学珠海分校.md)
 
@@ -474,9 +474,9 @@
 
 [右江民族医学院](./universities/右江民族医学院.md)
 
-[合肥工业大学(翡翠湖校区/新区)](./universities/合肥工业大学(翡翠湖校区新区).md)
-
 [合肥工业大学](./universities/合肥工业大学.md)
+
+[合肥工业大学(翡翠湖校区/新区)](./universities/合肥工业大学(翡翠湖校区新区).md)
 
 [合肥工业大学（宣城校区）](./universities/合肥工业大学（宣城校区）.md)
 
@@ -484,9 +484,9 @@
 
 [吉林医药学院](./universities/吉林医药学院.md)
 
-[吉林大学#南湖校区（前中国四大邮电学院中长春邮电学院）](./universities/吉林大学#南湖校区（前中国四大邮电学院中长春邮电学院）.md)
-
 [吉林大学](./universities/吉林大学.md)
+
+[吉林大学#南湖校区（前中国四大邮电学院中长春邮电学院）](./universities/吉林大学#南湖校区（前中国四大邮电学院中长春邮电学院）.md)
 
 [吉林大学和平校区](./universities/吉林大学和平校区.md)
 
@@ -504,9 +504,9 @@
 
 [哈尔滨商业大学](./universities/哈尔滨商业大学.md)
 
-[哈尔滨工业大学(威海)](./universities/哈尔滨工业大学(威海).md)
-
 [哈尔滨工业大学](./universities/哈尔滨工业大学.md)
+
+[哈尔滨工业大学(威海)](./universities/哈尔滨工业大学(威海).md)
 
 [哈尔滨工业大学深圳](./universities/哈尔滨工业大学深圳.md)
 
@@ -586,9 +586,9 @@
 
 [大连海洋大学](./universities/大连海洋大学.md)
 
-[大连理工大学(软件学院)](./universities/大连理工大学(软件学院).md)
-
 [大连理工大学](./universities/大连理工大学.md)
+
+[大连理工大学(软件学院)](./universities/大连理工大学(软件学院).md)
 
 [大连职业技术学院](./universities/大连职业技术学院.md)
 
@@ -686,13 +686,13 @@
 
 [山东商务职业学院](./universities/山东商务职业学院.md)
 
+[山东大学](./universities/山东大学.md)
+
 [山东大学 中心校区](./universities/山东大学中心校区.md)
 
 [山东大学(威海)](./universities/山东大学(威海).md)
 
 [山东大学(青岛)](./universities/山东大学(青岛).md)
-
-[山东大学](./universities/山东大学.md)
 
 [山东大学威海](./universities/山东大学威海.md)
 
@@ -964,9 +964,9 @@
 
 [武汉工程职业技术学院](./universities/武汉工程职业技术学院.md)
 
-[武汉理工大学(南湖校区)](./universities/武汉理工大学(南湖校区).md)
-
 [武汉理工大学](./universities/武汉理工大学.md)
+
+[武汉理工大学(南湖校区)](./universities/武汉理工大学(南湖校区).md)
 
 [武汉理工大学（余家头校区 ）](./universities/武汉理工大学（余家头校区）.md)
 
@@ -1248,9 +1248,9 @@
 
 [甘肃政法大学](./universities/甘肃政法大学.md)
 
-[电子科技大学(清水河校区)](./universities/电子科技大学(清水河校区).md)
-
 [电子科技大学](./universities/电子科技大学.md)
+
+[电子科技大学(清水河校区)](./universities/电子科技大学(清水河校区).md)
 
 [电子科技大学中山学院](./universities/电子科技大学中山学院.md)
 
