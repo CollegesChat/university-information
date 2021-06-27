@@ -11,6 +11,7 @@ questionnaire = ["宿舍是上床下桌吗？", "教室和宿舍有没有空调�
 with open('results.csv', 'r', encoding="gb18030") as csv_file:
     csv_reader = csv.reader(csv_file)
     output_buffers = []
+    output_index_buffers = []
     # list to store the universities collected, {university: [index, count]}
     output_collected = {}
     next(csv_reader)  # here we skip the first line
@@ -58,4 +59,6 @@ with open('results.csv', 'r', encoding="gb18030") as csv_file:
         for key in output_collected.keys():
             with open(f"universities/{key.replace(' ', '')}.md", 'w', encoding="utf-8") as output_item_file:
                 output_item_file.write(output_buffers[output_collected[key][0] - 1].replace("\n", "\n\n"))
-            output_readme_file.write(f"\n\n[{key}](./universities/{key.replace(' ', '')}.md)")
+            output_index_buffers.append(f"\n\n[{key}](./universities/{key.replace(' ', '')}.md)")
+        output_index_buffers.sort()
+        output_readme_file.write("".join(output_index_buffers))
