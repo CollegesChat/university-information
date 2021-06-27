@@ -36,13 +36,13 @@ with open('results.csv', 'r', encoding="gb18030") as csv_file:
             if index - 6 < len(questionnaire):
                 # add question when not exist
                 if 2 + (output_count + 2) * (index - 6) >= len(output_buffer_lines)\
-                        or not output_buffer_lines[2 + (output_count + 2) * (index - 6)].startswith("## Q"):
+                        or not output_buffer_lines[2 + (output_count + 2) * (index - 6)].startswith(f"## Q: {questionnaire[index - 6]}"):
                     output_buffer_lines.insert(2 + (output_count + 2) * (index - 6), f"## Q: {questionnaire[index - 6]}")
             output_buffer_lines.insert(2 + (output_count + 2) * (index - 5) - 1, f"- A{output_count + 1}: {row[index]}")
         if row[len(row) - 9] != '':
             output_buffer_lines.append("***")
             output_buffer_lines.append(row[len(row) - 9])
-        if output_index > 0:
+        if output_index >= 0:
             output_buffers[output_index] = "\n".join(output_buffer_lines)
             output_collected[row[5]][1] += 1
         else:
@@ -57,8 +57,8 @@ with open('results.csv', 'r', encoding="gb18030") as csv_file:
         except FileExistsError:
             pass
         for key in output_collected.keys():
-            with open(f"universities/{key.replace(' ', '')}.md", 'w', encoding="utf-8") as output_item_file:
+            with open(f"universities/{key.replace(' ', '').replace('/', '')}.md", 'w', encoding="utf-8") as output_item_file:
                 output_item_file.write(output_buffers[output_collected[key][0] - 1].replace("\n", "\n\n"))
-            output_index_buffers.append(f"\n\n[{key}](./universities/{key.replace(' ', '')}.md)")
+            output_index_buffers.append(f"\n\n[{key}](./universities/{key.replace(' ', '').replace('/', '')}.md)")
         output_index_buffers.sort()
         output_readme_file.write("".join(output_index_buffers))
