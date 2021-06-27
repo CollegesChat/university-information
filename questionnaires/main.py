@@ -39,7 +39,8 @@ with open('results.csv', 'r', encoding="gb18030") as csv_file:
                     output_buffer_lines.insert(2 + (output_count + 2) * (index - 6), f"## Q: {questionnaire[index - 6]}")
             output_buffer_lines.insert(2 + (output_count + 2) * (index - 5) - 1, f"- A{output_count + 1}: {row[index]}")
         if row[len(row) - 9] != '':
-            output_buffer_lines.append(f"Extra: {row[len(row) - 9]}")
+            output_buffer_lines.append("***")
+            output_buffer_lines.append(row[len(row) - 9])
         if output_index > 0:
             output_buffers[output_index] = "\n".join(output_buffer_lines)
             output_collected[row[5]][1] += 1

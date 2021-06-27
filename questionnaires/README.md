@@ -752,8 +752,6 @@
 
 [沈阳科技学院](./universities/沈阳科技学院.md)
 
-[不方便说](./universities/不方便说.md)
-
 [西安美术学院](./universities/西安美术学院.md)
 
 [平顶山学院](./universities/平顶山学院.md)
@@ -881,3 +879,51 @@
 [哈尔滨工业大学（深圳）](./universities/哈尔滨工业大学（深圳）.md)
 
 [湖南理工学院](./universities/湖南理工学院.md)
+
+[湖南第一师范学院](./universities/湖南第一师范学院.md)
+
+[山东大学（威海校区）](./universities/山东大学（威海校区）.md)
+
+[山东师范大学](./universities/山东师范大学.md)
+
+[哈尔滨工业大学(威海)](./universities/哈尔滨工业大学(威海).md)
+
+[长春工业大学](./universities/长春工业大学.md)
+
+[大连理工大学(软件学院)](./universities/大连理工大学(软件学院).md)
+
+[安庆医药高等专科学校](./universities/安庆医药高等专科学校.md)
+
+[复旦大学](./universities/复旦大学.md)
+
+[武汉理工大学（余家头校区 ）](./universities/武汉理工大学（余家头校区）.md)
+
+[河北外国语学院](./universities/河北外国语学院.md)
+
+[河南城建学院](./universities/河南城建学院.md)
+
+[南京医科大学](./universities/南京医科大学.md)
+
+[重庆交通大学](./universities/重庆交通大学.md)
+
+[吕梁学院](./universities/吕梁学院.md)
+
+[浙大宁波理工学院](./universities/浙大宁波理工学院.md)
+
+[厦门华厦学院](./universities/厦门华厦学院.md)
+
+[山东大学（济南）](./universities/山东大学（济南）.md)
+
+[南阳理工学院](./universities/南阳理工学院.md)
+
+[广东松山职业技术学院](./universities/广东松山职业技术学院.md)
+
+[广东工业大学](./universities/广东工业大学.md)
+
+[南京审计大学](./universities/南京审计大学.md)
+
+[昆明理工大学](./universities/昆明理工大学.md)
+
+[北京联合大学](./universities/北京联合大学.md)
+
+[衡水学院](./universities/衡水学院.md)
