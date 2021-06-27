@@ -7,7 +7,7 @@
 ## 查询 & 贡献 & 提问
 贡献、提问、部分资料查询请前往 [Discussions](https://github.com/YanWQ-monad/university-information/discussions)
 
-问卷资料查询请前往 [Questionnaires](https://github.com/YanWQ-monad/blob/master/questionnaires)
+问卷资料查询请前往 [Questionnaires](https://github.com/YanWQ-monad/university-information/tree/master/questionnaires)
 
 ## 参考 FAQ
 
