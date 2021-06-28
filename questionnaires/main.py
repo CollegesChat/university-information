@@ -37,7 +37,7 @@ questionnaire = [
     '宿舍晚上查寝吗，封寝吗，晚归能回去吗？']
 
 
-NAME_PREPROCESS = re.compile(r'[\(\)（）#]')
+NAME_PREPROCESS = re.compile(r'[\(\)（）【】#]')
 FILENAME_PREPROCESS = re.compile(r'[/>|:&]')
 
 

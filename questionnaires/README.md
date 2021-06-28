@@ -516,13 +516,11 @@
 
 [吉林大学南岭校区](./universities/ji-lin-da-xue-nan-ling-xiao-qu-1.md)
 
-[吉林大学南湖校区前中国四大邮电学院中长春邮电学院](./universities/ji-lin-da-xue-nan-hu-xiao-qu-qian-zhong-guo-si-da-you-dian-xue-yuan-zhong-chang-chun-you-dian-xue-yuan-1.md)
-
 [吉林大学和平校区](./universities/ji-lin-da-xue-he-ping-xiao-qu-1.md)
 
 [吉林师范大学](./universities/ji-lin-shi-fan-da-xue-1.md)
 
-[吉林艺术学院【造型校区】](./universities/ji-lin-yi-zhu-xue-yuan-zao-xing-xiao-qu-1.md)
+[吉林艺术学院造型校区](./universities/ji-lin-yi-zhu-xue-yuan-zao-xing-xiao-qu-1.md)
 
 [吉林财经大学](./universities/ji-lin-cai-jing-da-xue-1.md)
 
@@ -854,8 +852,6 @@
 
 [广州城市理工学院](./universities/yan-zhou-cheng-shi-li-gong-xue-yuan-1.md)
 
-[广州城市理工学院前：华南理工大学广州学院](./universities/yan-zhou-cheng-shi-li-gong-xue-yuan-qian-hua-nan-li-gong-da-xue-yan-zhou-xue-yuan-1.md)
-
 [广州城市职业学院](./universities/yan-zhou-cheng-shi-zhi-ye-xue-yuan-1.md)
 
 [广州大学](./universities/yan-zhou-da-xue-1.md)
@@ -865,8 +861,6 @@
 [广州应用科技学院](./universities/yan-zhou-ying-yong-ke-ji-xue-yuan-1.md)
 
 [广州理工学院](./universities/yan-zhou-li-gong-xue-yuan-1.md)
-
-[广州理工学院原广东技术师范学院天河学院](./universities/yan-zhou-li-gong-xue-yuan-yuan-yan-dong-ji-zhu-shi-fan-xue-yuan-tian-he-xue-yuan-1.md)
 
 [广州科技职业技术大学](./universities/yan-zhou-ke-ji-zhi-ye-ji-zhu-da-xue-1.md)
 
@@ -962,7 +956,7 @@
 
 [昆明理工大学](./universities/kun-ming-li-gong-da-xue-1.md)
 
-[晋中信息学院原山西农业大学信息学院](./universities/jin-zhong-xin-xi-xue-yuan-yuan-shan-xi-nong-ye-da-xue-xin-xi-xue-yuan-1.md)
+[晋中信息学院](./universities/jin-zhong-xin-xi-xue-yuan-1.md)
 
 [晋中学院](./universities/jin-zhong-xue-yuan-1.md)
 
@@ -982,7 +976,7 @@
 
 [枣庄学院](./universities/zao-zhuang-xue-yuan-1.md)
 
-[桂林信息科技学院原桂林电子科技大学信息科技学院](./universities/gui-lin-xin-xi-ke-ji-xue-yuan-yuan-gui-lin-dian-zi-ke-ji-da-xue-xin-xi-ke-ji-xue-yuan-1.md)
+[桂林信息科技学院](./universities/gui-lin-xin-xi-ke-ji-xue-yuan-1.md)
 
 [桂林学院](./universities/gui-lin-xue-yuan-1.md)
 
@@ -1120,7 +1114,7 @@
 
 [河北科技大学](./universities/he-bei-ke-ji-da-xue-1.md)
 
-[河北科技工程职业技术大学原邢台职业技术学院](./universities/he-bei-ke-ji-gong-cheng-zhi-ye-ji-zhu-da-xue-yuan-xing-tai-zhi-ye-ji-zhu-xue-yuan-1.md)
+[河北科技工程职业技术大学](./universities/he-bei-ke-ji-gong-cheng-zhi-ye-ji-zhu-da-xue-1.md)
 
 [河北经贸大学](./universities/he-bei-jing-mao-da-xue-1.md)
 
@@ -1326,7 +1320,7 @@
 
 [玉林师范学院](./universities/yu-lin-shi-fan-xue-yuan-1.md)
 
-[珠海科技学院原 吉林大学珠海学院](./universities/zhu-hai-ke-ji-xue-yuan-yuan-ji-lin-da-xue-zhu-hai-xue-yuan-1.md)
+[珠海科技学院](./universities/zhu-hai-ke-ji-xue-yuan-1.md)
 
 [甘肃政法大学](./universities/gan-su-zheng-fa-da-xue-1.md)
 
@@ -1383,8 +1377,6 @@
 [福建师范大学仓山校区](./universities/fu-jian-shi-fan-da-xue-cang-shan-xiao-qu-1.md)
 
 [福建幼儿师范高等专科学校](./universities/fu-jian-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao-1.md)
-
-[福建幼儿师范高等专科学院](./universities/fu-jian-you-er-shi-fan-gao-deng-zhuan-ke-xue-yuan-1.md)
 
 [福建江夏学院](./universities/fu-jian-jiang-xia-xue-yuan-1.md)
 
