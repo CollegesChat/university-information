@@ -516,6 +516,8 @@
 
 [吉林大学南岭校区](./universities/ji-lin-da-xue-nan-ling-xiao-qu-1.md)
 
+[吉林大学南湖校区](./universities/ji-lin-da-xue-nan-hu-xiao-qu-1.md)
+
 [吉林大学和平校区](./universities/ji-lin-da-xue-he-ping-xiao-qu-1.md)
 
 [吉林师范大学](./universities/ji-lin-shi-fan-da-xue-1.md)
@@ -1689,3 +1691,18 @@
 [齐齐哈尔医学院](./universities/qi-qi-ha-er-yi-xue-yuan-1.md)
 
 [齐齐哈尔大学](./universities/qi-qi-ha-er-da-xue-1.md)
+
+### 更名的大学
+
+长春邮电学院 → [吉林大学南湖校区](./universities/ji-lin-da-xue-nan-hu-xiao-qu-1.md)
+
+华南理工大学广州学院 → [广州城市理工学院](./universities/yan-zhou-cheng-shi-li-gong-xue-yuan-1.md)
+
+广东技术师范学院天河学院 → [广州理工学院](./universities/yan-zhou-li-gong-xue-yuan-1.md)
+
+山西农业大学信息学院 → [晋中信息学院](./universities/jin-zhong-xin-xi-xue-yuan-1.md)
+
+桂林电子科技大学信息科技学院 → [桂林信息科技学院](./universities/gui-lin-xin-xi-ke-ji-xue-yuan-1.md)
+
+邢台职业技术学院 → [河北科技工程职业技术大学](./universities/he-bei-ke-ji-gong-cheng-zhi-ye-ji-zhu-da-xue-1.md)
+

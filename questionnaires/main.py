@@ -110,6 +110,13 @@ def join_path(*paths):
     return '/'.join(paths)
 
 
+def generate_markdown_path(name: str, in_readme: bool):
+    paths = [ 'universities', name ]
+    if in_readme:
+        paths = ['.'] + paths
+    return join_path(*paths) + '.md'
+
+
 def main():
     # ===== read from csv =====
     with open('results_desensitized.csv', 'r', encoding='gb18030') as f:
@@ -161,7 +168,7 @@ def main():
     # ===== write results =====
     os.makedirs('universities', exist_ok=True)
     for name, university in universities.items():
-        filename = join_path('universities', filename_map[name]) + '.md'
+        filename = generate_markdown_path(filename_map[name], False)
         with open(filename, 'w', encoding='utf-8') as f:
             # write header
             f.write(f'# {name}\n\n')
@@ -190,8 +197,16 @@ def main():
         # then, write university links
         university_names = list(universities.keys())
         university_names.sort()
-        university_links = [ '[{}]({}.md)'.format(name, join_path('.', 'universities', filename_map[name])) for name in university_names ]
+        university_links = [ '[{}]({})'.format(name, generate_markdown_path(filename_map[name], True)) for name in university_names ]
         readme_f.write('\n\n'.join(university_links))
+
+        # and, write renamed colleges
+        readme_f.write('\n\n### 更名的大学\n\n')
+        with open('history.txt', 'r', encoding='utf-8') as f:
+            for history in f:
+                name, *originals = history.rstrip('\n').split('⬅')
+                for original in originals:
+                    readme_f.write('{} → [{}]({})\n\n'.format(original, name, generate_markdown_path(filename_map[name], True)))
 
 
 if __name__ == '__main__':
