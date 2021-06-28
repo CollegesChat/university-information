@@ -1,9 +1,13 @@
 #!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
 
+from slugify import slugify
 import collections
 import csv
 import os
+import re
+import typing
+import zhconv
 
 questionnaire = [
     '宿舍是上床下桌吗？',
@@ -33,6 +37,10 @@ questionnaire = [
     '宿舍晚上查寝吗，封寝吗，晚归能回去吗？']
 
 
+NAME_PREPROCESS = re.compile(r'[\(\)（）#]')
+FILENAME_PREPROCESS = re.compile(r'[/>|:&]')
+
+
 class AnswerGroup:
     answers: list[str]
 
@@ -41,6 +49,9 @@ class AnswerGroup:
 
     def add_answer(self, answer: str):
         self.answers.append(answer)
+
+    def extend(self, other):
+        self.answers.extend(other.answers)
 
 
 class University:
@@ -62,9 +73,32 @@ class University:
     def add_credit(self, author: str):
         self.credits.append(author)
 
+    def combine_from(self, other):
+        for this, that in zip(self.answers, other.answers):
+            this.extend(that)
+        self.additional_answers.extend(other.additional_answers)
+        self.credits.extend(other.credits)
 
-def generate_filename(university_name: str):
-    return university_name.replace(' ', '').replace('/', '') + '.md'
+
+class FilenameMap:
+    mapping: dict[str, str]
+    already_exists: set[str]
+
+    def __init__(self):
+        self.mapping = {}
+        self.already_exists = set()
+
+    def __getitem__(self, name: str):
+        value = self.mapping.get(name)
+        if value is None:
+            value = slugify(FILENAME_PREPROCESS.sub('', name.replace(' ', '-')))
+            index = 1
+            while f'{value}-{index}' in self.already_exists:
+                index += 1
+            value = f'{value}-{index}'
+            self.mapping[name] = value
+            self.already_exists.add(value)
+        return value
 
 
 def markdown_escape(text: str):
@@ -83,6 +117,7 @@ def main():
         next(csv_reader)  # here we skip the first line
 
         universities = collections.defaultdict(University)
+        filename_map = FilenameMap()
 
         for row in csv_reader:
             # unpack row into different parts, and ignore 8 items in the end.
@@ -94,6 +129,10 @@ def main():
             # convert `anonymous` and `show_email` to boolean
             anonymous = True if int(anonymous) == 2 else False
             show_email = True if (not anonymous and float(show_email) == 1.0) else False
+
+            # preprocess name
+            name = zhconv.convert(name, 'zh-cn')
+            name = NAME_PREPROCESS.sub('', name).strip()
 
             # if not exists, defaultdict will help create one
             university = universities[name]
@@ -107,10 +146,22 @@ def main():
                 university.add_answer(index, answer)
             university.add_additional_answer(additional_answer)
 
+    # ===== combine colleges =====
+    with open('alias.txt', 'r', encoding='utf-8') as f:
+        for line in f:
+            name, *aliases = line.rstrip('\n').split('🚮')
+            university = universities[name]
+            for alias in aliases:
+                university.combine_from(universities[alias])
+                del universities[alias]
+            if len(university.credits) == 0:
+                del universities[name]
+    del universities['trash_bin']
+
     # ===== write results =====
     os.makedirs('universities', exist_ok=True)
     for name, university in universities.items():
-        filename = join_path('universities', generate_filename(name))
+        filename = join_path('universities', filename_map[name]) + '.md'
         with open(filename, 'w', encoding='utf-8') as f:
             # write header
             f.write(f'# {name}\n\n')
@@ -139,7 +190,7 @@ def main():
         # then, write university links
         university_names = list(universities.keys())
         university_names.sort()
-        university_links = [ '[{}]({})'.format(name, join_path('.', 'universities', generate_filename(name))) for name in university_names ]
+        university_links = [ '[{}]({}.md)'.format(name, join_path('.', 'universities', filename_map[name])) for name in university_names ]
         readme_f.write('\n\n'.join(university_links))
 
 
