@@ -92,10 +92,11 @@ class FilenameMap:
         value = self.mapping.get(name)
         if value is None:
             value = slugify(FILENAME_PREPROCESS.sub('', name.replace(' ', '-')))
-            index = 1
+            index = 0
             while f'{value}-{index}' in self.already_exists:
                 index += 1
-            value = f'{value}-{index}'
+            if index >= 1:
+                value = f'{value}-{index}'
             self.mapping[name] = value
             self.already_exists.add(value)
         return value
