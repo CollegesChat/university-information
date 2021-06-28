@@ -8,15 +8,17 @@
 
 [Iowa state university](./universities/Iowastateuniversity.md)
 
-[New York University](./universities/NewYorkUniversity.md)
+[Kyoto University of Foreign Studies  京都外国語大学](./universities/KyotoUniversityofForeignStudies京都外国語大学.md)
 
-[SCUT](./universities/SCUT.md)
+[New York University](./universities/NewYorkUniversity.md)
 
 [Syracuse University](./universities/SyracuseUniversity.md)
 
 [The University of Sydney](./universities/TheUniversityofSydney.md)
 
 [University of Arts London](./universities/UniversityofArtsLondon.md)
+
+[University of Illinois at Urbana-Champaign](./universities/UniversityofIllinoisatUrbana-Champaign.md)
 
 [University of Melbourne](./universities/UniversityofMelbourne.md)
 
@@ -35,6 +37,10 @@
 [上海交通大学](./universities/上海交通大学.md)
 
 [上海体育学院](./universities/上海体育学院.md)
+
+[上海健康医学院](./universities/上海健康医学院.md)
+
+[上海健康医学院（南苑）](./universities/上海健康医学院（南苑）.md)
 
 [上海同济大学](./universities/上海同济大学.md)
 
@@ -74,6 +80,8 @@
 
 [上海海事大学](./universities/上海海事大学.md)
 
+[上海海事大学（临港校区）](./universities/上海海事大学（临港校区）.md)
+
 [上海海洋大学](./universities/上海海洋大学.md)
 
 [上海理工大学](./universities/上海理工大学.md)
@@ -99,6 +107,8 @@
 [上海财经大学](./universities/上海财经大学.md)
 
 [上海邦德职业技术学院](./universities/上海邦德职业技术学院.md)
+
+[东京大学](./universities/东京大学.md)
 
 [东北农业大学](./universities/东北农业大学.md)
 
@@ -154,6 +164,8 @@
 
 [中国医科大学](./universities/中国医科大学.md)
 
+[中国医科大学沈北校区](./universities/中国医科大学沈北校区.md)
+
 [中国地质大学北京](./universities/中国地质大学北京.md)
 
 [中国地质大学（武汉）](./universities/中国地质大学（武汉）.md)
@@ -167,6 +179,8 @@
 [中国海洋大学](./universities/中国海洋大学.md)
 
 [中国海洋大学（崂山校区）](./universities/中国海洋大学（崂山校区）.md)
+
+[中国消防救援学院](./universities/中国消防救援学院.md)
 
 [中国石油大学](./universities/中国石油大学.md)
 
@@ -193,6 +207,8 @@
 [中国药科大学](./universities/中国药科大学.md)
 
 [中国计量大学](./universities/中国计量大学.md)
+
+[中國石油大學（北京）](./universities/中國石油大學（北京）.md)
 
 [中國美術學院](./universities/中國美術學院.md)
 
@@ -250,6 +266,8 @@
 
 [兰州理工大学](./universities/兰州理工大学.md)
 
+[兰州财经大学](./universities/兰州财经大学.md)
+
 [内蒙古大学](./universities/内蒙古大学.md)
 
 [内蒙古大学(南校区)](./universities/内蒙古大学(南校区).md)
@@ -302,6 +320,8 @@
 
 [北京师范大学珠海分校](./universities/北京师范大学珠海分校.md)
 
+[北京师范大学（北京海淀校区）](./universities/北京师范大学（北京海淀校区）.md)
+
 [北京师范大学（珠海校区）](./universities/北京师范大学（珠海校区）.md)
 
 [北京建筑大学](./universities/北京建筑大学.md)
@@ -342,6 +362,8 @@
 
 [北方工业大学](./universities/北方工业大学.md)
 
+[北部湾大学](./universities/北部湾大学.md)
+
 [华东交通大学](./universities/华东交通大学.md)
 
 [华东师范大学](./universities/华东师范大学.md)
@@ -349,6 +371,8 @@
 [华东师范大学闵行校区](./universities/华东师范大学闵行校区.md)
 
 [华东师范大学（中北校区第五宿舍）](./universities/华东师范大学（中北校区第五宿舍）.md)
+
+[华东师范大学（中北校区）](./universities/华东师范大学（中北校区）.md)
 
 [华东师范大学（闵行校区）](./universities/华东师范大学（闵行校区）.md)
 
@@ -378,6 +402,8 @@
 
 [华北电力大学](./universities/华北电力大学.md)
 
+[华北电力大学(北京)](./universities/华北电力大学(北京).md)
+
 [华北电力大学（保定）](./universities/华北电力大学（保定）.md)
 
 [华北电力大学（北京）](./universities/华北电力大学（北京）.md)
@@ -391,6 +417,8 @@
 [华南理工大学](./universities/华南理工大学.md)
 
 [华南理工大学大学城校区](./universities/华南理工大学大学城校区.md)
+
+[华南理工大学（仅代表五山校区）](./universities/华南理工大学（仅代表五山校区）.md)
 
 [华南理工大学（大学城校区）](./universities/华南理工大学（大学城校区）.md)
 
@@ -418,6 +446,8 @@
 
 [南京工业大学](./universities/南京工业大学.md)
 
+[南京工业职业技术大学](./universities/南京工业职业技术大学.md)
+
 [南京工程学院](./universities/南京工程学院.md)
 
 [南京师范大学](./universities/南京师范大学.md)
@@ -429,6 +459,8 @@
 [南京特殊教育师范学院](./universities/南京特殊教育师范学院.md)
 
 [南京理工大学](./universities/南京理工大学.md)
+
+[南京理工大学紫金学院](./universities/南京理工大学紫金学院.md)
 
 [南京航空航天大学](./universities/南京航空航天大学.md)
 
@@ -443,6 +475,8 @@
 [南京邮电大学（仙林校区）](./universities/南京邮电大学（仙林校区）.md)
 
 [南华大学](./universities/南华大学.md)
+
+[南宁理工学院](./universities/南宁理工学院.md)
 
 [南宁职业技术学院](./universities/南宁职业技术学院.md)
 
@@ -464,6 +498,10 @@
 
 [博尔塔拉职业技术学院](./universities/博尔塔拉职业技术学院.md)
 
+[厦门东海职业技术学院](./universities/厦门东海职业技术学院.md)
+
+[厦门医学院](./universities/厦门医学院.md)
+
 [厦门华厦学院](./universities/厦门华厦学院.md)
 
 [厦门大学](./universities/厦门大学.md)
@@ -471,6 +509,10 @@
 [厦门大学嘉庚学院](./universities/厦门大学嘉庚学院.md)
 
 [厦门大学（思明校区）](./universities/厦门大学（思明校区）.md)
+
+[厦门理工学院](./universities/厦门理工学院.md)
+
+[厦门软件职业技术学院](./universities/厦门软件职业技术学院.md)
 
 [右江民族医学院](./universities/右江民族医学院.md)
 
@@ -481,6 +523,8 @@
 [合肥工业大学（宣城校区）](./universities/合肥工业大学（宣城校区）.md)
 
 [合肥工业大学（屯溪路校区）](./universities/合肥工业大学（屯溪路校区）.md)
+
+[合肥通用职业技术学院](./universities/合肥通用职业技术学院.md)
 
 [吉林医药学院](./universities/吉林医药学院.md)
 
@@ -493,6 +537,8 @@
 [吉林大学（南岭校区）](./universities/吉林大学（南岭校区）.md)
 
 [吉林师范大学](./universities/吉林师范大学.md)
+
+[吉林艺术学院【造型校区】](./universities/吉林艺术学院【造型校区】.md)
 
 [吉林财经大学](./universities/吉林财经大学.md)
 
@@ -508,6 +554,12 @@
 
 [哈尔滨工业大学(威海)](./universities/哈尔滨工业大学(威海).md)
 
+[哈尔滨工业大学(深圳)](./universities/哈尔滨工业大学(深圳).md)
+
+[哈尔滨工业大学二校区](./universities/哈尔滨工业大学二校区.md)
+
+[哈尔滨工业大学威海](./universities/哈尔滨工业大学威海.md)
+
 [哈尔滨工业大学深圳](./universities/哈尔滨工业大学深圳.md)
 
 [哈尔滨工业大学（威海）](./universities/哈尔滨工业大学（威海）.md)
@@ -517,6 +569,8 @@
 [哈尔滨工程大学](./universities/哈尔滨工程大学.md)
 
 [哈尔滨师范大学](./universities/哈尔滨师范大学.md)
+
+[哈尔滨理工大学](./universities/哈尔滨理工大学.md)
 
 [商丘学院](./universities/商丘学院.md)
 
@@ -534,6 +588,8 @@
 
 [嘉里顿学院](./universities/嘉里顿学院.md)
 
+[嘿嘿](./universities/嘿嘿.md)
+
 [四川传媒学院](./universities/四川传媒学院.md)
 
 [四川农业大学](./universities/四川农业大学.md)
@@ -544,11 +600,17 @@
 
 [四川外国语大学](./universities/四川外国语大学.md)
 
+[四川外国语大学成都学院](./universities/四川外国语大学成都学院.md)
+
 [四川大学](./universities/四川大学.md)
+
+[四川大学江安](./universities/四川大学江安.md)
 
 [四川大学江安校区](./universities/四川大学江安校区.md)
 
 [四川大学锦城学院](./universities/四川大学锦城学院.md)
+
+[四川大学锦江学院](./universities/四川大学锦江学院.md)
 
 [四川大学（江安校区）](./universities/四川大学（江安校区）.md)
 
@@ -572,6 +634,8 @@
 
 [大连东软信息学院](./universities/大连东软信息学院.md)
 
+[大连交通大学](./universities/大连交通大学.md)
+
 [大连医科大学](./universities/大连医科大学.md)
 
 [大连外国语大学](./universities/大连外国语大学.md)
@@ -590,6 +654,8 @@
 
 [大连理工大学(软件学院)](./universities/大连理工大学(软件学院).md)
 
+[大连理工大学（开发区校区）](./universities/大连理工大学（开发区校区）.md)
+
 [大连职业技术学院](./universities/大连职业技术学院.md)
 
 [天津中医药大学](./universities/天津中医药大学.md)
@@ -599,6 +665,8 @@
 [天津农学院](./universities/天津农学院.md)
 
 [天津医科大学](./universities/天津医科大学.md)
+
+[天津商业大学](./universities/天津商业大学.md)
 
 [天津城建大学](./universities/天津城建大学.md)
 
@@ -662,6 +730,8 @@
 
 [安徽师范大学](./universities/安徽师范大学.md)
 
+[安徽师范大学（花津校区）](./universities/安徽师范大学（花津校区）.md)
+
 [安徽理工大学](./universities/安徽理工大学.md)
 
 [宜宾学院](./universities/宜宾学院.md)
@@ -683,6 +753,10 @@
 [山东交通学院（威海校区）](./universities/山东交通学院（威海校区）.md)
 
 [山东传媒职业学院](./universities/山东传媒职业学院.md)
+
+[山东农业大学](./universities/山东农业大学.md)
+
+[山东医学高等专科学校(校本部)](./universities/山东医学高等专科学校(校本部).md)
 
 [山东商务职业学院](./universities/山东商务职业学院.md)
 
@@ -724,9 +798,13 @@
 
 [山东科技大学](./universities/山东科技大学.md)
 
+[山东科技职业学院](./universities/山东科技职业学院.md)
+
 [山东第一医科大学](./universities/山东第一医科大学.md)
 
 [山东第一医科大学（山东省医学科学院）](./universities/山东第一医科大学（山东省医学科学院）.md)
+
+[山东管理学院](./universities/山东管理学院.md)
 
 [山东药品食品职业学院](./universities/山东药品食品职业学院.md)
 
@@ -747,6 +825,8 @@
 [山西大学附属中学](./universities/山西大学附属中学.md)
 
 [山西经贸职业学院/山西经济管理干部学院](./universities/山西经贸职业学院山西经济管理干部学院.md)
+
+[山西财经大学](./universities/山西财经大学.md)
 
 [岭南师范学院](./universities/岭南师范学院.md)
 
@@ -776,6 +856,10 @@
 
 [广东女子职业技术学院](./universities/广东女子职业技术学院.md)
 
+[广东岭南职业技术学院(广州校区)](./universities/广东岭南职业技术学院(广州校区).md)
+
+[广东岭南职业技术学院(清远校区)](./universities/广东岭南职业技术学院(清远校区).md)
+
 [广东工业大学](./universities/广东工业大学.md)
 
 [广东工业大学东风路校区](./universities/广东工业大学东风路校区.md)
@@ -784,9 +868,13 @@
 
 [广东松山职业技术学院](./universities/广东松山职业技术学院.md)
 
+[广东水利电力职业技术学院](./universities/广东水利电力职业技术学院.md)
+
 [广东海洋大学](./universities/广东海洋大学.md)
 
 [广东理工学院](./universities/广东理工学院.md)
+
+[广东白云学院](./universities/广东白云学院.md)
 
 [广东石油化工学院](./universities/广东石油化工学院.md)
 
@@ -795,6 +883,8 @@
 [广东药科大学](./universities/广东药科大学.md)
 
 [广东药科大学（云浮）](./universities/广东药科大学（云浮）.md)
+
+[广东警官学院](./universities/广东警官学院.md)
 
 [广东财经大学](./universities/广东财经大学.md)
 
@@ -837,6 +927,8 @@
 [广西医科大学](./universities/广西医科大学.md)
 
 [广西大学](./universities/广西大学.md)
+
+[广西大学行健文理学院](./universities/广西大学行健文理学院.md)
 
 [广西大学行健文理学院（广西农业职业技术大学）](./universities/广西大学行健文理学院（广西农业职业技术大学）.md)
 
@@ -912,6 +1004,8 @@
 
 [新乡学院](./universities/新乡学院.md)
 
+[新疆农业大学科学技术学院](./universities/新疆农业大学科学技术学院.md)
+
 [新疆师范大学](./universities/新疆师范大学.md)
 
 [无锡太湖学院](./universities/无锡太湖学院.md)
@@ -928,6 +1022,8 @@
 
 [暨南大学](./universities/暨南大学.md)
 
+[曲阜师范大学](./universities/曲阜师范大学.md)
+
 [杭州医学院(临安校区)](./universities/杭州医学院(临安校区).md)
 
 [杭州师范大学](./universities/杭州师范大学.md)
@@ -935,6 +1031,8 @@
 [杭州电子科技大学](./universities/杭州电子科技大学.md)
 
 [枣庄学院](./universities/枣庄学院.md)
+
+[桂林信息科技学院(原桂林电子科技大学信息科技学院)](./universities/桂林信息科技学院(原桂林电子科技大学信息科技学院).md)
 
 [桂林学院](./universities/桂林学院.md)
 
@@ -954,11 +1052,15 @@
 
 [武汉传媒学院](./universities/武汉传媒学院.md)
 
+[武汉华夏理工学院](./universities/武汉华夏理工学院.md)
+
 [武汉商学院](./universities/武汉商学院.md)
 
 [武汉大学](./universities/武汉大学.md)
 
 [武汉大学（信息学部）](./universities/武汉大学（信息学部）.md)
+
+[武汉工程大学](./universities/武汉工程大学.md)
 
 [武汉工程科技学院](./universities/武汉工程科技学院.md)
 
@@ -1006,7 +1108,11 @@
 
 [江苏大学京江学院](./universities/江苏大学京江学院.md)
 
+[江苏海洋大学](./universities/江苏海洋大学.md)
+
 [江苏理工学院](./universities/江苏理工学院.md)
+
+[江苏科技大学](./universities/江苏科技大学.md)
 
 [江西工业工程职业技术学院](./universities/江西工业工程职业技术学院.md)
 
@@ -1038,13 +1144,19 @@
 
 [沈阳药科大学](./universities/沈阳药科大学.md)
 
+[沈阳音乐学院](./universities/沈阳音乐学院.md)
+
 [沧州师范学院](./universities/沧州师范学院.md)
+
+[河北东方学院](./universities/河北东方学院.md)
 
 [河北中医学院](./universities/河北中医学院.md)
 
 [河北传媒学院](./universities/河北传媒学院.md)
 
 [河北医科大学](./universities/河北医科大学.md)
+
+[河北司法警官职业学院](./universities/河北司法警官职业学院.md)
 
 [河北外国语学院](./universities/河北外国语学院.md)
 
@@ -1059,6 +1171,8 @@
 [河北民族师范学院](./universities/河北民族师范学院.md)
 
 [河北科技大学](./universities/河北科技大学.md)
+
+[河北科技工程职业技术大学（原邢台职业技术学院）](./universities/河北科技工程职业技术大学（原邢台职业技术学院）.md)
 
 [河北经贸大学](./universities/河北经贸大学.md)
 
@@ -1085,6 +1199,10 @@
 [河海大学](./universities/河海大学.md)
 
 [河源职业技术学院](./universities/河源职业技术学院.md)
+
+[泉州师范学院](./universities/泉州师范学院.md)
+
+[洛阳理工学院](./universities/洛阳理工学院.md)
 
 [济南大学](./universities/济南大学.md)
 
@@ -1114,9 +1232,13 @@
 
 [浙江师范大学](./universities/浙江师范大学.md)
 
+[浙江树人大学 - 杨汛桥校区](./universities/浙江树人大学-杨汛桥校区.md)
+
 [浙江水利水电学院](./universities/浙江水利水电学院.md)
 
 [浙江海洋大学](./universities/浙江海洋大学.md)
+
+[浙江海洋大学（长峙校区）](./universities/浙江海洋大学（长峙校区）.md)
 
 [浙江理工大学](./universities/浙江理工大学.md)
 
@@ -1127,6 +1249,8 @@
 [浙江财经大学](./universities/浙江财经大学.md)
 
 [浙江财经大学东方学院](./universities/浙江财经大学东方学院.md)
+
+[海军军医大学](./universities/海军军医大学.md)
 
 [海南医学院](./universities/海南医学院.md)
 
@@ -1148,11 +1272,15 @@
 
 [深圳大学（丽湖校区）](./universities/深圳大学（丽湖校区）.md)
 
+[深圳市翠园中学](./universities/深圳市翠园中学.md)
+
 [深圳技术大学](./universities/深圳技术大学.md)
 
 [深圳职业技术学院](./universities/深圳职业技术学院.md)
 
 [清华大学](./universities/清华大学.md)
+
+[清远职业技术学院](./universities/清远职业技术学院.md)
 
 [渤海大学](./universities/渤海大学.md)
 
@@ -1168,7 +1296,11 @@
 
 [湖北大学](./universities/湖北大学.md)
 
+[湖北大学知行学院](./universities/湖北大学知行学院.md)
+
 [湖北工业大学](./universities/湖北工业大学.md)
+
+[湖北工业大学工程技术学院](./universities/湖北工业大学工程技术学院.md)
 
 [湖北师范大学](./universities/湖北师范大学.md)
 
@@ -1208,6 +1340,8 @@
 
 [湖南工商大学](./universities/湖南工商大学.md)
 
+[湖南工学院](./universities/湖南工学院.md)
+
 [湖南师范大学](./universities/湖南师范大学.md)
 
 [湖南环境生物职业技术学院](./universities/湖南环境生物职业技术学院.md)
@@ -1236,6 +1370,8 @@
 
 [澳门城市大学](./universities/澳门城市大学.md)
 
+[澳门大学](./universities/澳门大学.md)
+
 [澳门科技大学](./universities/澳门科技大学.md)
 
 [烟台大学](./universities/烟台大学.md)
@@ -1255,6 +1391,8 @@
 [电子科技大学中山学院](./universities/电子科技大学中山学院.md)
 
 [电子科技大学成都学院](./universities/电子科技大学成都学院.md)
+
+[电子科技大学沙河校区](./universities/电子科技大学沙河校区.md)
 
 [电子科技大学（沙河校区）](./universities/电子科技大学（沙河校区）.md)
 
@@ -1305,6 +1443,8 @@
 [福建幼儿师范高等专科学院](./universities/福建幼儿师范高等专科学院.md)
 
 [福建江夏学院](./universities/福建江夏学院.md)
+
+[福建船政交通职业学院](./universities/福建船政交通职业学院.md)
 
 [纽约大学](./universities/纽约大学.md)
 
@@ -1380,6 +1520,8 @@
 
 [西安交通大学（兴庆校区）](./universities/西安交通大学（兴庆校区）.md)
 
+[西安交通工程学院](./universities/西安交通工程学院.md)
+
 [西安医学院](./universities/西安医学院.md)
 
 [西安培华学院](./universities/西安培华学院.md)
@@ -1390,9 +1532,13 @@
 
 [西安建筑科技大学](./universities/西安建筑科技大学.md)
 
+[西安文理学院](./universities/西安文理学院.md)
+
 [西安理工大学](./universities/西安理工大学.md)
 
 [西安电子科技大学](./universities/西安电子科技大学.md)
+
+[西安电子科技大学长安校区](./universities/西安电子科技大学长安校区.md)
 
 [西安电子科技大学（南校区）](./universities/西安电子科技大学（南校区）.md)
 
@@ -1408,6 +1554,8 @@
 
 [西安邮电大学](./universities/西安邮电大学.md)
 
+[许昌学院](./universities/许昌学院.md)
+
 [豫章师范学院](./universities/豫章师范学院.md)
 
 [贵州大学](./universities/贵州大学.md)
@@ -1415,6 +1563,10 @@
 [贵州财经大学](./universities/贵州财经大学.md)
 
 [赣南师范大学](./universities/赣南师范大学.md)
+
+[辽宁中医药大学](./universities/辽宁中医药大学.md)
+
+[辽宁何氏医学院](./universities/辽宁何氏医学院.md)
 
 [辽宁地质工程职业学院](./universities/辽宁地质工程职业学院.md)
 
@@ -1450,13 +1602,19 @@
 
 [郑州经贸学院](./universities/郑州经贸学院.md)
 
+[郑州西亚斯学院](./universities/郑州西亚斯学院.md)
+
 [郑州财经学院](./universities/郑州财经学院.md)
 
 [郑州轻工业大学](./universities/郑州轻工业大学.md)
 
+[郑州轻工业大学易斯顿美术学院](./universities/郑州轻工业大学易斯顿美术学院.md)
+
 [重庆三峡学院](./universities/重庆三峡学院.md)
 
 [重庆交通大学](./universities/重庆交通大学.md)
+
+[重庆信息技术学校](./universities/重庆信息技术学校.md)
 
 [重庆医科大学](./universities/重庆医科大学.md)
 
@@ -1524,9 +1682,15 @@
 
 [集美大学](./universities/集美大学.md)
 
+[集美大学航海学院](./universities/集美大学航海学院.md)
+
+[集美大学诚毅学院](./universities/集美大学诚毅学院.md)
+
 [青岛农业大学](./universities/青岛农业大学.md)
 
 [青岛大学](./universities/青岛大学.md)
+
+[青岛滨海学院](./universities/青岛滨海学院.md)
 
 [青岛理工大学](./universities/青岛理工大学.md)
 
@@ -1564,17 +1728,19 @@
 
 [香港理工大学](./universities/香港理工大学.md)
 
+[香港科技大学](./universities/香港科技大学.md)
+
 [鲁东大学](./universities/鲁东大学.md)
 
 [鲁迅美术学院大连校区](./universities/鲁迅美术学院大连校区.md)
-
-[麻省理工](./universities/麻省理工.md)
 
 [黄冈师范学院](./universities/黄冈师范学院.md)
 
 [黄冈职业技术学院](./universities/黄冈职业技术学院.md)
 
 [黄河科技学院应用技术学院](./universities/黄河科技学院应用技术学院.md)
+
+[黄淮学院](./universities/黄淮学院.md)
 
 [黑龙江东方学院](./universities/黑龙江东方学院.md)
 
@@ -1583,6 +1749,8 @@
 [黑龙江八一农垦大学](./universities/黑龙江八一农垦大学.md)
 
 [黑龙江大学](./universities/黑龙江大学.md)
+
+[黑龙江科技大学](./universities/黑龙江科技大学.md)
 
 [齐鲁工业大学](./universities/齐鲁工业大学.md)
 
