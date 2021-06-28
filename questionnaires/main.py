@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
-# -*- coding: utf-8 -*-
+# -*- encoding: utf-8 -*-
 
-from dataclasses import dataclass, field
 import collections
 import csv
 import os
@@ -34,19 +33,25 @@ questionnaire = [
     '宿舍晚上查寝吗，封寝吗，晚归能回去吗？']
 
 
-@dataclass
 class AnswerGroup:
-    answers: list[str] = field(default_factory=list)
+    answers: list[str]
+
+    def __init__(self):
+        self.answers = []
 
     def add_answer(self, answer: str):
         self.answers.append(answer)
 
 
-@dataclass
 class University:
-    answers: list[AnswerGroup] = field(default_factory=lambda: [AnswerGroup() for _ in range(len(questionnaire))])
-    additional_answers: list[str] = field(default_factory=list)
-    credits: list[str] = field(default_factory=list)
+    answers: list[AnswerGroup]
+    additional_answers: list[str]
+    credits: list[str]
+
+    def __init__(self):
+        self.answers = [AnswerGroup() for _ in range(len(questionnaire))]
+        self.additional_answers = []
+        self.credits = []
 
     def add_answer(self, index: int, answer: str):
         self.answers[index].add_answer(answer)
@@ -72,7 +77,7 @@ def join_path(*paths):
 
 
 def main():
-    # read from csv
+    # ===== read from csv =====
     with open('results_desensitized.csv', 'r', encoding='gb18030') as f:
         csv_reader = csv.reader(f)
         next(csv_reader)  # here we skip the first line
@@ -82,7 +87,7 @@ def main():
         for row in csv_reader:
             # unpack row into different parts, and ignore 8 items in the end.
             # `anonymous`: `2` means anonymous, and `1` not.
-            # if anonymous, email is empty.
+            # if `anonymous` is True, `email` is empty.
             _, _, anonymous, email, show_email, name, *answers = row[:-9]
             additional_answer = row[-9]
 
@@ -102,7 +107,7 @@ def main():
                 university.add_answer(index, answer)
             university.add_additional_answer(additional_answer)
 
-    # write results
+    # ===== write results =====
     os.makedirs('universities', exist_ok=True)
     for name, university in universities.items():
         filename = join_path('universities', generate_filename(name))
@@ -118,10 +123,8 @@ def main():
                 for index, answer in enumerate(answers.answers, start=1):
                     f.write(f'- A{index}: {markdown_escape(answer)}\n\n')
 
-            # write additional parts
-            additional_answers = university.additional_answers
-            additional_answers = [ answer for answer in additional_answers if len(answer) > 0 ]
-            additional_answers = list(map(lambda text: markdown_escape(text).replace('\n', '\n\n'), additional_answers))
+            # write additional answers
+            additional_answers = [ markdown_escape(text).replace('\n', '\n\n') for text in university.additional_answers if len(text) > 0 ]
             if len(additional_answers) > 0:
                 f.write('## 自由补充部分\n\n')
                 f.write('\n\n***\n\n'.join(additional_answers))
