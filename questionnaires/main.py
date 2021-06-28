@@ -88,15 +88,20 @@ class FilenameMap:
         self.mapping = {}
         self.already_exists = set()
 
+    def format(self, name: str, index: int):
+        if index > 1:
+            return f'{name}-{index}'
+        else:
+            return name
+
     def __getitem__(self, name: str):
         value = self.mapping.get(name)
         if value is None:
             value = slugify(FILENAME_PREPROCESS.sub('', name.replace(' ', '-')))
-            index = 0
-            while f'{value}-{index}' in self.already_exists:
+            index = 1
+            while self.format(value, index) in self.already_exists:
                 index += 1
-            if index >= 1:
-                value = f'{value}-{index}'
+            value = self.format(value, index)
             self.mapping[name] = value
             self.already_exists.add(value)
         return value
