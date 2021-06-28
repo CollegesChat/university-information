@@ -220,8 +220,6 @@
 
 [中山大学珠海校区](./universities/zhong-shan-da-xue-zhu-hai-xiao-qu-1.md)
 
-[中山大学珠海校区，括号删掉](./universities/zhong-shan-da-xue-zhu-hai-xiao-qu-gua-hao-shan-diao-1.md)
-
 [中恒学校](./universities/zhong-heng-xue-xiao-1.md)
 
 [丽水学院](./universities/li-shui-xue-yuan-1.md)
