@@ -54,8 +54,6 @@
 
 [上海城建职业学院](./universities/shang-hai-cheng-jian-zhi-ye-xue-yuan.md)
 
-[上海复旦大学](./universities/shang-hai-fu-dan-da-xue.md)
-
 [上海外国语大学](./universities/shang-hai-wai-guo-yu-da-xue.md)
 
 [上海外国语大学贤达经济人文学院](./universities/shang-hai-wai-guo-yu-da-xue-xian-da-jing-ji-ren-wen-xue-yuan.md)
@@ -171,8 +169,6 @@
 [中国人民警察大学](./universities/zhong-guo-ren-min-jing-cha-da-xue.md)
 
 [中国传媒大学](./universities/zhong-guo-chuan-mei-da-xue.md)
-
-[中国传媒大学南广学院](./universities/zhong-guo-chuan-mei-da-xue-nan-yan-xue-yuan.md)
 
 [中国农业大学](./universities/zhong-guo-nong-ye-da-xue.md)
 
@@ -485,8 +481,6 @@
 [南京农业大学](./universities/nan-jing-nong-ye-da-xue.md)
 
 [南京农业大学工学院](./universities/nan-jing-nong-ye-da-xue-gong-xue-yuan.md)
-
-[南京农业大学浦口校区](./universities/nan-jing-nong-ye-da-xue-pu-kou-xiao-qu.md)
 
 [南京医科大学](./universities/nan-jing-yi-ke-da-xue.md)
 
@@ -2041,4 +2035,6 @@
 桂林电子科技大学信息科技学院 → [桂林信息科技学院](./universities/gui-lin-xin-xi-ke-ji-xue-yuan.md)
 
 邢台职业技术学院 → [河北科技工程职业技术大学](./universities/he-bei-ke-ji-gong-cheng-zhi-ye-ji-zhu-da-xue.md)
+
+中国传媒大学南广学院 → [南京传媒学院](./universities/nan-jing-chuan-mei-xue-yuan.md)
 
