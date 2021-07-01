@@ -202,9 +202,8 @@ def main():
             print(f'[warning] \033[0;36m{name}\033[0m may be invalid')
 
     # ===== write results =====
-    shutil.rmtree('dist', ignore_errors=True)
-
-    os.mkdir('dist')
+    os.makedirs('dist', exist_ok=True)
+    shutil.rmtree(join_path('dist', 'universities'), ignore_errors=True)
     os.mkdir(join_path('dist', 'universities'))
 
     for name, university in universities.items():

@@ -44,4 +44,4 @@ jobs:
         commit_message: |
           update generated data
 
-          Triggered by $GITHUB_SHA
+          Triggered by ${{ github.sha }}
