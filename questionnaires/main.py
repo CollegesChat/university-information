@@ -39,6 +39,7 @@ questionnaire = [
 
 NAME_PREPROCESS = re.compile(r'[\(\)（）【】#]')
 FILENAME_PREPROCESS = re.compile(r'[/>|:&]')
+NORMAL_NAME_MATCHER = re.compile(r'大学|学院|学校')
 
 class AnswerGroup:
     answers: list
@@ -160,8 +161,7 @@ def main():
             # preprocess name
             name = zhconv.convert(name, 'zh-cn')
             name = NAME_PREPROCESS.sub('', name).strip()
-            if not (("大学" or "学院" or "学校") in name):
-                continue
+
             # if not exists, defaultdict will help create one
             university = universities[name]
 
@@ -190,6 +190,10 @@ def main():
             name = line.rstrip('\n')
             if name in universities:
                 del universities[name]
+
+    for name in universities.keys():
+        if NORMAL_NAME_MATCHER.search(name) is None:
+            print(f'[warning] \033[0;36m{name}\033[0m may be invalid')
 
     # ===== write results =====
     os.makedirs('universities', exist_ok=True)
