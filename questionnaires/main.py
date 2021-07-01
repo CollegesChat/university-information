@@ -144,7 +144,7 @@ def load_colleges():
 
 def main():
     provinces, colleges = load_colleges()
-
+    
     # ===== read from csv =====
     with open('results_desensitized.csv', 'r', encoding='gb18030') as f:
         csv_reader = csv.reader(f)
@@ -189,17 +189,23 @@ def main():
                 university.combine_from(universities[alias])
                 del universities[alias]
             if len(university.credits) == 0:
-                del universities[name]
-
+                del universities[name]
     with open('blacklist.txt', 'r', encoding='utf-8') as f:
         for line in f:
             name = line.rstrip('\n')
             if name in universities:
                 del universities[name]
-
+    
+    whitelist = set()
+    with open('whitelist.txt', 'r', encoding='utf-8') as f:
+        for line in f:
+            tmp_name = line.rstrip('\n')
+            whitelist.add(tmp_name)
+            
     for name in universities.keys():
         if NORMAL_NAME_MATCHER.search(name) is None:
-            print(f'[warning] \033[0;36m{name}\033[0m may be invalid')
+            if not name in whitelist:
+                print(f'[warning] \033[0;36m{name}\033[0m may be invalid')
 
     # ===== write results =====
     os.makedirs('dist', exist_ok=True)
