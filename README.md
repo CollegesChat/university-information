@@ -5,7 +5,7 @@
 这是一个受 https://t.me/RiNGNiR/3571 和 https://t.me/RiNGNiR/3572 启发的项目，意在收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节。
 
 ## 查询 & 贡献 & 提问
-问卷资料查询请前往 [https://colleges.chat](https://colleges.chat)
+问卷资料查询请前往 [https://colleges.chat](https://colleges.chat) (本项目自动生成的 .md 资料文件请前往 [generated 分支](https://github.com/CollegesChat/university-information/tree/generated))
 
 贡献、提问、部分资料查询请前往 [Discussions](https://github.com/YanWQ-monad/university-information/discussions)
 
