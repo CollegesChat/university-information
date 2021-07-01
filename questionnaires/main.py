@@ -6,6 +6,7 @@ import collections
 import csv
 import os
 import re
+import shutil
 import typing
 import zhconv
 
@@ -201,10 +202,14 @@ def main():
             print(f'[warning] \033[0;36m{name}\033[0m may be invalid')
 
     # ===== write results =====
-    os.makedirs('universities', exist_ok=True)
+    shutil.rmtree('dist', ignore_errors=True)
+
+    os.mkdir('dist')
+    os.mkdir(join_path('dist', 'universities'))
+
     for name, university in universities.items():
         filename = generate_markdown_path(filename_map[name], False)
-        with open(filename, 'w', encoding='utf-8') as f:
+        with open(join_path('dist', filename), 'w', encoding='utf-8') as f:
             # write header
             f.write(f'# {name}\n\n')
             f.write('> 数据来源：{}\n\n'.format(' + '.join(university.credits)))
@@ -222,9 +227,9 @@ def main():
                 f.write('## 自由补充部分\n\n')
                 f.write('\n\n***\n\n'.join(additional_answers))
 
-    with open('README.md', 'w', encoding='utf-8') as readme_f,\
+    with open(join_path('dist', 'README.md'), 'w', encoding='utf-8') as readme_f,\
          open('README_template.md', 'r', encoding='utf-8') as template_f,\
-         open('nav.txt', 'w', encoding='utf-8') as nav_f:
+         open(join_path('dist', 'nav.txt'), 'w', encoding='utf-8') as nav_f:
 
         # first, copy template
         template = template_f.read()
