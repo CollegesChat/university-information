@@ -160,7 +160,8 @@ def main():
             # preprocess name
             name = zhconv.convert(name, 'zh-cn')
             name = NAME_PREPROCESS.sub('', name).strip()
-
+            if not (("大学" or "学院" or "学校") in name):
+                continue
             # if not exists, defaultdict will help create one
             university = universities[name]
 
@@ -183,7 +184,7 @@ def main():
                 del universities[alias]
             if len(university.credits) == 0:
                 del universities[name]
-    del universities['trash_bin']
+    del universities['blacklist']
 
     # ===== write results =====
     os.makedirs('universities', exist_ok=True)
