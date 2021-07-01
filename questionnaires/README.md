@@ -1706,7 +1706,7 @@
 
 [西北工业大学](./universities/xi-bei-gong-ye-da-xue.md)
 
-[西北工业大学长安校区，大一大二学生及7院往后的大三大四学生](./universities/xi-bei-gong-ye-da-xue-chang-an-xiao-qu-da-yi-da-er-xue-sheng-ji-7yuan-wang-hou-de-da-san-da-si-xue-sheng.md)
+[西北工业大学长安校区](./universities/xi-bei-gong-ye-da-xue-chang-an-xiao-qu.md)
 
 [西北政法大学](./universities/xi-bei-zheng-fa-da-xue.md)
 
@@ -1868,7 +1868,7 @@
 
 [重庆理工大学](./universities/zhong-qing-li-gong-da-xue.md)
 
-[重庆科技学院 ps：最近可能会改名为大学](./universities/zhong-qing-ke-ji-xue-yuan-ps-zui-jin-ke-neng-hui-gai-ming-wei-da-xue.md)
+[重庆科技学院](./universities/zhong-qing-ke-ji-xue-yuan.md)
 
 [重庆轻工职业学院](./universities/zhong-qing-qing-gong-zhi-ye-xue-yuan.md)
 

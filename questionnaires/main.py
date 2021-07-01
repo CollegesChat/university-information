@@ -40,9 +40,8 @@ questionnaire = [
 NAME_PREPROCESS = re.compile(r'[\(\)（）【】#]')
 FILENAME_PREPROCESS = re.compile(r'[/>|:&]')
 
-
 class AnswerGroup:
-    answers: list[str]
+    answers: list
 
     def __init__(self):
         self.answers = []
@@ -55,9 +54,9 @@ class AnswerGroup:
 
 
 class University:
-    answers: list[AnswerGroup]
-    additional_answers: list[str]
-    credits: list[str]
+    answers: list
+    additional_answers: list
+    credits: list
 
     def __init__(self):
         self.answers = [AnswerGroup() for _ in range(len(questionnaire))]
@@ -81,8 +80,8 @@ class University:
 
 
 class FilenameMap:
-    mapping: dict[str, str]
-    already_exists: set[str]
+    mapping: dict
+    already_exists: set
 
     def __init__(self):
         self.mapping = {}
@@ -122,8 +121,23 @@ def generate_markdown_path(name: str, in_readme: bool):
         paths = ['.'] + paths
     return join_path(*paths) + '.md'
 
+def load_colleges():
+    with open('colleges.csv', 'r', encoding='utf-8') as f:
+        csv_reader = csv.reader(f)
+        result = {}
+        prov = {}
+
+        for row in csv_reader:
+            province, college = row
+            result[NAME_PREPROCESS.sub('', college).replace(' ','')] = province
+            if province not in prov:
+                prov[province] = []
+        
+        prov['其他']=[]
+        return prov, result  
 
 def main():
+    prov, colleges = load_colleges()
     # ===== read from csv =====
     with open('results_desensitized.csv', 'r', encoding='gb18030') as f:
         csv_reader = csv.reader(f)
@@ -194,7 +208,9 @@ def main():
                 f.write('\n\n***\n\n'.join(additional_answers))
 
     with open('README.md', 'w', encoding='utf-8') as readme_f,\
-         open('README_template.md', 'r', encoding='utf-8') as template_f:
+         open('README_template.md', 'r', encoding='utf-8') as template_f,\
+         open('nav.txt', 'w', encoding='utf-8') as nav_f:
+
         # first, copy template
         template = template_f.read()
         readme_f.write(template)
@@ -205,6 +221,21 @@ def main():
         university_names.sort()
         university_links = [ '[{}]({})'.format(name, generate_markdown_path(filename_map[name], True)) for name in university_names ]
         readme_f.write('\n\n'.join(university_links))
+
+        sorted_colleges_keys = sorted(colleges.keys())
+
+        for uname in university_names:
+            belong_prov = '其他'
+            for ckey in sorted_colleges_keys:
+                if (uname.find(ckey)>=0):
+                    belong_prov = colleges[ckey]
+            prov[belong_prov].append(uname)
+        
+        for p in prov:
+            nav_f.write('    - %s:\n'%p)
+            prov[p].sort()
+            for c in prov[p]:
+                nav_f.write('      - %s: %s\n'%(c,generate_markdown_path(filename_map[c], True)[2:]))
 
         # and, write renamed colleges
         readme_f.write('\n\n### 更名的大学\n\n')
@@ -217,3 +248,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+main()
