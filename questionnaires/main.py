@@ -122,30 +122,35 @@ def generate_markdown_path(name: str, in_readme: bool):
         paths = ['.'] + paths
     return join_path(*paths) + '.md'
 
+
 def load_colleges():
+    colleges = {}
+    provinces = {}
     with open('colleges.csv', 'r', encoding='utf-8') as f:
         csv_reader = csv.reader(f)
-        result = {}
-        prov = {}
 
         for row in csv_reader:
             province, college = row
-            result[NAME_PREPROCESS.sub('', college).replace(' ','')] = province
-            if province not in prov:
-                prov[province] = []
-        
-        prov['其他']=[]
-        return prov, result  
+            colleges[NAME_PREPROCESS.sub('', college).replace(' ','')] = province
+            if province not in provinces:
+                provinces[province] = []
+        provinces['其他'] = []
+
+    # `provinces`: an dict whose keys are provinces and values are empty
+    # `colleges`: dict, college name => province
+    return provinces, colleges  
+
 
 def main():
-    prov, colleges = load_colleges()
+    provinces, colleges = load_colleges()
+
     # ===== read from csv =====
     with open('results_desensitized.csv', 'r', encoding='gb18030') as f:
         csv_reader = csv.reader(f)
         next(csv_reader)  # here we skip the first line
 
         universities = collections.defaultdict(University)
-        filename_map = FilenameMap()
+        filename_map = FilenameMap()  # university name => filename
 
         for row in csv_reader:
             # unpack row into different parts, and ignore 8 items in the end.
@@ -234,18 +239,18 @@ def main():
 
         sorted_colleges_keys = sorted(colleges.keys())
 
-        for uname in university_names:
-            belong_prov = '其他'
-            for ckey in sorted_colleges_keys:
-                if (uname.find(ckey)>=0):
-                    belong_prov = colleges[ckey]
-            prov[belong_prov].append(uname)
-        
-        for p in prov:
-            nav_f.write('    - %s:\n'%p)
-            prov[p].sort()
-            for c in prov[p]:
-                nav_f.write('      - %s: %s\n'%(c,generate_markdown_path(filename_map[c], True)[2:]))
+        for name in university_names:
+            belong_province = '其他'
+            for college in sorted_colleges_keys:
+                if name.find(college) >= 0:
+                    belong_province = colleges[college]
+            provinces[belong_province].append(name)
+
+        for province, colleges in provinces.items():
+            nav_f.write(f'    - {province}:\n')
+            colleges.sort()
+            for name in colleges:
+                nav_f.write('      - {}: {}\n'.format(name, generate_markdown_path(filename_map[name], False)))
 
         # and, write renamed colleges
         readme_f.write('\n\n### 更名的大学\n\n')
