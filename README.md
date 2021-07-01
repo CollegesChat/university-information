@@ -428,6 +428,8 @@
 
 [华中科技大学文华学院](./universities/hua-zhong-ke-ji-da-xue-wen-hua-xue-yuan.md)
 
+[华中科技大学网络空间安全学院校区](./universities/hua-zhong-ke-ji-da-xue-wang-luo-kong-jian-an-quan-xue-yuan-xiao-qu.md)
+
 [华侨大学](./universities/hua-qiao-da-xue.md)
 
 [华侨大学泉州校区](./universities/hua-qiao-da-xue-quan-zhou-xiao-qu.md)
@@ -643,6 +645,8 @@
 [哈尔滨理工大学](./universities/ha-er-bin-li-gong-da-xue.md)
 
 [哈尔滨理工大学荣成学院](./universities/ha-er-bin-li-gong-da-xue-rong-cheng-xue-yuan.md)
+
+[哈尔滨科学技术职业学院](./universities/ha-er-bin-ke-xue-ji-zhu-zhi-ye-xue-yuan.md)
 
 [唐山学院](./universities/tang-shan-xue-yuan.md)
 
@@ -1252,6 +1256,8 @@
 
 [江西科技师范大学](./universities/jiang-xi-ke-ji-shi-fan-da-xue.md)
 
+[江西科技职业学院](./universities/jiang-xi-ke-ji-zhi-ye-xue-yuan.md)
+
 [江西财经大学](./universities/jiang-xi-cai-jing-da-xue.md)
 
 [江西陶瓷工艺美术职业技术学院](./universities/jiang-xi-tao-ci-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md)
@@ -1351,6 +1357,8 @@
 [河源职业技术学院](./universities/he-yuan-zhi-ye-ji-zhu-xue-yuan.md)
 
 [泉州师范学院](./universities/quan-zhou-shi-fan-xue-yuan.md)
+
+[泉州职业技术大学](./universities/quan-zhou-zhi-ye-ji-zhu-da-xue.md)
 
 [泰山学院](./universities/tai-shan-xue-yuan.md)
 

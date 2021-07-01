@@ -227,6 +227,7 @@
       - 哈尔滨师范大学: universities/ha-er-bin-shi-fan-da-xue.md
       - 哈尔滨理工大学: universities/ha-er-bin-li-gong-da-xue.md
       - 哈尔滨理工大学荣成学院: universities/ha-er-bin-li-gong-da-xue-rong-cheng-xue-yuan.md
+      - 哈尔滨科学技术职业学院: universities/ha-er-bin-ke-xue-ji-zhu-zhi-ye-xue-yuan.md
       - 黑龙江东方学院: universities/hei-long-jiang-dong-fang-xue-yuan.md
       - 黑龙江中医药大学: universities/hei-long-jiang-zhong-yi-yao-da-xue.md
       - 黑龙江八一农垦大学: universities/hei-long-jiang-ba-yi-nong-ken-da-xue.md
@@ -446,6 +447,7 @@
       - 厦门理工学院: universities/sha-men-li-gong-xue-yuan.md
       - 厦门软件职业技术学院: universities/sha-men-ruan-jian-zhi-ye-ji-zhu-xue-yuan.md
       - 泉州师范学院: universities/quan-zhou-shi-fan-xue-yuan.md
+      - 泉州职业技术大学: universities/quan-zhou-zhi-ye-ji-zhu-da-xue.md
       - 漳州卫生职业学院: universities/zhang-zhou-wei-sheng-zhi-ye-xue-yuan.md
       - 漳州职业技术学院: universities/zhang-zhou-zhi-ye-ji-zhu-xue-yuan.md
       - 福州外语外贸学院: universities/fu-zhou-wai-yu-wai-mao-xue-yuan.md
@@ -501,6 +503,7 @@
       - 江西理工大学南昌校区: universities/jiang-xi-li-gong-da-xue-nan-chang-xiao-qu.md
       - 江西科技学院: universities/jiang-xi-ke-ji-xue-yuan.md
       - 江西科技师范大学: universities/jiang-xi-ke-ji-shi-fan-da-xue.md
+      - 江西科技职业学院: universities/jiang-xi-ke-ji-zhi-ye-xue-yuan.md
       - 江西财经大学: universities/jiang-xi-cai-jing-da-xue.md
       - 江西陶瓷工艺美术职业技术学院: universities/jiang-xi-tao-ci-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md
       - 豫章师范学院: universities/yu-zhang-shi-fan-xue-yuan.md
@@ -627,6 +630,7 @@
       - 华中科技大学同济医学院: universities/hua-zhong-ke-ji-da-xue-tong-ji-yi-xue-yuan.md
       - 华中科技大学国家网络安全学院校区: universities/hua-zhong-ke-ji-da-xue-guo-jia-wang-luo-an-quan-xue-yuan-xiao-qu.md
       - 华中科技大学文华学院: universities/hua-zhong-ke-ji-da-xue-wen-hua-xue-yuan.md
+      - 华中科技大学网络空间安全学院校区: universities/hua-zhong-ke-ji-da-xue-wang-luo-kong-jian-an-quan-xue-yuan-xiao-qu.md
       - 国家网络安全学院: universities/guo-jia-wang-luo-an-quan-xue-yuan.md
       - 国立武汉大学: universities/guo-li-wu-yi-da-xue.md
       - 武昌工学院: universities/wu-chang-gong-xue-yuan.md
