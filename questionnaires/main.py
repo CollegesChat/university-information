@@ -184,7 +184,12 @@ def main():
                 del universities[alias]
             if len(university.credits) == 0:
                 del universities[name]
-    del universities['blacklist']
+
+    with open('blacklist.txt', 'r', encoding='utf-8') as f:
+        for line in f:
+            name = line.rstrip('\n')
+            if name in universities:
+                del universities[name]
 
     # ===== write results =====
     os.makedirs('universities', exist_ok=True)
