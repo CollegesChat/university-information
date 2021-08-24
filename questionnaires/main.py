@@ -189,7 +189,8 @@ def main():
                 university.combine_from(universities[alias])
                 del universities[alias]
             if len(university.credits) == 0:
-                del universities[name]
+                del universities[name]
+
     with open('blacklist.txt', 'r', encoding='utf-8') as f:
         for line in f:
             name = line.rstrip('\n')
@@ -251,9 +252,12 @@ def main():
 
         for name in university_names:
             belong_province = '其他'
+            last_pos = 114514
             for college in sorted_colleges_keys:
-                if name.find(college) >= 0:
+                current_pos = name.find(college)
+                if (current_pos >= 0) and (current_pos <= last_pos):
                     belong_province = colleges[college]
+                    last_pos = current_pos
             provinces[belong_province].append(name)
 
         for province, colleges in provinces.items():
