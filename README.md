@@ -30,8 +30,6 @@
 
 [Università degli Studi di Trento](./universities/universita-degli-studi-di-trento.md)
 
-[xxx](./universities/xxx.md)
-
 [三亚学院](./universities/san-ya-xue-yuan.md)
 
 [三亚航空旅游职业学院](./universities/san-ya-hang-kong-lu-you-zhi-ye-xue-yuan.md)
@@ -242,11 +240,7 @@
 
 [中山大学珠海校区](./universities/zhong-shan-da-xue-zhu-hai-xiao-qu.md)
 
-[中恒学校](./universities/zhong-heng-xue-xiao.md)
-
 [临沂大学](./universities/lin-yi-da-xue.md)
-
-[临沂第十九中学](./universities/lin-yi-di-shi-jiu-zhong-xue.md)
 
 [丽水学院](./universities/li-shui-xue-yuan.md)
 
@@ -1432,8 +1426,6 @@
 
 [济宁学院](./universities/ji-zhu-xue-yuan.md)
 
-[济钢高级中学](./universities/ji-gang-gao-ji-zhong-xue.md)
-
 [浙大城市学院](./universities/zhe-da-cheng-shi-xue-yuan.md)
 
 [浙大宁波理工学院](./universities/zhe-da-zhu-bo-li-gong-xue-yuan.md)
@@ -1476,8 +1468,6 @@
 
 [浙江理工大学](./universities/zhe-jiang-li-gong-da-xue.md)
 
-[浙江省平阳中学](./universities/zhe-jiang-sheng-ping-yang-zhong-xue.md)
-
 [浙江科技学院](./universities/zhe-jiang-ke-ji-xue-yuan.md)
 
 [浙江财经大学](./universities/zhe-jiang-cai-jing-da-xue.md)
@@ -1509,8 +1499,6 @@
 [深圳大学](./universities/shen-zhen-da-xue.md)
 
 [深圳大学丽湖校区](./universities/shen-zhen-da-xue-li-hu-xiao-qu.md)
-
-[深圳市翠园中学](./universities/shen-zhen-shi-cui-yuan-zhong-xue.md)
 
 [深圳技术大学](./universities/shen-zhen-ji-zhu-da-xue.md)
 
@@ -1765,8 +1753,6 @@
 [莆田学院](./universities/fu-tian-xue-yuan.md)
 
 [莆田学院新校区](./universities/fu-tian-xue-yuan-xin-xiao-qu.md)
-
-[莒县第一中学](./universities/ju-xian-di-yi-zhong-xue.md)
 
 [菏泽学院](./universities/he-ze-xue-yuan.md)
 
