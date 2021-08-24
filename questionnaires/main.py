@@ -157,7 +157,10 @@ def main():
             # unpack row into different parts, and ignore 8 items in the end.
             # `anonymous`: `2` means anonymous, and `1` not.
             # if `anonymous` is True, `email` is empty.
-            _, _, anonymous, email, show_email, name, *answers = row[:-9]
+            id, _, anonymous, email, show_email, name, *answers = row[:-9]
+            if int(id) == 3516:
+                continue
+
             additional_answer = row[-9]
 
             # convert `anonymous` and `show_email` to boolean
