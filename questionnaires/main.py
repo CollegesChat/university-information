@@ -212,8 +212,12 @@ def main():
                 print(f'[warning] \033[0;36m{name}\033[0m may be invalid')
 
     # ===== write results =====
+    if os.path.exists(join_path('dist', '.git')):
+        shutil.move(join_path('dist', '.git'), 'dist.git')
     shutil.rmtree('dist', ignore_errors=True)
     shutil.copytree('site', 'dist')
+    if os.path.exists('dist.git'):
+        shutil.move('dist.git', join_path('dist', '.git'))
     os.makedirs(join_path('dist', 'docs', 'universities'), exist_ok=True)
 
     for name, university in universities.items():
