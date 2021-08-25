@@ -214,6 +214,7 @@ def main():
     # ===== write results =====
     shutil.rmtree('dist', ignore_errors=True)
     shutil.copytree('site', 'dist')
+    os.makedirs(join_path('dist', 'docs', 'universities'), exist_ok=True)
 
     for name, university in universities.items():
         filename = generate_markdown_path(filename_map[name], False)
