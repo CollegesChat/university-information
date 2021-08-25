@@ -120,7 +120,7 @@ def join_path(*paths):
 def generate_markdown_path(name: str, in_readme: bool):
     paths = [ 'universities', name ]
     if in_readme:
-        paths = ['.'] + paths
+        paths = ['.', 'docs'] + paths
     return join_path(*paths) + '.md'
 
 
@@ -212,13 +212,12 @@ def main():
                 print(f'[warning] \033[0;36m{name}\033[0m may be invalid')
 
     # ===== write results =====
-    os.makedirs('dist', exist_ok=True)
-    shutil.rmtree(join_path('dist', 'universities'), ignore_errors=True)
-    os.mkdir(join_path('dist', 'universities'))
+    shutil.rmtree('dist', ignore_errors=True)
+    shutil.copytree('site', 'dist')
 
     for name, university in universities.items():
         filename = generate_markdown_path(filename_map[name], False)
-        with open(join_path('dist', filename), 'w', encoding='utf-8') as f:
+        with open(join_path('dist', 'docs', filename), 'w', encoding='utf-8') as f:
             # write header
             f.write(f'# {name}\n\n')
             f.write('> 数据来源：{}\n\n'.format(' + '.join(university.credits)))
@@ -277,6 +276,11 @@ def main():
                 for original in originals:
                     readme_f.write('{} → [{}]({})\n\n'.format(original, name, generate_markdown_path(filename_map[name], True)))
 
+    with open(join_path('dist', 'nav.txt'), 'r', encoding='utf-8') as nav_f,\
+         open('mkdocs_template.yml', 'r', encoding='utf-8') as mkdocs_template_f,\
+         open(join_path('dist', 'mkdocs.yml'), 'w', encoding='utf-8') as mkdocs_f:
+        
+        mkdocs_f.write(mkdocs_template_f.read().replace('[universities_nav]',nav_f.read()))
 
 if __name__ == '__main__':
     main()

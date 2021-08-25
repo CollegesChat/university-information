@@ -1,0 +1,62 @@
+# Project information
+site_name: 大学生活质量指北
+site_description: 收集全世界各高校招生时不会写明但实实在在影响大学生活质量的详尽信息
+site_url: https://colleges.chat
+
+# Repository
+repo_name: CollegesChat/colleges.chat
+repo_url: https://github.com/CollegesChat/colleges.chat
+edit_uri: edit/main/docs/
+
+# Copyright
+copyright: CC BY-NC-SA 4.0
+
+# Navigation
+nav:
+  - 首页: index.md
+  - 择校相关:
+    - 出国受阻: choose-a-college/出国受阻.md
+    - 影响生活质量的一些方面: choose-a-college/影响生活质量的一些方面.md
+  - 问卷数据:
+[universities_nav]
+# Configuration
+theme:
+  name: material
+  language: zh
+  logo: assets/images/favicon.png
+  favicon: assets/images/favicon.png
+  palette:
+    primary: blue
+    accent: blue
+  icon:
+    repo: fontawesome/brands/github
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - instant
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/CollegesChat
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/joinchat/NPiGbd9ODe0wYjQ1
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.superfences
+  - markdown.extensions.def_list
+  - meta
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang: ja
+      indexing: titles
+      min_search_length: 2
+  - awesome-pages
