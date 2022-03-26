@@ -32,8 +32,6 @@
 
 [hhhh](./docs/universities/hhhh.md)
 
-[jjh](./docs/universities/jjh.md)
-
 [university of liverpool](./docs/universities/university-of-liverpool.md)
 
 [三亚学院](./docs/universities/san-ya-xue-yuan.md)
@@ -1211,8 +1209,6 @@
 [无锡学院](./docs/universities/wu-xi-xue-yuan.md)
 
 [无锡职业技术学院](./docs/universities/wu-xi-zhi-ye-ji-zhu-xue-yuan.md)
-
-[日你妹大学](./docs/universities/ri-ni-mei-da-xue.md)
 
 [昆明理工大学](./docs/universities/kun-ming-li-gong-da-xue.md)
 
