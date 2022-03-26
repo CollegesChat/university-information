@@ -30,8 +30,6 @@
 
 [Università degli Studi di Trento](./docs/universities/universita-degli-studi-di-trento.md)
 
-[hhhh](./docs/universities/hhhh.md)
-
 [university of liverpool](./docs/universities/university-of-liverpool.md)
 
 [三亚学院](./docs/universities/san-ya-xue-yuan.md)
