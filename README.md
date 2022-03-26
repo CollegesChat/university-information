@@ -14,8 +14,6 @@
 
 [New York University](./docs/universities/new-york-university.md)
 
-[SCUT](./docs/universities/scut.md)
-
 [Syracuse University](./docs/universities/syracuse-university.md)
 
 [The University of Sydney](./docs/universities/the-university-of-sydney.md)
@@ -37,8 +35,6 @@
 [jjh](./docs/universities/jjh.md)
 
 [university of liverpool](./docs/universities/university-of-liverpool.md)
-
-[ustc](./docs/universities/ustc.md)
 
 [三亚学院](./docs/universities/san-ya-xue-yuan.md)
 
