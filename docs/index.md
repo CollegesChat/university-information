@@ -20,14 +20,16 @@
 感谢大家用心填写问卷，您的参与将帮助更多人了解您所在的学校。  
 感谢大家为本站提出宝贵的建议，您的意见将帮助我们不断改进。  
 感谢各位开发者在以下仓库（包括但不限于，内部仓库已略去）的贡献，您的付出将让本站更加完善。  
+
 | 仓库 |
 | :--- |
 | [CollegesChat/university-information](https://github.com/CollegesChat/university-information/graphs/contributors) |
 | [CollegesChat/colleges.chat](https://github.com/CollegesChat/colleges.chat/graphs/contributors) |
 
 感谢以下赞助者为本项目提供资金支持，您的帮助将让我们走得更远。  
+
 | 赞助者 | 金额 | 用途 |
-| :----: |:----:| :----:|
+| :----: | :----: | :----:|
 | 131 | 11.35 USD | 域名注册 |
 | Yang | 22 USD (实际使用 21.68 USD) | 域名续费 |
 
