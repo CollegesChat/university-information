@@ -338,8 +338,6 @@
 
 [九江职业技术学院](./docs/universities/jiu-jiang-zhi-ye-ji-zhu-xue-yuan.md)
 
-[九龙湖高级技工学校](./docs/universities/jiu-long-hu-gao-ji-ji-gong-xue-xiao.md)
-
 [云南中医药大学](./docs/universities/yun-nan-zhong-yi-yao-da-xue.md)
 
 [云南大学](./docs/universities/yun-nan-da-xue.md)
@@ -361,8 +359,6 @@
 [云南艺术学院](./docs/universities/yun-nan-yi-zhu-xue-yuan.md)
 
 [云南财经大学](./docs/universities/yun-nan-cai-jing-da-xue.md)
-
-[五道口职业技术学院](./docs/universities/wu-dao-kou-zhi-ye-ji-zhu-xue-yuan.md)
 
 [五邑大学](./docs/universities/wu-yi-da-xue.md)
 
@@ -1320,8 +1316,6 @@
 
 [山西师范大学现代文理学院/山西电子科技学院](./docs/universities/shan-xi-shi-fan-da-xue-xian-dai-wen-li-xue-yuan-shan-xi-dian-zi-ke-ji-xue-yuan.md)
 
-[山西现代双语学校南校](./docs/universities/shan-xi-xian-dai-shuang-yu-xue-xiao-nan-xiao.md)
-
 [山西经贸职业学院/山西经济管理干部学院](./docs/universities/shan-xi-jing-mao-zhi-ye-xue-yuan-shan-xi-jing-ji-guan-li-gan-bu-xue-yuan.md)
 
 [山西职业技术学院](./docs/universities/shan-xi-zhi-ye-ji-zhu-xue-yuan.md)
@@ -1831,8 +1825,6 @@
 [武汉轻工大学](./docs/universities/wu-yi-qing-gong-da-xue.md)
 
 [武汉音乐学院](./docs/universities/wu-yi-yin-le-xue-yuan.md)
-
-[武邑宏达学校](./docs/universities/wu-yi-hong-da-xue-xiao.md)
 
 [永州师范高等专科学校](./docs/universities/yong-zhou-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
 
