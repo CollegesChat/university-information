@@ -1,6 +1,6 @@
 # 南开大学滨海校区
 
-> 数据来源：匿名 + wfzxicstudios@gmail.com
+> 数据来源：匿名 (2021 年 07 月) + wfzxicstudios@gmail.com (2022 年 04 月)
 
 ## Q: 宿舍是上床下桌吗？
 

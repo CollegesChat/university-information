@@ -1,6 +1,6 @@
 # 广西医科大学
 
-> 数据来源：v5xrlgiftschlange@gmail.com + 2173866824@qq.com + 匿名 + 匿名
+> 数据来源：v5xrlgiftschlange@gmail.com (2021 年 06 月) + 2173866824@qq.com (2022 年 06 月) + 匿名 (2022 年 06 月) + 匿名 (2022 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

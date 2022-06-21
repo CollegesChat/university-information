@@ -1,6 +1,6 @@
 # 辽宁何氏医学院
 
-> 数据来源：howard@cirro.top
+> 数据来源：howard@cirro.top (2021 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

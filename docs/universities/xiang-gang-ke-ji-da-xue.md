@@ -1,6 +1,6 @@
 # 香港科技大学
 
-> 数据来源：txuan@berkeley.edu + 匿名
+> 数据来源：txuan@berkeley.edu (2021 年 06 月) + 匿名 (2021 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

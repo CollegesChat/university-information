@@ -1,6 +1,6 @@
 # 广东科贸职业学院
 
-> 数据来源：Mr_xueyuan@outlook.com
+> 数据来源：Mr_xueyuan@outlook.com (2022 年 03 月)
 
 ## Q: 宿舍是上床下桌吗？
 

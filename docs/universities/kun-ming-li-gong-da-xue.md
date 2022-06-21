@@ -1,6 +1,6 @@
 # 昆明理工大学
 
-> 数据来源：匿名 + 匿名 + 匿名 + 2114200893@qq.com + podf_studio@outlook.com + lateyoung111@gmail.com
+> 数据来源：匿名 (2021 年 06 月) + 匿名 (2021 年 06 月) + 匿名 (2021 年 06 月) + 2114200893@qq.com (2021 年 06 月) + podf_studio@outlook.com (2021 年 06 月) + lateyoung111@gmail.com (2022 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

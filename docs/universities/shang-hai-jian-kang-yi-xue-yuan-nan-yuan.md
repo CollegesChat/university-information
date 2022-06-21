@@ -1,6 +1,6 @@
 # 上海健康医学院南苑
 
-> 数据来源：匿名 + suicideintrench@foxmail.com
+> 数据来源：匿名 (2021 年 06 月) + suicideintrench@foxmail.com (2022 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

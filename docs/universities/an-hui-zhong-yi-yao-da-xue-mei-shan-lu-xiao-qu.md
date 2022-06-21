@@ -1,6 +1,6 @@
 # 安徽中医药大学梅山路校区
 
-> 数据来源：puff-frank@outlook.com
+> 数据来源：puff-frank@outlook.com (2022 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

@@ -1,6 +1,6 @@
 # 中国科学院大学
 
-> 数据来源：匿名 + 匿名 + nico@niconi.org + 匿名 + myduchangjiang@gmail.com
+> 数据来源：匿名 (2021 年 06 月) + 匿名 (2021 年 06 月) + nico@niconi.org (2021 年 06 月) + 匿名 (2021 年 06 月) + myduchangjiang@gmail.com (2021 年 08 月)
 
 ## Q: 宿舍是上床下桌吗？
 

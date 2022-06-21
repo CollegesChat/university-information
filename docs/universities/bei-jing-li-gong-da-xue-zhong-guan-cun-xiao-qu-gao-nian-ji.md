@@ -1,6 +1,6 @@
 # 北京理工大学中关村校区，高年级
 
-> 数据来源：Master@mail.Amachi.com.cn
+> 数据来源：Master@mail.Amachi.com.cn (2021 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

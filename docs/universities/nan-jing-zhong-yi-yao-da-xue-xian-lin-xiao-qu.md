@@ -1,6 +1,6 @@
 # 南京中医药大学仙林校区
 
-> 数据来源：march_happy@njucm.edu.cn + qinlili@qinlili.bid
+> 数据来源：march_happy@njucm.edu.cn (2021 年 06 月) + qinlili@qinlili.bid (2021 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

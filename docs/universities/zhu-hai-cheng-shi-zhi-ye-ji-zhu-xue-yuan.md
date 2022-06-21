@@ -1,6 +1,6 @@
 # 珠海城市职业技术学院
 
-> 数据来源：hua_jingyu_2001@outlook.com
+> 数据来源：hua_jingyu_2001@outlook.com (2022 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

@@ -1,6 +1,6 @@
 # 苏州工艺美术职业技术学院
 
-> 数据来源：PaulsonClinton@outlook.com
+> 数据来源：PaulsonClinton@outlook.com (2022 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 
