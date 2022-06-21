@@ -1554,10 +1554,8 @@
       - university of liverpool: universities/university-of-liverpool.md
       - 上海对外政策大学: universities/shang-hai-dui-wai-zheng-ce-da-xue.md
       - 上海市电影艺术职业技术学院: universities/shang-hai-shi-dian-ying-yi-zhu-zhi-ye-ji-zhu-xue-yuan.md
-      - 上海淞浦中学: universities/shang-hai-song-pu-zhong-xue.md
       - 东京大学: universities/dong-jing-da-xue.md
       - 中原大学: universities/zhong-yuan-da-xue.md
-      - 临汝中学: universities/lin-ru-zhong-xue.md
       - 九龙湖高级技工学校: universities/jiu-long-hu-gao-ji-ji-gong-xue-xiao.md
       - 五道口职业技术学院: universities/wu-dao-kou-zhi-ye-ji-zhu-xue-yuan.md
       - 克雷西亚大学: universities/ke-lei-xi-ya-da-xue.md
@@ -1598,7 +1596,6 @@
       - 衡阳技师学院: universities/heng-yang-ji-shi-xue-yuan.md
       - 西交大城市学院: universities/xi-jiao-da-cheng-shi-xue-yuan.md
       - 辅仁大学: universities/fu-ren-da-xue.md
-      - 辣鸡大专: universities/la-ji-da-zhuan.md
       - 迈阿密大学: universities/mai-a-mi-da-xue.md
       - 韩国外国语大学 한국외국어대학교: universities/han-guo-wai-guo-yu-da-xue-hangugoegugeodaehaggyo.md
       - 顺德职院技术学院: universities/shun-de-zhi-yuan-ji-zhu-xue-yuan.md

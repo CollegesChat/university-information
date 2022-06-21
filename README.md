@@ -126,8 +126,6 @@
 
 [上海海洋大学](./docs/universities/shang-hai-hai-yang-da-xue.md)
 
-[上海淞浦中学](./docs/universities/shang-hai-song-pu-zhong-xue.md)
-
 [上海理工大学](./docs/universities/shang-hai-li-gong-da-xue.md)
 
 [上海理工大学军工路校区](./docs/universities/shang-hai-li-gong-da-xue-jun-gong-lu-xiao-qu.md)
@@ -321,8 +319,6 @@
 [中山大学深圳校区](./docs/universities/zhong-shan-da-xue-shen-zhen-xiao-qu.md)
 
 [中山大学珠海校区](./docs/universities/zhong-shan-da-xue-zhu-hai-xiao-qu.md)
-
-[临汝中学](./docs/universities/lin-ru-zhong-xue.md)
 
 [临沂大学](./docs/universities/lin-yi-da-xue.md)
 
@@ -2777,8 +2773,6 @@
 [赤峰学院](./docs/universities/chi-feng-xue-yuan.md)
 
 [辅仁大学](./docs/universities/fu-ren-da-xue.md)
-
-[辣鸡大专](./docs/universities/la-ji-da-zhuan.md)
 
 [辽东学院](./docs/universities/liao-dong-xue-yuan.md)
 
