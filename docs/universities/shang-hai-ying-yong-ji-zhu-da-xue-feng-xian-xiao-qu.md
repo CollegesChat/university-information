@@ -1,6 +1,6 @@
 # 上海应用技术大学奉贤校区
 
-> 数据来源：447f.misaka@outlook.com (2022 年 02 月) + tiansiovo@gmail.com (2022 年 06 月)
+> 数据来源：A1: 447f.misaka@outlook.com (2022 年 02 月) + A2: tiansiovo@gmail.com (2022 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

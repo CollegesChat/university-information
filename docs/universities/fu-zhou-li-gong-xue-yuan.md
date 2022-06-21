@@ -1,6 +1,6 @@
 # 福州理工学院
 
-> 数据来源：1125597346@qq.com (2021 年 06 月) + llvmproj@protonmail.com (2022 年 02 月)
+> 数据来源：A1: 1125597346@qq.com (2021 年 06 月) + A2: llvmproj@protonmail.com (2022 年 02 月)
 
 ## Q: 宿舍是上床下桌吗？
 

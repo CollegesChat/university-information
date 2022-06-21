@@ -1,6 +1,6 @@
 # 山东大学济南
 
-> 数据来源：kamigen@mail.sdu.edu.cn (2021 年 06 月)
+> 数据来源：A1: kamigen@mail.sdu.edu.cn (2021 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

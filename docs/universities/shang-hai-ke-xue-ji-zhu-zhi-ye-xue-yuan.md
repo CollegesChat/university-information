@@ -1,6 +1,6 @@
 # 上海科学技术职业学院
 
-> 数据来源：匿名 (2021 年 12 月) + sakakikamikaze@gmail.com (2022 年 06 月)
+> 数据来源：A1: 匿名 (2021 年 12 月) + A2: sakakikamikaze@gmail.com (2022 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

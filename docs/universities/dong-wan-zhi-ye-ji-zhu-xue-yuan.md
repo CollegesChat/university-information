@@ -1,6 +1,6 @@
 # 东莞职业技术学院
 
-> 数据来源：theosterar@outlook.com (2021 年 06 月)
+> 数据来源：A1: theosterar@outlook.com (2021 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

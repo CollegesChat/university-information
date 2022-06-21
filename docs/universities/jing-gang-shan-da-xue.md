@@ -1,6 +1,6 @@
 # 井冈山大学
 
-> 数据来源：zxilly@outlook.com (2021 年 06 月)
+> 数据来源：A1: zxilly@outlook.com (2021 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 

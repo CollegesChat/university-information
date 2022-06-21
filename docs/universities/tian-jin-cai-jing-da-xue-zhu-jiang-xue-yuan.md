@@ -1,6 +1,6 @@
 # 天津财经大学珠江学院
 
-> 数据来源：zhaoyii.mu@gmail.com (2022 年 06 月)
+> 数据来源：A1: zhaoyii.mu@gmail.com (2022 年 06 月)
 
 ## Q: 宿舍是上床下桌吗？
 
