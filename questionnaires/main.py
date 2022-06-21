@@ -9,6 +9,7 @@ import re
 import shutil
 import typing
 import zhconv
+from datetime import date, datetime
 
 questionnaire = [
     '宿舍是上床下桌吗？',
@@ -154,12 +155,12 @@ def main():
         filename_map = FilenameMap()  # university name => filename
 
         for row in csv_reader:
-            # unpack row into different parts, and ignore 8 items in the end.
+            # unpack row into different parts, and ignore 7 items in the end.
             # `anonymous`: `2` means anonymous, and `1` not.
             # if `anonymous` is True, `email` is empty.
             id, _, anonymous, email, show_email, name, *answers = row[:-9]
-            if int(id) == 3516:
-                continue
+            # if int(id) == 3516:
+            #     continue
 
             additional_answer = row[-9]
 
@@ -174,10 +175,13 @@ def main():
             # if not exists, defaultdict will help create one
             university = universities[name]
 
+            # process questionnaire submittal time
+            submittal_time = datetime.strptime(row[-8], '%Y-%m-%d %H:%M:%S')
+
             if not show_email or email == '':
-                university.add_credit('匿名')
+                university.add_credit('匿名 (' + submittal_time.strftime('%Y 年 %m 月') + ')')
             else:
-                university.add_credit(email)
+                university.add_credit(email + ' (' + submittal_time.strftime('%Y 年 %m 月') + ')')
 
             for index, answer in enumerate(answers):
                 university.add_answer(index, answer)
