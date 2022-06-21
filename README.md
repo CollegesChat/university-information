@@ -16,8 +16,6 @@
 
 [Kyoto University of Foreign Studies  京都外国语大学](./docs/universities/kyoto-university-of-foreign-studies-jing-du-wai-guo-yu-da-xue.md)
 
-[NAU](./docs/universities/nau.md)
-
 [New York University](./docs/universities/new-york-university.md)
 
 [Syracuse University](./docs/universities/syracuse-university.md)
@@ -496,8 +494,6 @@
 
 [北京师范大学-香港浸会大学联合国际学院](./docs/universities/bei-jing-shi-fan-da-xue-xiang-gang-jin-hui-da-xue-lian-he-guo-ji-xue-yuan.md)
 
-[北京师范大学北京海淀校区](./docs/universities/bei-jing-shi-fan-da-xue-bei-jing-hai-dian-xiao-qu.md)
-
 [北京师范大学海淀校区](./docs/universities/bei-jing-shi-fan-da-xue-hai-dian-xiao-qu.md)
 
 [北京师范大学珠海分校](./docs/universities/bei-jing-shi-fan-da-xue-zhu-hai-fen-xiao.md)
@@ -545,8 +541,6 @@
 [北京语言大学](./docs/universities/bei-jing-yu-yan-da-xue.md)
 
 [北京邮电大学](./docs/universities/bei-jing-you-dian-da-xue.md)
-
-[北京邮电大学 沙河校区](./docs/universities/bei-jing-you-dian-da-xue-sha-he-xiao-qu-2.md)
 
 [北京邮电大学沙河校区](./docs/universities/bei-jing-you-dian-da-xue-sha-he-xiao-qu.md)
 
@@ -1076,8 +1070,6 @@
 
 [天津农学院](./docs/universities/tian-jin-nong-xue-yuan.md)
 
-[天津农学院A2最后部分补充！！！！](./docs/universities/tian-jin-nong-xue-yuan-a2zui-hou-bu-fen-bu-chong.md)
-
 [天津医科大学](./docs/universities/tian-jin-yi-ke-da-xue.md)
 
 [天津商业大学](./docs/universities/tian-jin-shang-ye-da-xue.md)
@@ -1199,8 +1191,6 @@
 [安徽工程大学](./docs/universities/an-hui-gong-cheng-da-xue.md)
 
 [安徽工程大学国际工程师学院](./docs/universities/an-hui-gong-cheng-da-xue-guo-ji-gong-cheng-shi-xue-yuan.md)
-
-[安徽工程大学国际工程师学院校区](./docs/universities/an-hui-gong-cheng-da-xue-guo-ji-gong-cheng-shi-xue-yuan-xiao-qu.md)
 
 [安徽师范大学](./docs/universities/an-hui-shi-fan-da-xue.md)
 
@@ -1331,8 +1321,6 @@
 [山东警察学院](./docs/universities/shan-dong-jing-cha-xue-yuan.md)
 
 [山东财经大学](./docs/universities/shan-dong-cai-jing-da-xue.md)
-
-[山东财经大学 圣井校区](./docs/universities/shan-dong-cai-jing-da-xue-sheng-jing-xiao-qu-2.md)
 
 [山东财经大学圣井校区](./docs/universities/shan-dong-cai-jing-da-xue-sheng-jing-xiao-qu.md)
 
