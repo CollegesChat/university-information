@@ -229,7 +229,11 @@ def main():
         with open(join_path('dist', 'docs', filename), 'w', encoding='utf-8') as f:
             # write header
             f.write(f'# {name}\n\n')
-            f.write('> 数据来源：{}\n\n'.format(' + '.join(university.credits)))
+            # f.write('> 数据来源：{}\n\n'.format(' + '.join(university.credits)))
+            output_credits = '> 数据来源：'
+            for index, credit in enumerate(university.credits, start=1):
+                output_credits += f'A{index}: {credit} + '
+            f.write(output_credits[:-3] + '\n\n')
 
             # write answers
             assert len(questionnaire) == len(university.answers)
