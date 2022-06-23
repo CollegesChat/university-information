@@ -204,8 +204,6 @@
 
 [上饶师范学院](./docs/universities/shang-rao-shi-fan-xue-yuan.md)
 
-[不想透露](./docs/universities/bu-xiang-tou-lu.md)
-
 [东京大学](./docs/universities/dong-jing-da-xue.md)
 
 [东北农业大学](./docs/universities/dong-bei-nong-ye-da-xue.md)
@@ -399,8 +397,6 @@
 [乐山师范学院](./docs/universities/le-shan-shi-fan-xue-yuan.md)
 
 [九江学院](./docs/universities/jiu-jiang-xue-yuan.md)
-
-[九江市同文中学](./docs/universities/jiu-jiang-shi-tong-wen-zhong-xue.md)
 
 [九江职业大学](./docs/universities/jiu-jiang-zhi-ye-da-xue.md)
 
@@ -3791,10 +3787,6 @@
 [集美大学航海学院](./docs/universities/ji-mei-da-xue-hang-hai-xue-yuan.md)
 
 [集美大学诚毅学院](./docs/universities/ji-mei-da-xue-cheng-yi-xue-yuan.md)
-
-[霍格沃兹魔法学院](./docs/universities/huo-ge-wo-zi-mo-fa-xue-yuan.md)
-
-[霞浦县第一中学](./docs/universities/xia-pu-xian-di-yi-zhong-xue.md)
 
 [青岛农业大学](./docs/universities/qing-dao-nong-ye-da-xue.md)
 
