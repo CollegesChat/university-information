@@ -5,7 +5,7 @@
 ## 查询 & 贡献 & 提问
 您可以直接在本站查询问卷收集到的高校资料
 
-填写调查问卷请前往 [调查问卷](https://www.wenjuan.com/s/UZBZJv8lWrd/)
+填写调查问卷请前往 [调查问卷](https://submit.colleges.chat/)
 
 贡献、提问、部分资料查询请前往 [Discussions](https://github.com/CollegesChat/university-information/discussions)
 
