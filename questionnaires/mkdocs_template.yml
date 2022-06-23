@@ -4,9 +4,9 @@ site_description: 收集全世界各高校招生时不会写明但实实在在�
 site_url: https://colleges.chat
 
 # Repository
-repo_name: CollegesChat/colleges.chat
-repo_url: https://github.com/CollegesChat/colleges.chat
-edit_uri: edit/main/docs/
+repo_name: CollegesChat/university-information
+repo_url: https://github.com/CollegesChat/university-information
+edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
 copyright: CC BY-NC-SA 4.0
