@@ -2,7 +2,7 @@
 
 <!-- 目前因 workflow 问题，`/questionnaires` 目录完全由脚本从问卷生成。 -->
 <!-- 直接修改 `/questionnaires` 目录内文件的 PR 会被强制覆盖。 -->
-<!-- 问卷地址：https://www.wenjuan.com/s/UZBZJv8lWrd/ -->
+<!-- 问卷地址：https://submit.colleges.chat/ -->
 <!-- 如果只希望补充部分信息，可将其它问题的回答留空。 -->
 
 <!-- 确认无误后，请将下一行行首的 [ ] 修改为 [x]： -->
