@@ -229,7 +229,7 @@ def main():
         with open(join_path('dist', 'docs', filename), 'w', encoding='utf-8') as f:
             # write header
             f.write(f'# {name}\n\n')
-            f.write('[免责声明](https://colleges.chat/#_3)：本站内容均来源于问卷收集，仅供参考，请自行确定信息准确性和真实性！\n\n')
+            f.write('> [免责声明](https://colleges.chat/#_3)：本页面内容均来源于问卷收集，仅供参考，请自行确定信息准确性和真实性！\n\n')
             # f.write('> 数据来源：{}\n\n'.format(' + '.join(university.credits)))
             output_credits = '> 数据来源：'
             for index, credit in enumerate(university.credits, start=1):
