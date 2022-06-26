@@ -10,6 +10,7 @@
       - 中国地质大学北京: universities/zhong-guo-di-zhi-da-xue-bei-jing.md
       - 中国戏曲学院: universities/zhong-guo-xi-qu-xue-yuan.md
       - 中国政法大学: universities/zhong-guo-zheng-fa-da-xue.md
+      - 中国政法大学昌平校区: universities/zhong-guo-zheng-fa-da-xue-chang-ping-xiao-qu.md
       - 中国消防救援学院: universities/zhong-guo-xiao-fang-jiu-yuan-xue-yuan.md
       - 中国石油大学: universities/zhong-guo-shi-you-da-xue.md
       - 中国石油大学北京: universities/zhong-guo-shi-you-da-xue-bei-jing.md
@@ -51,6 +52,7 @@
       - 北京工业职业技术学院: universities/bei-jing-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 北京工商大学: universities/bei-jing-gong-shang-da-xue.md
       - 北京工商大学良乡校区: universities/bei-jing-gong-shang-da-xue-liang-xiang-xiao-qu.md
+      - 北京工商大学阜成路校区: universities/bei-jing-gong-shang-da-xue-fu-cheng-lu-xiao-qu.md
       - 北京师范大学: universities/bei-jing-shi-fan-da-xue.md
       - 北京师范大学- 香港浸会大学联合国际学院: universities/bei-jing-shi-fan-da-xue-xiang-gang-jin-hui-da-xue-lian-he-guo-ji-xue-yuan-2.md
       - 北京师范大学海淀校区: universities/bei-jing-shi-fan-da-xue-hai-dian-xiao-qu.md
@@ -86,6 +88,7 @@
       - 北京邮电大学: universities/bei-jing-you-dian-da-xue.md
       - 北京邮电大学沙河校区: universities/bei-jing-you-dian-da-xue-sha-he-xiao-qu.md
       - 北京邮电大学西土城校区: universities/bei-jing-you-dian-da-xue-xi-tu-cheng-xiao-qu.md
+      - 北京青年政治学院: universities/bei-jing-qing-nian-zheng-zhi-xue-yuan.md
       - 北方工业大学: universities/bei-fang-gong-ye-da-xue.md
       - 华北电力大学: universities/hua-bei-dian-li-da-xue.md
       - 华北电力大学 保定: universities/hua-bei-dian-li-da-xue-bao-ding-2.md
@@ -121,6 +124,7 @@
       - 天津体育学院: universities/tian-jin-ti-yu-xue-yuan.md
       - 天津公安警官职业学院: universities/tian-jin-gong-an-jing-guan-zhi-ye-xue-yuan.md
       - 天津农学院: universities/tian-jin-nong-xue-yuan.md
+      - 天津医学高等专科学校: universities/tian-jin-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
       - 天津医科大学: universities/tian-jin-yi-ke-da-xue.md
       - 天津医科大学临床医学院: universities/tian-jin-yi-ke-da-xue-lin-chuang-yi-xue-yuan.md
       - 天津商业大学: universities/tian-jin-shang-ye-da-xue.md
@@ -143,6 +147,7 @@
       - 天津科技大学: universities/tian-jin-ke-ji-da-xue.md
       - 天津科技大学滨海校区中院: universities/tian-jin-ke-ji-da-xue-bin-hai-xiao-qu-zhong-yuan.md
       - 天津美术学院: universities/tian-jin-mei-zhu-xue-yuan.md
+      - 天津美术学院北校区: universities/tian-jin-mei-zhu-xue-yuan-bei-xiao-qu.md
       - 天津职业技术师范大学: universities/tian-jin-zhi-ye-ji-zhu-shi-fan-da-xue.md
       - 天津艺术职业学院: universities/tian-jin-yi-zhu-zhi-ye-xue-yuan.md
       - 天津财经大学: universities/tian-jin-cai-jing-da-xue.md
@@ -157,6 +162,7 @@
       - 中国人民警察大学: universities/zhong-guo-ren-min-jing-cha-da-xue.md
       - 中央司法警官学院: universities/zhong-yang-si-fa-jing-guan-xue-yuan.md
       - 保定理工学院: universities/bao-ding-li-gong-xue-yuan.md
+      - 保定电力职业技术学院: universities/bao-ding-dian-li-zhi-ye-ji-zhu-xue-yuan.md
       - 北京中医药大学东方学院: universities/bei-jing-zhong-yi-yao-da-xue-dong-fang-xue-yuan.md
       - 北京中医药大学东方学院渤海校区: universities/bei-jing-zhong-yi-yao-da-xue-dong-fang-xue-yuan-bo-hai-xiao-qu.md
       - 北华航天工业学院: universities/bei-hua-hang-tian-gong-ye-xue-yuan.md
@@ -167,6 +173,7 @@
       - 唐山学院: universities/tang-shan-xue-yuan.md
       - 唐山工业职业技术学院: universities/tang-shan-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 唐山师范学院: universities/tang-shan-shi-fan-xue-yuan.md
+      - 唐山职业技术学院: universities/tang-shan-zhi-ye-ji-zhu-xue-yuan.md
       - 廊坊师范学院: universities/lang-fang-shi-fan-xue-yuan.md
       - 张家口学院: universities/zhang-jia-kou-xue-yuan.md
       - 张家口职业技术学院: universities/zhang-jia-kou-zhi-ye-ji-zhu-xue-yuan.md
@@ -203,6 +210,7 @@
       - 河北经贸大学: universities/he-bei-jing-mao-da-xue.md
       - 河北经贸大学经济管理学院: universities/he-bei-jing-mao-da-xue-jing-ji-guan-li-xue-yuan.md
       - 河北美术学院: universities/he-bei-mei-zhu-xue-yuan.md
+      - 河北能源职业技术学院: universities/he-bei-neng-yuan-zhi-ye-ji-zhu-xue-yuan.md
       - 河北金融学院: universities/he-bei-jin-rong-xue-yuan.md
       - 燕京理工学院: universities/yan-jing-li-gong-xue-yuan.md
       - 燕山大学: universities/yan-shan-da-xue.md
@@ -210,6 +218,7 @@
       - 石家庄信息工程职业学院: universities/shi-jia-zhuang-xin-xi-gong-cheng-zhi-ye-xue-yuan.md
       - 石家庄学院: universities/shi-jia-zhuang-xue-yuan.md
       - 石家庄学院北校区: universities/shi-jia-zhuang-xue-yuan-bei-xiao-qu.md
+      - 石家庄科技职业学院: universities/shi-jia-zhuang-ke-ji-zhi-ye-xue-yuan.md
       - 石家庄经济职业学院: universities/shi-jia-zhuang-jing-ji-zhi-ye-xue-yuan.md
       - 石家庄职业技术学院: universities/shi-jia-zhuang-zhi-ye-ji-zhu-xue-yuan.md
       - 石家庄财经职业学院: universities/shi-jia-zhuang-cai-jing-zhi-ye-xue-yuan.md
@@ -245,6 +254,7 @@
       - 山西师范大学: universities/shan-xi-shi-fan-da-xue-2.md
       - 山西师范大学现代文理学院/山西电子科技大学: universities/shan-xi-shi-fan-da-xue-xian-dai-wen-li-xue-yuan-shan-xi-dian-zi-ke-ji-da-xue.md
       - 山西师范大学现代文理学院/山西电子科技学院: universities/shan-xi-shi-fan-da-xue-xian-dai-wen-li-xue-yuan-shan-xi-dian-zi-ke-ji-xue-yuan.md
+      - 山西应用科技学院: universities/shan-xi-ying-yong-ke-ji-xue-yuan.md
       - 山西经贸职业学院/山西经济管理干部学院: universities/shan-xi-jing-mao-zhi-ye-xue-yuan-shan-xi-jing-ji-guan-li-gan-bu-xue-yuan.md
       - 山西职业技术学院: universities/shan-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 山西能源学院: universities/shan-xi-neng-yuan-xue-yuan.md
@@ -271,6 +281,7 @@
       - 内蒙古民族大学: universities/nei-meng-gu-min-zu-da-xue.md
       - 内蒙古电子信息职业技术学院: universities/nei-meng-gu-dian-zi-xin-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 内蒙古科技大学: universities/nei-meng-gu-ke-ji-da-xue.md
+      - 内蒙古科技大学包头医学院: universities/nei-meng-gu-ke-ji-da-xue-bao-tou-yi-xue-yuan.md
       - 内蒙古科技大学包头师范学院: universities/nei-meng-gu-ke-ji-da-xue-bao-tou-shi-fan-xue-yuan.md
       - 内蒙古艺术学院: universities/nei-meng-gu-yi-zhu-xue-yuan.md
       - 内蒙古财经大学: universities/nei-meng-gu-cai-jing-da-xue.md
@@ -338,6 +349,7 @@
       - 辽东学院南校区: universities/liao-dong-xue-yuan-nan-xiao-qu.md
       - 辽宁中医药大学: universities/liao-zhu-zhong-yi-yao-da-xue.md
       - 辽宁中医药大学杏林学院: universities/liao-zhu-zhong-yi-yao-da-xue-xing-lin-xue-yuan.md
+      - 辽宁传媒学院: universities/liao-zhu-chuan-mei-xue-yuan.md
       - 辽宁何氏医学院: universities/liao-zhu-he-shi-yi-xue-yuan.md
       - 辽宁农业职业技术学院: universities/liao-zhu-nong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 辽宁地质工程职业学院: universities/liao-zhu-di-zhi-gong-cheng-zhi-ye-xue-yuan.md
@@ -360,6 +372,7 @@
       - 辽宁科技大学: universities/liao-zhu-ke-ji-da-xue.md
       - 辽宁科技学院: universities/liao-zhu-ke-ji-xue-yuan.md
       - 辽宁警察学院: universities/liao-zhu-jing-cha-xue-yuan.md
+      - 辽宁财贸学院: universities/liao-zhu-cai-mao-xue-yuan.md
       - 辽宁轨道交通职业学院: universities/liao-zhu-gui-dao-jiao-tong-zhi-ye-xue-yuan.md
       - 辽宁金融职业学院: universities/liao-zhu-jin-rong-zhi-ye-xue-yuan.md
       - 辽宁铁道职业技术学院: universities/liao-zhu-tie-dao-zhi-ye-ji-zhu-xue-yuan.md
@@ -390,6 +403,7 @@
       - 吉林大学南湖校区: universities/ji-lin-da-xue-nan-hu-xiao-qu.md
       - 吉林大学和平校区: universities/ji-lin-da-xue-he-ping-xiao-qu.md
       - 吉林大学新民校区: universities/ji-lin-da-xue-xin-min-xiao-qu.md
+      - 吉林大学白求恩医学院: universities/ji-lin-da-xue-bai-qiu-en-yi-xue-yuan.md
       - 吉林工商学院: universities/ji-lin-gong-shang-xue-yuan.md
       - 吉林工程技术师范学院: universities/ji-lin-gong-cheng-ji-zhu-shi-fan-xue-yuan.md
       - 吉林师范大学: universities/ji-lin-shi-fan-da-xue.md
@@ -401,13 +415,16 @@
       - 吉林艺术学院造型校区: universities/ji-lin-yi-zhu-xue-yuan-zao-xing-xiao-qu.md
       - 吉林警察学院: universities/ji-lin-jing-cha-xue-yuan.md
       - 吉林财经大学: universities/ji-lin-cai-jing-da-xue.md
+      - 吉林铁道职业技术学院: universities/ji-lin-tie-dao-zhi-ye-ji-zhu-xue-yuan.md
       - 延边大学: universities/yan-bian-da-xue.md
       - 延边大学珲春校区: universities/yan-bian-da-xue-hun-chun-xiao-qu.md
+      - 白城师范学院: universities/bai-cheng-shi-fan-xue-yuan.md
       - 空军航空大学: universities/kong-jun-hang-kong-da-xue.md
       - 通化师范学院: universities/tong-hua-shi-fan-xue-yuan.md
       - 长春中医药大学: universities/chang-chun-zhong-yi-yao-da-xue.md
       - 长春人文学院: universities/chang-chun-ren-wen-xue-yuan.md
       - 长春人文学院原东北师范大学人文学院: universities/chang-chun-ren-wen-xue-yuan-yuan-dong-bei-shi-fan-da-xue-ren-wen-xue-yuan.md
+      - 长春健康职业学院: universities/chang-chun-jian-kang-zhi-ye-xue-yuan.md
       - 长春医学高等专科学校: universities/chang-chun-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
       - 长春大学: universities/chang-chun-da-xue.md
       - 长春大学旅游学院: universities/chang-chun-da-xue-lu-you-xue-yuan.md
@@ -427,6 +444,7 @@
       - 东北石油大学: universities/dong-bei-shi-you-da-xue.md
       - 伊春职业学院: universities/yi-chun-zhi-ye-xue-yuan.md
       - 佳木斯大学: universities/jia-mu-si-da-xue.md
+      - 哈尔滨体育学院: universities/ha-er-bin-ti-yu-xue-yuan.md
       - 哈尔滨信息工程学院: universities/ha-er-bin-xin-xi-gong-cheng-xue-yuan.md
       - 哈尔滨剑桥学院: universities/ha-er-bin-jian-qiao-xue-yuan.md
       - 哈尔滨医科大学: universities/ha-er-bin-yi-ke-da-xue.md
@@ -445,8 +463,10 @@
       - 哈尔滨理工大学: universities/ha-er-bin-li-gong-da-xue.md
       - 哈尔滨理工大学荣成学院: universities/ha-er-bin-li-gong-da-xue-rong-cheng-xue-yuan.md
       - 哈尔滨科学技术职业学院: universities/ha-er-bin-ke-xue-ji-zhu-zhi-ye-xue-yuan.md
+      - 哈尔滨职业技术学院: universities/ha-er-bin-zhi-ye-ji-zhu-xue-yuan.md
       - 哈尔滨远东理工学院: universities/ha-er-bin-yuan-dong-li-gong-xue-yuan.md
       - 哈尔滨金融学院: universities/ha-er-bin-jin-rong-xue-yuan.md
+      - 哈尔滨铁道职业技术学院: universities/ha-er-bin-tie-dao-zhi-ye-ji-zhu-xue-yuan.md
       - 牡丹江医学院: universities/mu-dan-jiang-yi-xue-yuan.md
       - 牡丹江师范学院: universities/mu-dan-jiang-shi-fan-xue-yuan.md
       - 绥化学院: universities/sui-hua-xue-yuan.md
@@ -556,6 +576,7 @@
       - 南京中医药大学: universities/nan-jing-zhong-yi-yao-da-xue.md
       - 南京中医药大学仙林校区: universities/nan-jing-zhong-yi-yao-da-xue-xian-lin-xiao-qu.md
       - 南京中医药大学汉中门校区: universities/nan-jing-zhong-yi-yao-da-xue-yi-zhong-men-xiao-qu.md
+      - 南京交通职业技术学院: universities/nan-jing-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md
       - 南京传媒学院: universities/nan-jing-chuan-mei-xue-yuan.md
       - 南京体育学院: universities/nan-jing-ti-yu-xue-yuan.md
       - 南京信息工程大学: universities/nan-jing-xin-xi-gong-cheng-da-xue.md
@@ -608,6 +629,7 @@
       - 常州大学怀德学院: universities/chang-zhou-da-xue-huai-de-xue-yuan.md
       - 常州工业职业技术学院: universities/chang-zhou-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 常州工学院: universities/chang-zhou-gong-xue-yuan.md
+      - 常州机电职业技术学院: universities/chang-zhou-ji-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 常州纺织服装职业技术学院: universities/chang-zhou-fang-zhi-fu-zhuang-zhi-ye-ji-zhu-xue-yuan.md
       - 常熟理工学院: universities/chang-shou-li-gong-xue-yuan.md
       - 徐州医科大学: universities/xu-zhou-yi-ke-da-xue.md
@@ -632,12 +654,14 @@
       - 江苏信息职业技术学院: universities/jiang-su-xin-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 江苏农林职业技术学院: universities/jiang-su-nong-lin-zhi-ye-ji-zhu-xue-yuan.md
       - 江苏农牧科技职业学院: universities/jiang-su-nong-mu-ke-ji-zhi-ye-xue-yuan.md
+      - 江苏医药职业学院: universities/jiang-su-yi-yao-zhi-ye-xue-yuan.md
       - 江苏卫生健康职业学院: universities/jiang-su-wei-sheng-jian-kang-zhi-ye-xue-yuan.md
       - 江苏城乡建设职业学院: universities/jiang-su-cheng-xiang-jian-she-zhi-ye-xue-yuan.md
       - 江苏大学: universities/jiang-su-da-xue.md
       - 江苏大学京江学院: universities/jiang-su-da-xue-jing-jiang-xue-yuan.md
       - 江苏工程职业技术学院: universities/jiang-su-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
       - 江苏师范大学: universities/jiang-su-shi-fan-da-xue.md
+      - 江苏师范大学科文学院: universities/jiang-su-shi-fan-da-xue-ke-wen-xue-yuan.md
       - 江苏建筑职业技术学院: universities/jiang-su-jian-zhu-zhi-ye-ji-zhu-xue-yuan.md
       - 江苏旅游职业学院: universities/jiang-su-lu-you-zhi-ye-xue-yuan.md
       - 江苏海事职业技术学院: universities/jiang-su-hai-shi-zhi-ye-ji-zhu-xue-yuan.md
@@ -650,6 +674,7 @@
       - 江苏经贸职业技术学院: universities/jiang-su-jing-mao-zhi-ye-ji-zhu-xue-yuan.md
       - 江苏航运职业技术学院: universities/jiang-su-hang-yun-zhi-ye-ji-zhu-xue-yuan.md
       - 江苏警官学院: universities/jiang-su-jing-guan-xue-yuan.md
+      - 江苏财经职业技术学院: universities/jiang-su-cai-jing-zhi-ye-ji-zhu-xue-yuan.md
       - 江苏食品药品职业技术学院: universities/jiang-su-shi-pin-yao-pin-zhi-ye-ji-zhu-xue-yuan.md
       - 河海大学: universities/he-hai-da-xue.md
       - 河海大学江宁校区: universities/he-hai-da-xue-jiang-zhu-xiao-qu.md
@@ -659,6 +684,7 @@
       - 淮阴师范学院: universities/huai-yin-shi-fan-xue-yuan.md
       - 盐城工学院: universities/yan-cheng-gong-xue-yuan.md
       - 盐城师范学院: universities/yan-cheng-shi-fan-xue-yuan.md
+      - 硅湖职业技术学院: universities/huo-hu-zhi-ye-ji-zhu-xue-yuan.md
       - 苏州农业职业技术学院: universities/su-zhou-nong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 苏州卫生职业技术学院: universities/su-zhou-wei-sheng-zhi-ye-ji-zhu-xue-yuan.md
       - 苏州城市学院: universities/su-zhou-cheng-shi-xue-yuan.md
@@ -696,6 +722,7 @@
       - 义乌工商职业技术学院: universities/yi-wu-gong-shang-zhi-ye-ji-zhu-xue-yuan.md
       - 台州学院: universities/tai-zhou-xue-yuan.md
       - 台州科技职业学院: universities/tai-zhou-ke-ji-zhi-ye-xue-yuan.md
+      - 台州职业技术学院: universities/tai-zhou-zhi-ye-ji-zhu-xue-yuan.md
       - 嘉兴南湖学院: universities/jia-xing-nan-hu-xue-yuan.md
       - 嘉兴学院: universities/jia-xing-xue-yuan.md
       - 嘉兴学院梁林校区: universities/jia-xing-xue-yuan-liang-lin-xiao-qu.md
@@ -708,6 +735,7 @@
       - 宁波幼儿师范高等专科学校原宁波教育学院: universities/zhu-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao-yuan-zhu-bo-jiao-yu-xue-yuan.md
       - 宁波诺丁汉大学: universities/zhu-bo-nuo-ding-yi-da-xue.md
       - 宁波财经学院: universities/zhu-bo-cai-jing-xue-yuan.md
+      - 杭州万向职业技术学院: universities/hang-zhou-mo-xiang-zhi-ye-ji-zhu-xue-yuan.md
       - 杭州医学院: universities/hang-zhou-yi-xue-yuan.md
       - 杭州医学院临安校区: universities/hang-zhou-yi-xue-yuan-lin-an-xiao-qu.md
       - 杭州师范大学: universities/hang-zhou-shi-fan-da-xue.md
@@ -717,6 +745,7 @@
       - 杭州师范大学钱江学院: universities/hang-zhou-shi-fan-da-xue-qian-jiang-xue-yuan.md
       - 杭州电子科技大学: universities/hang-zhou-dian-zi-ke-ji-da-xue.md
       - 杭州电子科技大学信息工程学院: universities/hang-zhou-dian-zi-ke-ji-da-xue-xin-xi-gong-cheng-xue-yuan.md
+      - 杭州科技职业技术学院: universities/hang-zhou-ke-ji-zhi-ye-ji-zhu-xue-yuan.md
       - 杭州职业技术学院: universities/hang-zhou-zhi-ye-ji-zhu-xue-yuan.md
       - 浙大城市学院: universities/zhe-da-cheng-shi-xue-yuan.md
       - 浙大宁波理工学院: universities/zhe-da-zhu-bo-li-gong-xue-yuan.md
@@ -735,6 +764,7 @@
       - 浙江大学国际联合学院: universities/zhe-jiang-da-xue-guo-ji-lian-he-xue-yuan.md
       - 浙江大学海宁国际校区: universities/zhe-jiang-da-xue-hai-zhu-guo-ji-xiao-qu.md
       - 浙江大学紫金港校区西区: universities/zhe-jiang-da-xue-zi-jin-gang-xiao-qu-xi-qu.md
+      - 浙江宇翔职业技术学院: universities/zhe-jiang-yu-xiang-zhi-ye-ji-zhu-xue-yuan.md
       - 浙江工业大学: universities/zhe-jiang-gong-ye-da-xue.md
       - 浙江工业大学之江学院: universities/zhe-jiang-gong-ye-da-xue-zhi-jiang-xue-yuan.md
       - 浙江工业职业技术学院镜湖校区: universities/zhe-jiang-gong-ye-zhi-ye-ji-zhu-xue-yuan-jing-hu-xiao-qu.md
@@ -743,6 +773,7 @@
       - 浙江工贸职业技术学院: universities/zhe-jiang-gong-mao-zhi-ye-ji-zhu-xue-yuan.md
       - 浙江师范大学: universities/zhe-jiang-shi-fan-da-xue.md
       - 浙江师范大学杭州幼儿师范学院: universities/zhe-jiang-shi-fan-da-xue-hang-zhou-you-er-shi-fan-xue-yuan.md
+      - 浙江师范大学行知学院: universities/zhe-jiang-shi-fan-da-xue-xing-zhi-xue-yuan.md
       - 浙江广厦建设职业技术大学: universities/zhe-jiang-yan-sha-jian-she-zhi-ye-ji-zhu-da-xue.md
       - 浙江建设职业技术学院: universities/zhe-jiang-jian-she-zhi-ye-ji-zhu-xue-yuan.md
       - 浙江旅游职业学院: universities/zhe-jiang-lu-you-zhi-ye-xue-yuan.md
@@ -776,6 +807,7 @@
       - 温州肯恩大学: universities/wen-zhou-ken-en-da-xue.md
       - 湖州学院: universities/hu-zhou-xue-yuan.md
       - 湖州师范学院: universities/hu-zhou-shi-fan-xue-yuan.md
+      - 湖州师范学院中校区: universities/hu-zhou-shi-fan-xue-yuan-zhong-xiao-qu.md
       - 绍兴文理学院: universities/shao-xing-wen-li-xue-yuan.md
       - 绍兴文理学院元培学院: universities/shao-xing-wen-li-xue-yuan-yuan-pei-xue-yuan.md
       - 衢州学院: universities/qu-zhou-xue-yuan.md
@@ -814,8 +846,11 @@
       - 安徽大学蜀山校区: universities/an-hui-da-xue-shu-shan-xiao-qu.md
       - 安徽大学龙河校区: universities/an-hui-da-xue-long-he-xiao-qu.md
       - 安徽工业大学: universities/an-hui-gong-ye-da-xue.md
+      - 安徽工业经济职业技术学院: universities/an-hui-gong-ye-jing-ji-zhi-ye-ji-zhu-xue-yuan.md
+      - 安徽工商职业学院: universities/an-hui-gong-shang-zhi-ye-xue-yuan.md
       - 安徽工程大学: universities/an-hui-gong-cheng-da-xue.md
       - 安徽工程大学国际工程师学院: universities/an-hui-gong-cheng-da-xue-guo-ji-gong-cheng-shi-xue-yuan.md
+      - 安徽工贸职业技术学院: universities/an-hui-gong-mao-zhi-ye-ji-zhu-xue-yuan.md
       - 安徽师范大学: universities/an-hui-shi-fan-da-xue.md
       - 安徽师范大学皖江学院: universities/an-hui-shi-fan-da-xue-wan-jiang-xue-yuan.md
       - 安徽师范大学花津校区: universities/an-hui-shi-fan-da-xue-hua-jin-xiao-qu.md
@@ -823,22 +858,26 @@
       - 安徽建筑大学北校区: universities/an-hui-jian-zhu-da-xue-bei-xiao-qu.md
       - 安徽扬子职业技术学院: universities/an-hui-yang-zi-zhi-ye-ji-zhu-xue-yuan.md
       - 安徽文达信息工程学院: universities/an-hui-wen-da-xin-xi-gong-cheng-xue-yuan.md
+      - 安徽新华学院: universities/an-hui-xin-hua-xue-yuan.md
       - 安徽新闻出版职业技术学院: universities/an-hui-xin-wen-chu-ban-zhi-ye-ji-zhu-xue-yuan.md
       - 安徽水利水电职业技术学院: universities/an-hui-shui-li-shui-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 安徽理工大学: universities/an-hui-li-gong-da-xue.md
       - 安徽科技学院: universities/an-hui-ke-ji-xue-yuan.md
+      - 安徽科技学院龙子湖校区: universities/an-hui-ke-ji-xue-yuan-long-zi-hu-xiao-qu.md
       - 安徽科技学院龙湖校区: universities/an-hui-ke-ji-xue-yuan-long-hu-xiao-qu.md
       - 安徽职业技术学院: universities/an-hui-zhi-ye-ji-zhu-xue-yuan.md
       - 安徽艺术学院: universities/an-hui-yi-zhu-xue-yuan.md
       - 安徽艺术职业学院: universities/an-hui-yi-zhu-zhi-ye-xue-yuan.md
       - 安徽警官职业学院: universities/an-hui-jing-guan-zhi-ye-xue-yuan.md
       - 安徽财经大学: universities/an-hui-cai-jing-da-xue.md
+      - 安徽邮电职业技术学院: universities/an-hui-you-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 宿州学院: universities/su-zhou-xue-yuan.md
       - 巢湖学院: universities/chao-hu-xue-yuan.md
       - 池州学院: universities/chi-zhou-xue-yuan.md
       - 淮北师范大学: universities/huai-bei-shi-fan-da-xue.md
       - 淮北职业技术学院: universities/huai-bei-zhi-ye-ji-zhu-xue-yuan.md
       - 淮南师范学院: universities/huai-nan-shi-fan-xue-yuan.md
+      - 淮南职业技术学院: universities/huai-nan-zhi-ye-ji-zhu-xue-yuan.md
       - 滁州城市职业学院: universities/chu-zhou-cheng-shi-zhi-ye-xue-yuan.md
       - 滁州学院: universities/chu-zhou-xue-yuan.md
       - 滁州职业技术学院: universities/chu-zhou-zhi-ye-ji-zhu-xue-yuan.md
@@ -852,6 +891,7 @@
       - 铜陵学院: universities/tong-ling-xue-yuan.md
       - 铜陵职业技术学院: universities/tong-ling-zhi-ye-ji-zhu-xue-yuan.md
       - 阜阳师范大学: universities/fu-yang-shi-fan-da-xue.md
+      - 阜阳幼儿师范高等专科学校: universities/fu-yang-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 阜阳职业技术学院: universities/fu-yang-zhi-ye-ji-zhu-xue-yuan.md
       - 马鞍山学院: universities/ma-an-shan-xue-yuan.md
       - 黄山学院: universities/huang-shan-xue-yuan.md
@@ -901,6 +941,7 @@
       - 福州理工学院: universities/fu-zhou-li-gong-xue-yuan.md
       - 福州职业技术学院: universities/fu-zhou-zhi-ye-ji-zhu-xue-yuan.md
       - 福州英华职业学院: universities/fu-zhou-ying-hua-zhi-ye-xue-yuan.md
+      - 福州软件职业技术学院: universities/fu-zhou-ruan-jian-zhi-ye-ji-zhu-xue-yuan.md
       - 福州阳光学院: universities/fu-zhou-yang-guang-xue-yuan.md
       - 福州黎明职业技术学院: universities/fu-zhou-li-ming-zhi-ye-ji-zhu-xue-yuan.md
       - 福建中医药大学: universities/fu-jian-zhong-yi-yao-da-xue.md
@@ -942,10 +983,12 @@
       - 集美大学: universities/ji-mei-da-xue.md
       - 集美大学航海学院: universities/ji-mei-da-xue-hang-hai-xue-yuan.md
       - 集美大学诚毅学院: universities/ji-mei-da-xue-cheng-yi-xue-yuan.md
+      - 集美大学财经学院: universities/ji-mei-da-xue-cai-jing-xue-yuan.md
       - 黎明职业大学: universities/li-ming-zhi-ye-da-xue.md
       - 龙岩学院: universities/long-yan-xue-yuan.md
     - 江西:
       - 上饶师范学院: universities/shang-rao-shi-fan-xue-yuan.md
+      - 上饶职业技术学院: universities/shang-rao-zhi-ye-ji-zhu-xue-yuan.md
       - 东华理工大学: universities/dong-hua-li-gong-da-xue.md
       - 东华理工大学南昌校区广兰校区: universities/dong-hua-li-gong-da-xue-nan-chang-xiao-qu-yan-lan-xiao-qu.md
       - 九江学院: universities/jiu-jiang-xue-yuan.md
@@ -964,20 +1007,25 @@
       - 南昌应用技术师范学院/江西科技师范大学理工学院: universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan-jiang-xi-ke-ji-shi-fan-da-xue-li-gong-xue-yuan.md
       - 南昌影视传播职业学院: universities/nan-chang-ying-shi-chuan-bo-zhi-ye-xue-yuan.md
       - 南昌理工学院: universities/nan-chang-li-gong-xue-yuan.md
+      - 南昌职业大学: universities/nan-chang-zhi-ye-da-xue.md
       - 南昌航空大学: universities/nan-chang-hang-kong-da-xue.md
+      - 南昌航空大学科技学院: universities/nan-chang-hang-kong-da-xue-ke-ji-xue-yuan.md
       - 吉安职业技术学院: universities/ji-an-zhi-ye-ji-zhu-xue-yuan.md
       - 宜春学院: universities/yi-chun-xue-yuan.md
       - 景德镇学院: universities/jing-de-zhen-xue-yuan.md
       - 景德镇陶瓷大学: universities/jing-de-zhen-tao-ci-da-xue.md
+      - 景德镇陶瓷大学湘湖校区: universities/jing-de-zhen-tao-ci-da-xue-xiang-hu-xiao-qu.md
       - 江西中医药大学: universities/jiang-xi-zhong-yi-yao-da-xue.md
       - 江西中医药高等专科学校: universities/jiang-xi-zhong-yi-yao-gao-deng-zhuan-ke-xue-xiao.md
       - 江西交通职业技术学院: universities/jiang-xi-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md
+      - 江西信息应用职业技术学院: universities/jiang-xi-xin-xi-ying-yong-zhi-ye-ji-zhu-xue-yuan.md
       - 江西农业大学: universities/jiang-xi-nong-ye-da-xue.md
       - 江西农业大学南昌商学院: universities/jiang-xi-nong-ye-da-xue-nan-chang-shang-xue-yuan.md
       - 江西冶金职业技术学院: universities/jiang-xi-ye-jin-zhi-ye-ji-zhu-xue-yuan.md
       - 江西医学高等专科学校: universities/jiang-xi-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
       - 江西外语外贸职业学院: universities/jiang-xi-wai-yu-wai-mao-zhi-ye-xue-yuan.md
       - 江西工业工程职业技术学院: universities/jiang-xi-gong-ye-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
+      - 江西工业职业技术学院: universities/jiang-xi-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 江西工程学院: universities/jiang-xi-gong-cheng-xue-yuan.md
       - 江西师范大学: universities/jiang-xi-shi-fan-da-xue.md
       - 江西师范大学科学技术学院: universities/jiang-xi-shi-fan-da-xue-ke-xue-ji-zhu-xue-yuan.md
@@ -985,6 +1033,7 @@
       - 江西新能源科技职业学院: universities/jiang-xi-xin-neng-yuan-ke-ji-zhi-ye-xue-yuan.md
       - 江西旅游商贸职业学院: universities/jiang-xi-lu-you-shang-mao-zhi-ye-xue-yuan.md
       - 江西服装学院: universities/jiang-xi-fu-zhuang-xue-yuan.md
+      - 江西水利职业学院老校区: universities/jiang-xi-shui-li-zhi-ye-xue-yuan-lao-xiao-qu.md
       - 江西环境工程职业学院: universities/jiang-xi-huan-jing-gong-cheng-zhi-ye-xue-yuan.md
       - 江西现代职业技术学院: universities/jiang-xi-xian-dai-zhi-ye-ji-zhu-xue-yuan.md
       - 江西理工大学: universities/jiang-xi-li-gong-da-xue.md
@@ -1009,6 +1058,7 @@
       - 赣南科技学院: universities/gan-nan-ke-ji-xue-yuan.md
       - 赣州师范高等专科学校: universities/gan-zhou-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
     - 山东:
+      - 东营科技职业学院: universities/dong-ying-ke-ji-zhi-ye-xue-yuan.md
       - 东营职业学院: universities/dong-ying-zhi-ye-xue-yuan.md
       - 中国海洋大学: universities/zhong-guo-hai-yang-da-xue.md
       - 中国海洋大学崂山校区: universities/zhong-guo-hai-yang-da-xue-lao-shan-xiao-qu.md
@@ -1095,6 +1145,7 @@
       - 枣庄学院新城校区: universities/zao-zhuang-xue-yuan-xin-cheng-xiao-qu.md
       - 泰山学院: universities/tai-shan-xue-yuan.md
       - 泰山护理职业学院: universities/tai-shan-hu-li-zhi-ye-xue-yuan.md
+      - 泰山科技学院: universities/tai-shan-ke-ji-xue-yuan.md
       - 济南大学: universities/ji-nan-da-xue.md
       - 济南大学舜耕校区: universities/ji-nan-da-xue-shun-geng-xiao-qu.md
       - 济南护理职业学院: universities/ji-nan-hu-li-zhi-ye-xue-yuan.md
@@ -1111,6 +1162,7 @@
       - 滨州职业学院: universities/bin-zhou-zhi-ye-xue-yuan.md
       - 潍坊医学院: universities/wei-fang-yi-xue-yuan.md
       - 潍坊学院: universities/wei-fang-xue-yuan.md
+      - 潍坊工商职业学院: universities/wei-fang-gong-shang-zhi-ye-xue-yuan.md
       - 潍坊理工学院: universities/wei-fang-li-gong-xue-yuan.md
       - 潍坊科技学院: universities/wei-fang-ke-ji-xue-yuan.md
       - 潍坊职业学院: universities/wei-fang-zhi-ye-xue-yuan.md
@@ -1149,9 +1201,11 @@
       - 齐鲁工业大学: universities/qi-lu-gong-ye-da-xue.md
       - 齐鲁工业大学山东省科学院: universities/qi-lu-gong-ye-da-xue-shan-dong-sheng-ke-xue-yuan.md
       - 齐鲁工业大学山东省科学院菏泽校区分院: universities/qi-lu-gong-ye-da-xue-shan-dong-sheng-ke-xue-yuan-he-ze-xiao-qu-fen-yuan.md
+      - 齐鲁工业大学长清校区: universities/qi-lu-gong-ye-da-xue-chang-qing-xiao-qu.md
       - 齐鲁师范学院: universities/qi-lu-shi-fan-xue-yuan.md
       - 齐鲁理工学院: universities/qi-lu-li-gong-xue-yuan.md
     - 河南:
+      - 三门峡职业技术学院: universities/san-men-xia-zhi-ye-ji-zhu-xue-yuan.md
       - 中原工学院: universities/zhong-yuan-gong-xue-yuan.md
       - 中原工学院龙湖校区: universities/zhong-yuan-gong-xue-yuan-long-hu-xiao-qu.md
       - 中原科技学院: universities/zhong-yuan-ke-ji-xue-yuan.md
@@ -1162,6 +1216,7 @@
       - 华北水利水电大学: universities/hua-bei-shui-li-shui-dian-da-xue.md
       - 华北水利水电大学花园校区: universities/hua-bei-shui-li-shui-dian-da-xue-hua-yuan-xiao-qu.md
       - 华北水利水电大学龙子湖校区: universities/hua-bei-shui-li-shui-dian-da-xue-long-zi-hu-xiao-qu.md
+      - 南阳农业职业学院: universities/nan-yang-nong-ye-zhi-ye-xue-yuan.md
       - 南阳医学高等专科学校: universities/nan-yang-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
       - 南阳师范学院: universities/nan-yang-shi-fan-xue-yuan.md
       - 南阳理工学院: universities/nan-yang-li-gong-xue-yuan.md
@@ -1172,6 +1227,7 @@
       - 商丘师范学院: universities/shang-qiu-shi-fan-xue-yuan.md
       - 安阳工学院: universities/an-yang-gong-xue-yuan.md
       - 安阳师范学院: universities/an-yang-shi-fan-xue-yuan.md
+      - 安阳职业技术学院医药卫生学院: universities/an-yang-zhi-ye-ji-zhu-xue-yuan-yi-yao-wei-sheng-xue-yuan.md
       - 平顶山学院: universities/ping-ding-shan-xue-yuan.md
       - 开封大学: universities/kai-feng-da-xue.md
       - 新乡医学院: universities/xin-xiang-yi-xue-yuan.md
@@ -1183,8 +1239,11 @@
       - 河南交通职业技术学院: universities/he-nan-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md
       - 河南农业大学: universities/he-nan-nong-ye-da-xue.md
       - 河南农业大学龙子湖校区: universities/he-nan-nong-ye-da-xue-long-zi-hu-xiao-qu.md
+      - 河南农业职业学院: universities/he-nan-nong-ye-zhi-ye-xue-yuan.md
       - 河南城建学院: universities/he-nan-cheng-jian-xue-yuan.md
       - 河南大学: universities/he-nan-da-xue.md
+      - 河南大学金明校区: universities/he-nan-da-xue-jin-ming-xiao-qu.md
+      - 河南大学龙子湖校区: universities/he-nan-da-xue-long-zi-hu-xiao-qu.md
       - 河南工业和信息化职业学院: universities/he-nan-gong-ye-he-xin-xi-hua-zhi-ye-xue-yuan.md
       - 河南工业大学: universities/he-nan-gong-ye-da-xue.md
       - 河南工业职业技术学院: universities/he-nan-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
@@ -1195,15 +1254,18 @@
       - 河南开封科技传媒学院: universities/he-nan-kai-feng-ke-ji-chuan-mei-xue-yuan.md
       - 河南开封科技传媒学院原河南大学民生学院: universities/he-nan-kai-feng-ke-ji-chuan-mei-xue-yuan-yuan-he-nan-da-xue-min-sheng-xue-yuan.md
       - 河南推拿职业学院: universities/he-nan-tui-na-zhi-ye-xue-yuan.md
+      - 河南机电职业学院: universities/he-nan-ji-dian-zhi-ye-xue-yuan.md
       - 河南牧业经济学院: universities/he-nan-mu-ye-jing-ji-xue-yuan.md
       - 河南牧业经济学院英才校区: universities/he-nan-mu-ye-jing-ji-xue-yuan-ying-cai-xiao-qu.md
       - 河南牧业经济学院龙子湖校区: universities/he-nan-mu-ye-jing-ji-xue-yuan-long-zi-hu-xiao-qu.md
       - 河南理工大学: universities/he-nan-li-gong-da-xue.md
       - 河南科技大学: universities/he-nan-ke-ji-da-xue.md
+      - 河南科技大学开元校区: universities/he-nan-ke-ji-da-xue-kai-yuan-xiao-qu.md
       - 河南科技学院: universities/he-nan-ke-ji-xue-yuan.md
       - 河南经贸职业学院: universities/he-nan-jing-mao-zhi-ye-xue-yuan.md
       - 河南职业技术学院: universities/he-nan-zhi-ye-ji-zhu-xue-yuan.md
       - 河南艺术职业学院: universities/he-nan-yi-zhu-zhi-ye-xue-yuan.md
+      - 河南财政金融学院: universities/he-nan-cai-zheng-jin-rong-xue-yuan.md
       - 河南财经政法大学: universities/he-nan-cai-jing-zheng-fa-da-xue.md
       - 河南财经政法大学郑东校区: universities/he-nan-cai-jing-zheng-fa-da-xue-zheng-dong-xiao-qu.md
       - 洛阳师范学院: universities/luo-yang-shi-fan-xue-yuan.md
@@ -1222,6 +1284,7 @@
       - 郑州大学南校区: universities/zheng-zhou-da-xue-nan-xiao-qu.md
       - 郑州大学新校区: universities/zheng-zhou-da-xue-xin-xiao-qu.md
       - 郑州工业安全职业学院: universities/zheng-zhou-gong-ye-an-quan-zhi-ye-xue-yuan.md
+      - 郑州工业应用技术学院: universities/zheng-zhou-gong-ye-ying-yong-ji-zhu-xue-yuan.md
       - 郑州工商学院: universities/zheng-zhou-gong-shang-xue-yuan.md
       - 郑州师范学院: universities/zheng-zhou-shi-fan-xue-yuan.md
       - 郑州幼儿师范高等专科学校: universities/zheng-zhou-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
@@ -1230,6 +1293,7 @@
       - 郑州电力高等专科学校: universities/zheng-zhou-dian-li-gao-deng-zhuan-ke-xue-xiao.md
       - 郑州科技学院: universities/zheng-zhou-ke-ji-xue-yuan.md
       - 郑州经贸学院: universities/zheng-zhou-jing-mao-xue-yuan.md
+      - 郑州职业技术学院: universities/zheng-zhou-zhi-ye-ji-zhu-xue-yuan.md
       - 郑州航空工业管理学院: universities/zheng-zhou-hang-kong-gong-ye-guan-li-xue-yuan.md
       - 郑州西亚斯学院: universities/zheng-zhou-xi-ya-si-xue-yuan.md
       - 郑州财经学院: universities/zheng-zhou-cai-jing-xue-yuan.md
@@ -1269,6 +1333,7 @@
       - 武汉交通职业学院: universities/wu-yi-jiao-tong-zhi-ye-xue-yuan.md
       - 武汉传媒学院: universities/wu-yi-chuan-mei-xue-yuan.md
       - 武汉体育学院: universities/wu-yi-ti-yu-xue-yuan.md
+      - 武汉光谷职业学院: universities/wu-yi-guang-gu-zhi-ye-xue-yuan.md
       - 武汉华夏理工学院: universities/wu-yi-hua-xia-li-gong-xue-yuan.md
       - 武汉商学院: universities/wu-yi-shang-xue-yuan.md
       - 武汉城市学院: universities/wu-yi-cheng-shi-xue-yuan.md
@@ -1279,6 +1344,7 @@
       - 武汉大学国家网络安全学院校区: universities/wu-yi-da-xue-guo-jia-wang-luo-an-quan-xue-yuan-xiao-qu.md
       - 武汉学院: universities/wu-yi-xue-yuan.md
       - 武汉工商学院: universities/wu-yi-gong-shang-xue-yuan.md
+      - 武汉工商学院黄家湖校区: universities/wu-yi-gong-shang-xue-yuan-huang-jia-hu-xiao-qu.md
       - 武汉工程大学: universities/wu-yi-gong-cheng-da-xue.md
       - 武汉工程大学邮电与信息工程学院: universities/wu-yi-gong-cheng-da-xue-you-dian-yu-xin-xi-gong-cheng-xue-yuan-2.md
       - 武汉工程大学邮电于信息工程学院: universities/wu-yi-gong-cheng-da-xue-you-dian-yu-xin-xi-gong-cheng-xue-yuan.md
@@ -1309,9 +1375,11 @@
       - 江汉大学: universities/jiang-yi-da-xue.md
       - 湖北中医药大学: universities/hu-bei-zhong-yi-yao-da-xue.md
       - 湖北中医药高等专科学校: universities/hu-bei-zhong-yi-yao-gao-deng-zhuan-ke-xue-xiao.md
+      - 湖北体育职业学院: universities/hu-bei-ti-yu-zhi-ye-xue-yuan.md
       - 湖北医药学院: universities/hu-bei-yi-yao-xue-yuan.md
       - 湖北商贸学院: universities/hu-bei-shang-mao-xue-yuan.md
       - 湖北国土资源职业学院: universities/hu-bei-guo-tu-zi-yuan-zhi-ye-xue-yuan.md
+      - 湖北城市建设职业技术学院: universities/hu-bei-cheng-shi-jian-she-zhi-ye-ji-zhu-xue-yuan.md
       - 湖北大学: universities/hu-bei-da-xue.md
       - 湖北大学知行学院: universities/hu-bei-da-xue-zhi-xing-xue-yuan.md
       - 湖北工业大学: universities/hu-bei-gong-ye-da-xue.md
@@ -1344,6 +1412,7 @@
       - 襄阳职业技术学院: universities/xiang-yang-zhi-ye-ji-zhu-xue-yuan.md
       - 襄阳职业技术学院医学院: universities/xiang-yang-zhi-ye-ji-zhu-xue-yuan-yi-xue-yuan.md
       - 长江大学: universities/chang-jiang-da-xue.md
+      - 长江大学武汉校区: universities/chang-jiang-da-xue-wu-yi-xiao-qu.md
       - 长江工程职业技术学院: universities/chang-jiang-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
       - 黄冈师范学院: universities/huang-gang-shi-fan-xue-yuan.md
       - 黄冈职业技术学院: universities/huang-gang-zhi-ye-ji-zhu-xue-yuan.md
@@ -1357,9 +1426,14 @@
       - 吉首大学: universities/ji-shou-da-xue.md
       - 吉首大学张家界学院: universities/ji-shou-da-xue-zhang-jia-jie-xue-yuan.md
       - 吉首大学张家界校区: universities/ji-shou-da-xue-zhang-jia-jie-xiao-qu.md
+      - 吉首大学雷公井校区: universities/ji-shou-da-xue-lei-gong-jing-xiao-qu.md
       - 国防科技大学: universities/guo-fang-ke-ji-da-xue.md
       - 岳阳职业技术学院: universities/yue-yang-zhi-ye-ji-zhu-xue-yuan.md
+      - 张家界航空工业职业技术学院: universities/zhang-jia-jie-hang-kong-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
+      - 怀化学院: universities/huai-hua-xue-yuan.md
       - 怀化学院西区: universities/huai-hua-xue-yuan-xi-qu.md
+      - 怀化学院西校区: universities/huai-hua-xue-yuan-xi-xiao-qu.md
+      - 怀化师范高等专科学校: universities/huai-hua-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 永州师范高等专科学校: universities/yong-zhou-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 湖南中医药大学: universities/hu-nan-zhong-yi-yao-da-xue.md
       - 湖南中医药大学含浦校区: universities/hu-nan-zhong-yi-yao-da-xue-han-pu-xiao-qu.md
@@ -1378,6 +1452,7 @@
       - 湖南女子学院: universities/hu-nan-nu-zi-xue-yuan.md
       - 湖南安全技术职业学院: universities/hu-nan-an-quan-ji-zhu-zhi-ye-xue-yuan.md
       - 湖南工业大学: universities/hu-nan-gong-ye-da-xue.md
+      - 湖南工业大学新校区: universities/hu-nan-gong-ye-da-xue-xin-xiao-qu.md
       - 湖南工业大学科技学院: universities/hu-nan-gong-ye-da-xue-ke-ji-xue-yuan.md
       - 湖南工业职业技术学院: universities/hu-nan-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南工商大学: universities/hu-nan-gong-shang-da-xue.md
@@ -1389,9 +1464,11 @@
       - 湖南幼儿师范高等专科学校: universities/hu-nan-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 湖南应用技术学院: universities/hu-nan-ying-yong-ji-zhu-xue-yuan.md
       - 湖南文理学院: universities/hu-nan-wen-li-xue-yuan.md
+      - 湖南有色金属职业技术学院: universities/hu-nan-you-se-jin-shu-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南涉外经济学院: universities/hu-nan-she-wai-jing-ji-xue-yuan.md
       - 湖南环境生物职业技术学院: universities/hu-nan-huan-jing-sheng-wu-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南理工学院: universities/hu-nan-li-gong-xue-yuan.md
+      - 湖南生物机电职业技术学院: universities/hu-nan-sheng-wu-ji-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南科技大学: universities/hu-nan-ke-ji-da-xue.md
       - 湖南科技学院: universities/hu-nan-ke-ji-xue-yuan.md
       - 湖南科技职业学院: universities/hu-nan-ke-ji-zhi-ye-xue-yuan.md
@@ -1400,6 +1477,7 @@
       - 湖南警察学院: universities/hu-nan-jing-cha-xue-yuan.md
       - 湖南财政经济学院: universities/hu-nan-cai-zheng-jing-ji-xue-yuan.md
       - 湖南财政经济学院雷锋校区: universities/hu-nan-cai-zheng-jing-ji-xue-yuan-lei-feng-xiao-qu.md
+      - 湖南财经工业职业技术学院: universities/hu-nan-cai-jing-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南软件职业技术大学: universities/hu-nan-ruan-jian-zhi-ye-ji-zhu-da-xue.md
       - 湖南邮电职业技术学院: universities/hu-nan-you-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南铁路科技职业技术学院: universities/hu-nan-tie-lu-ke-ji-zhi-ye-ji-zhu-xue-yuan.md
@@ -1411,9 +1489,11 @@
       - 湘潭理工学院: universities/xiang-tan-li-gong-xue-yuan.md
       - 湘西民族职业技术学院的: universities/xiang-xi-min-zu-zhi-ye-ji-zhu-xue-yuan-de.md
       - 衡阳师范学院: universities/heng-yang-shi-fan-xue-yuan.md
+      - 衡阳师范学院东校区: universities/heng-yang-shi-fan-xue-yuan-dong-xiao-qu.md
       - 邵阳学院: universities/shao-yang-xue-yuan.md
       - 郴州职业技术学院: universities/chen-zhou-zhi-ye-ji-zhu-xue-yuan.md
       - 长沙医学院: universities/chang-sha-yi-xue-yuan.md
+      - 长沙卫生职业学院: universities/chang-sha-wei-sheng-zhi-ye-xue-yuan.md
       - 长沙商贸旅游职业技术学院: universities/chang-sha-shang-mao-lu-you-zhi-ye-ji-zhu-xue-yuan.md
       - 长沙学院: universities/chang-sha-xue-yuan.md
       - 长沙师范学院: universities/chang-sha-shi-fan-xue-yuan.md
@@ -1462,10 +1542,12 @@
       - 岭南师范学院: universities/ling-nan-shi-fan-xue-yuan.md
       - 广东东软学院: universities/yan-dong-dong-ruan-xue-yuan.md
       - 广东交通职业技术学院: universities/yan-dong-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md
+      - 广东交通职业技术学院清远校区: universities/yan-dong-jiao-tong-zhi-ye-ji-zhu-xue-yuan-qing-yuan-xiao-qu.md
       - 广东以色列理工学院: universities/yan-dong-yi-se-lie-li-gong-xue-yuan.md
       - 广东农工商职业技术学院: universities/yan-dong-nong-gong-shang-zhi-ye-ji-zhu-xue-yuan.md
       - 广东创新科技职业学院: universities/yan-dong-chuang-xin-ke-ji-zhi-ye-xue-yuan.md
       - 广东医科大学: universities/yan-dong-yi-ke-da-xue.md
+      - 广东医科大学东莞校区: universities/yan-dong-yi-ke-da-xue-dong-wan-xiao-qu.md
       - 广东医科大学湛江校区: universities/yan-dong-yi-ke-da-xue-zhan-jiang-xiao-qu.md
       - 广东南方职业学院: universities/yan-dong-nan-fang-zhi-ye-xue-yuan.md
       - 广东司法警官职业学院: universities/yan-dong-si-fa-jing-guan-zhi-ye-xue-yuan.md
@@ -1485,6 +1567,7 @@
       - 广东工业大学番禺校区: universities/yan-dong-gong-ye-da-xue-fan-yu-xiao-qu.md
       - 广东工业大学龙洞校区: universities/yan-dong-gong-ye-da-xue-long-dong-xiao-qu.md
       - 广东工商职业技术大学: universities/yan-dong-gong-shang-zhi-ye-ji-zhu-da-xue.md
+      - 广东工程职业技术学院: universities/yan-dong-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
       - 广东工程职业技术学院广州校区: universities/yan-dong-gong-cheng-zhi-ye-ji-zhu-xue-yuan-yan-zhou-xiao-qu.md
       - 广东工贸职业技术学院: universities/yan-dong-gong-mao-zhi-ye-ji-zhu-xue-yuan.md
       - 广东技术师范大学: universities/yan-dong-ji-zhu-shi-fan-da-xue.md
@@ -1498,6 +1581,7 @@
       - 广东水利电力职业技术学院从化校区: universities/yan-dong-shui-li-dian-li-zhi-ye-ji-zhu-xue-yuan-cong-hua-xiao-qu.md
       - 广东水利电力职业技术学院天河校区: universities/yan-dong-shui-li-dian-li-zhi-ye-ji-zhu-xue-yuan-tian-he-xiao-qu.md
       - 广东海洋大学: universities/yan-dong-hai-yang-da-xue.md
+      - 广东海洋大学寸金学院湛江科技学院: universities/yan-dong-hai-yang-da-xue-cun-jin-xue-yuan-zhan-jiang-ke-ji-xue-yuan.md
       - 广东海洋大学海滨校区: universities/yan-dong-hai-yang-da-xue-hai-bin-xiao-qu.md
       - 广东环境保护工程职业学院: universities/yan-dong-huan-jing-bao-hu-gong-cheng-zhi-ye-xue-yuan.md
       - 广东理工学院: universities/yan-dong-li-gong-xue-yuan.md
@@ -1517,6 +1601,7 @@
       - 广东职业技术学院: universities/yan-dong-zhi-ye-ji-zhu-xue-yuan.md
       - 广东职业技术学院高明校区: universities/yan-dong-zhi-ye-ji-zhu-xue-yuan-gao-ming-xiao-qu.md
       - 广东舞蹈戏剧职业学院: universities/yan-dong-wu-dao-xi-ju-zhi-ye-xue-yuan.md
+      - 广东茂名健康职业学院: universities/yan-dong-mao-ming-jian-kang-zhi-ye-xue-yuan.md
       - 广东药科大学: universities/yan-dong-yao-ke-da-xue.md
       - 广东药科大学中山校区: universities/yan-dong-yao-ke-da-xue-zhong-shan-xiao-qu.md
       - 广东药科大学云浮: universities/yan-dong-yao-ke-da-xue-yun-fu.md
@@ -1529,6 +1614,7 @@
       - 广东轻工职业技术学院: universities/yan-dong-qing-gong-zhi-ye-ji-zhu-xue-yuan.md
       - 广东轻工职业技术学院南海北区: universities/yan-dong-qing-gong-zhi-ye-ji-zhu-xue-yuan-nan-hai-bei-qu.md
       - 广东轻工职业技术学院南海校区北区: universities/yan-dong-qing-gong-zhi-ye-ji-zhu-xue-yuan-nan-hai-xiao-qu-bei-qu.md
+      - 广东邮电职业技术学院: universities/yan-dong-you-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 广东邮电职业技术学院江门校区: universities/yan-dong-you-dian-zhi-ye-ji-zhu-xue-yuan-jiang-men-xiao-qu.md
       - 广东金融学院: universities/yan-dong-jin-rong-xue-yuan.md
       - 广东金融学院本部校区: universities/yan-dong-jin-rong-xue-yuan-ben-bu-xiao-qu.md
@@ -1540,6 +1626,7 @@
       - 广州华商学院: universities/yan-zhou-hua-shang-xue-yuan.md
       - 广州华商职业学院: universities/yan-zhou-hua-shang-zhi-ye-xue-yuan.md
       - 广州华立学院: universities/yan-zhou-hua-li-xue-yuan.md
+      - 广州华立科技职业学院: universities/yan-zhou-hua-li-ke-ji-zhi-ye-xue-yuan.md
       - 广州南方学院: universities/yan-zhou-nan-fang-xue-yuan.md
       - 广州商学院: universities/yan-zhou-shang-xue-yuan.md
       - 广州城市理工学院: universities/yan-zhou-cheng-shi-li-gong-xue-yuan.md
@@ -1551,6 +1638,7 @@
       - 广州应用科技学院: universities/yan-zhou-ying-yong-ke-ji-xue-yuan.md
       - 广州新华学院: universities/yan-zhou-xin-hua-xue-yuan.md
       - 广州涉外经济职业技术学院: universities/yan-zhou-she-wai-jing-ji-zhi-ye-ji-zhu-xue-yuan.md
+      - 广州现代信息工程职业技术学院: universities/yan-zhou-xian-dai-xin-xi-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
       - 广州理工学院: universities/yan-zhou-li-gong-xue-yuan.md
       - 广州番禺职业技术学院: universities/yan-zhou-fan-yu-zhi-ye-ji-zhu-xue-yuan.md
       - 广州科技职业技术大学: universities/yan-zhou-ke-ji-zhi-ye-ji-zhu-da-xue.md
@@ -1563,13 +1651,16 @@
       - 惠州学院: universities/hui-zhou-xue-yuan.md
       - 惠州工程职业学院: universities/hui-zhou-gong-cheng-zhi-ye-xue-yuan.md
       - 惠州经济职业技术学院: universities/hui-zhou-jing-ji-zhi-ye-ji-zhu-xue-yuan.md
+      - 揭阳职业技术学院: universities/jie-yang-zhi-ye-ji-zhu-xue-yuan.md
       - 星海音乐学院: universities/xing-hai-yin-le-xue-yuan.md
       - 星海音乐学院大学城校区: universities/xing-hai-yin-le-xue-yuan-da-xue-cheng-xiao-qu.md
       - 暨南大学: universities/ji-nan-da-xue-2.md
+      - 暨南大学珠海校区: universities/ji-nan-da-xue-zhu-hai-xiao-qu.md
       - 暨南大学番禺校区: universities/ji-nan-da-xue-fan-yu-xiao-qu.md
       - 汕头大学: universities/shan-tou-da-xue.md
       - 汕头大学医学院: universities/shan-tou-da-xue-yi-xue-yuan.md
       - 汕头大学广东以色列理工学院: universities/shan-tou-da-xue-yan-dong-yi-se-lie-li-gong-xue-yuan.md
+      - 汕头职业技术学院: universities/shan-tou-zhi-ye-ji-zhu-xue-yuan.md
       - 河源职业技术学院: universities/he-yuan-zhi-ye-ji-zhu-xue-yuan.md
       - 深圳信息职业技术学院: universities/shen-zhen-xin-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 深圳北理莫斯科大学: universities/shen-zhen-bei-li-mo-si-ke-da-xue.md
@@ -1580,6 +1671,7 @@
       - 清远职业技术学院: universities/qing-yuan-zhi-ye-ji-zhu-xue-yuan.md
       - 湛江幼儿师范专科学校: universities/zhan-jiang-you-er-shi-fan-zhuan-ke-xue-xiao.md
       - 湛江科技学院: universities/zhan-jiang-ke-ji-xue-yuan.md
+      - 湛江科技学院麻章校区: universities/zhan-jiang-ke-ji-xue-yuan-ma-zhang-xiao-qu.md
       - 珠海城市职业技术学院: universities/zhu-hai-cheng-shi-zhi-ye-ji-zhu-xue-yuan.md
       - 珠海科技学院: universities/zhu-hai-ke-ji-xue-yuan.md
       - 电子科技大学中山学院: universities/dian-zi-ke-ji-da-xue-zhong-shan-xue-yuan.md
@@ -1639,6 +1731,7 @@
       - 广西科技师范学院: universities/yan-xi-ke-ji-shi-fan-xue-yuan.md
       - 广西经贸职业技术学院: universities/yan-xi-jing-mao-zhi-ye-ji-zhu-xue-yuan.md
       - 广西职业师范学院: universities/yan-xi-zhi-ye-shi-fan-xue-yuan.md
+      - 广西职业技术学院: universities/yan-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 广西艺术学院: universities/yan-xi-yi-zhu-xue-yuan.md
       - 广西警察学院: universities/yan-xi-jing-cha-xue-yuan.md
       - 广西财经学院: universities/yan-xi-cai-jing-xue-yuan.md
@@ -1683,6 +1776,7 @@
       - 西南大学北碚校区: universities/xi-nan-da-xue-bei-pei-xiao-qu.md
       - 西南大学荣昌校区: universities/xi-nan-da-xue-rong-chang-xiao-qu.md
       - 西南政法大学: universities/xi-nan-zheng-fa-da-xue.md
+      - 重庆三峡医药高等专科学校: universities/zhong-qing-san-xia-yi-yao-gao-deng-zhuan-ke-xue-xiao.md
       - 重庆三峡学院: universities/zhong-qing-san-xia-xue-yuan.md
       - 重庆交通大学: universities/zhong-qing-jiao-tong-da-xue.md
       - 重庆人文科技学院: universities/zhong-qing-ren-wen-ke-ji-xue-yuan.md
@@ -1702,15 +1796,19 @@
       - 重庆工商大学派斯学院: universities/zhong-qing-gong-shang-da-xue-pai-si-xue-yuan.md
       - 重庆工商职业学院: universities/zhong-qing-gong-shang-zhi-ye-xue-yuan.md
       - 重庆工程学院: universities/zhong-qing-gong-cheng-xue-yuan.md
+      - 重庆工程职业技术学院: universities/zhong-qing-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
       - 重庆师范大学: universities/zhong-qing-shi-fan-da-xue.md
       - 重庆师范大学大学城校区: universities/zhong-qing-shi-fan-da-xue-da-xue-cheng-xiao-qu.md
       - 重庆文理学院: universities/zhong-qing-wen-li-xue-yuan.md
       - 重庆旅游职业学院: universities/zhong-qing-lu-you-zhi-ye-xue-yuan.md
       - 重庆理工大学: universities/zhong-qing-li-gong-da-xue.md
+      - 重庆电力高等专科学校，: universities/zhong-qing-dian-li-gao-deng-zhuan-ke-xue-xiao.md
       - 重庆电子工程职业学院: universities/zhong-qing-dian-zi-gong-cheng-zhi-ye-xue-yuan.md
       - 重庆电讯职业学院: universities/zhong-qing-dian-xun-zhi-ye-xue-yuan.md
       - 重庆科技学院: universities/zhong-qing-ke-ji-xue-yuan.md
+      - 重庆移通学院綦江校区: universities/zhong-qing-yi-tong-xue-yuan-qi-jiang-xiao-qu.md
       - 重庆第二师范学院: universities/zhong-qing-di-er-shi-fan-xue-yuan.md
+      - 重庆能源职业学院: universities/zhong-qing-neng-yuan-zhi-ye-xue-yuan.md
       - 重庆航天职业技术学院: universities/zhong-qing-hang-tian-zhi-ye-ji-zhu-xue-yuan.md
       - 重庆警察学院: universities/zhong-qing-jing-cha-xue-yuan.md
       - 重庆财经学院: universities/zhong-qing-cai-jing-xue-yuan.md
@@ -1727,6 +1825,7 @@
       - 南充科技职业学院: universities/nan-chong-ke-ji-zhi-ye-xue-yuan.md
       - 南充职业技术学院: universities/nan-chong-zhi-ye-ji-zhu-xue-yuan.md
       - 吉利学院: universities/ji-li-xue-yuan.md
+      - 四川交通职业技术学院: universities/si-chuan-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md
       - 四川传媒学院: universities/si-chuan-chuan-mei-xue-yuan.md
       - 四川信息职业技术学院雪峰校区: universities/si-chuan-xin-xi-zhi-ye-ji-zhu-xue-yuan-xue-feng-xiao-qu.md
       - 四川农业大学: universities/si-chuan-nong-ye-da-xue.md
@@ -1734,9 +1833,12 @@
       - 四川农业大学都江堰校区: universities/si-chuan-nong-ye-da-xue-du-jiang-yan-xiao-qu.md
       - 四川农业大学雅安校区: universities/si-chuan-nong-ye-da-xue-ya-an-xiao-qu.md
       - 四川农业大学雅安校区老区: universities/si-chuan-nong-ye-da-xue-ya-an-xiao-qu-lao-qu.md
+      - 四川农业大学雅安校区老区7舍: universities/si-chuan-nong-ye-da-xue-ya-an-xiao-qu-lao-qu-7she.md
       - 四川化工职业技术学院: universities/si-chuan-hua-gong-zhi-ye-ji-zhu-xue-yuan.md
       - 四川华新现代职业学院: universities/si-chuan-hua-xin-xian-dai-zhi-ye-xue-yuan.md
+      - 四川南充电影工业职业学院: universities/si-chuan-nan-chong-dian-ying-gong-ye-zhi-ye-xue-yuan.md
       - 四川司法警官职业学院: universities/si-chuan-si-fa-jing-guan-zhi-ye-xue-yuan.md
+      - 四川商务职业学院文家校区: universities/si-chuan-shang-wu-zhi-ye-xue-yuan-wen-jia-xiao-qu.md
       - 四川城市职业学院: universities/si-chuan-cheng-shi-zhi-ye-xue-yuan.md
       - 四川外国语大学成都学院: universities/si-chuan-wai-guo-yu-da-xue-cheng-du-xue-yuan.md
       - 四川外国语大学成都学院青城校区: universities/si-chuan-wai-guo-yu-da-xue-cheng-du-xue-yuan-qing-cheng-xiao-qu.md
@@ -1771,6 +1873,7 @@
       - 四川音乐学院学院: universities/si-chuan-yin-le-xue-yuan-xue-yuan.md
       - 四川音乐学院新都校区: universities/si-chuan-yin-le-xue-yuan-xin-du-xiao-qu.md
       - 宜宾学院: universities/yi-bin-xue-yuan.md
+      - 宜宾职业技术学院: universities/yi-bin-zhi-ye-ji-zhu-xue-yuan.md
       - 川北医学院: universities/chuan-bei-yi-xue-yuan.md
       - 成都东软学院: universities/cheng-du-dong-ruan-xue-yuan.md
       - 成都中医药大学: universities/cheng-du-zhong-yi-yao-da-xue.md
@@ -1781,6 +1884,7 @@
       - 成都医学院: universities/cheng-du-yi-xue-yuan.md
       - 成都大学: universities/cheng-du-da-xue.md
       - 成都工业学院: universities/cheng-du-gong-ye-xue-yuan.md
+      - 成都工业学院宜宾校区: universities/cheng-du-gong-ye-xue-yuan-yi-bin-xiao-qu.md
       - 成都工贸职业技术学院: universities/cheng-du-gong-mao-zhi-ye-ji-zhu-xue-yuan.md
       - 成都师范学院: universities/cheng-du-shi-fan-xue-yuan.md
       - 成都文理学院: universities/cheng-du-wen-li-xue-yuan.md
@@ -1803,6 +1907,7 @@
       - 西华师范大学: universities/xi-hua-shi-fan-da-xue.md
       - 西南交通大学: universities/xi-nan-jiao-tong-da-xue.md
       - 西南交通大学峨眉校区: universities/xi-nan-jiao-tong-da-xue-e-mei-xiao-qu.md
+      - 西南交通大学希望学院: universities/xi-nan-jiao-tong-da-xue-xi-wang-xue-yuan.md
       - 西南交通大学犀浦校区: universities/xi-nan-jiao-tong-da-xue-xi-pu-xiao-qu.md
       - 西南医科大学: universities/xi-nan-yi-ke-da-xue.md
       - 西南民族大学: universities/xi-nan-min-zu-da-xue.md
@@ -1815,6 +1920,7 @@
       - 西昌学院: universities/xi-chang-xue-yuan.md
     - 贵州:
       - 六盘水师范学院: universities/liu-pan-shui-shi-fan-xue-yuan.md
+      - 凯里学院: universities/kai-li-xue-yuan.md
       - 茅台学院: universities/mao-tai-xue-yuan.md
       - 贵州中医药大学: universities/gui-zhou-zhong-yi-yao-da-xue.md
       - 贵州医科大学: universities/gui-zhou-yi-ke-da-xue.md
@@ -1848,6 +1954,7 @@
       - 丽江文化旅游学院: universities/li-jiang-wen-hua-lu-you-xue-yuan.md
       - 云南中医药大学: universities/yun-nan-zhong-yi-yao-da-xue.md
       - 云南农业大学: universities/yun-nan-nong-ye-da-xue.md
+      - 云南医药健康职业学院: universities/yun-nan-yi-yao-jian-kang-zhi-ye-xue-yuan.md
       - 云南司法警官职业学院: universities/yun-nan-si-fa-jing-guan-zhi-ye-xue-yuan.md
       - 云南大学: universities/yun-nan-da-xue.md
       - 云南大学东陆校区: universities/yun-nan-da-xue-dong-lu-xiao-qu.md
@@ -1864,18 +1971,24 @@
       - 云南财经大学: universities/yun-nan-cai-jing-da-xue.md
       - 大理大学: universities/da-li-da-xue.md
       - 昆明医科大学: universities/kun-ming-yi-ke-da-xue.md
+      - 昆明医科大学海源学院: universities/kun-ming-yi-ke-da-xue-hai-yuan-xue-yuan.md
       - 昆明卫生职业学院: universities/kun-ming-wei-sheng-zhi-ye-xue-yuan.md
       - 昆明城市学院: universities/kun-ming-cheng-shi-xue-yuan.md
       - 昆明学院: universities/kun-ming-xue-yuan.md
       - 昆明幼儿师范高等专科学校。: universities/kun-ming-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
+      - 昆明文理学院: universities/kun-ming-wen-li-xue-yuan.md
       - 昆明理工大学: universities/kun-ming-li-gong-da-xue.md
       - 昆明理工大学呈贡校区: universities/kun-ming-li-gong-da-xue-cheng-gong-xiao-qu.md
       - 昆明理工大学津桥学院: universities/kun-ming-li-gong-da-xue-jin-qiao-xue-yuan.md
+      - 昭通卫生职业学院: universities/zhao-tong-wei-sheng-zhi-ye-xue-yuan.md
+      - 普洱学院: universities/pu-er-xue-yuan.md
       - 曲靖医学高等专科学校: universities/qu-jing-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
+      - 楚雄师范学院: universities/chu-xiong-shi-fan-xue-yuan.md
       - 玉溪师范学院: universities/yu-xi-shi-fan-xue-yuan.md
       - 红河学院: universities/hong-he-xue-yuan.md
       - 西南林业大学: universities/xi-nan-lin-ye-da-xue.md
     - 西藏:
+      - 西藏农牧学院: universities/xi-cang-nong-mu-xue-yuan.md
       - 西藏大学: universities/xi-cang-da-xue.md
       - 西藏民族大学: universities/xi-cang-min-zu-da-xue.md
     - 陕西:
@@ -1911,6 +2024,7 @@
       - 西安文理学院: universities/xi-an-wen-li-xue-yuan.md
       - 西安欧亚学院: universities/xi-an-ou-ya-xue-yuan.md
       - 西安理工大学: universities/xi-an-li-gong-da-xue.md
+      - 西安理工大学高科学院: universities/xi-an-li-gong-da-xue-gao-ke-xue-yuan.md
       - 西安电力高等专科学校: universities/xi-an-dian-li-gao-deng-zhuan-ke-xue-xiao.md
       - 西安电子科技大学: universities/xi-an-dian-zi-ke-ji-da-xue.md
       - 西安电子科技大学南校区: universities/xi-an-dian-zi-ke-ji-da-xue-nan-xiao-qu.md
@@ -1927,6 +2041,8 @@
       - 西安音乐学院: universities/xi-an-yin-le-xue-yuan.md
       - 长安大学: universities/chang-an-da-xue.md
       - 陕西中医药大学: universities/shan-xi-zhong-yi-yao-da-xue-2.md
+      - 陕西交通职业技术学院: universities/shan-xi-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md
+      - 陕西国防工业职业技术学院: universities/shan-xi-guo-fang-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 陕西学前师范学院: universities/shan-xi-xue-qian-shi-fan-xue-yuan.md
       - 陕西师范大学: universities/shan-xi-shi-fan-da-xue.md
       - 陕西服装工程学院: universities/shan-xi-fu-zhuang-gong-cheng-xue-yuan.md
@@ -1948,6 +2064,7 @@
       - 甘肃中医药大学: universities/gan-su-zhong-yi-yao-da-xue.md
       - 甘肃农业大学: universities/gan-su-nong-ye-da-xue.md
       - 甘肃政法大学: universities/gan-su-zheng-fa-da-xue.md
+      - 甘肃警察职业学院: universities/gan-su-jing-cha-zhi-ye-xue-yuan.md
       - 西北师范大学: universities/xi-bei-shi-fan-da-xue.md
       - 西北师范大学知行学院: universities/xi-bei-shi-fan-da-xue-zhi-xing-xue-yuan.md
       - 西北民族大学: universities/xi-bei-min-zu-da-xue.md
@@ -1963,6 +2080,8 @@
       - 宁夏师范学院: universities/zhu-xia-shi-fan-xue-yuan.md
       - 宁夏幼儿师范高等专科学校: universities/zhu-xia-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 宁夏理工学院: universities/zhu-xia-li-gong-xue-yuan.md
+      - 宁夏艺术职业学院: universities/zhu-xia-yi-zhu-zhi-ye-xue-yuan.md
+      - 宁夏财经职业技术学院: universities/zhu-xia-cai-jing-zhi-ye-ji-zhu-xue-yuan.md
       - 石嘴山工贸职业技术学院: universities/shi-zui-shan-gong-mao-zhi-ye-ji-zhu-xue-yuan.md
       - 银川科技学院: universities/yin-chuan-ke-ji-xue-yuan.md
     - 新疆:
@@ -1984,12 +2103,15 @@
       - 新疆财经大学: universities/xin-jiang-cai-jing-da-xue.md
       - 石河子大学: universities/shi-he-zi-da-xue.md
     - 其他:
+      - 1: universities/1.md
+      - 653006464@qq.com: universities/653006464-qq-com.md
       - City University of Hong Kong: universities/city-university-of-hong-kong.md
       - Duke University: universities/duke-university.md
       - Iowa state university: universities/iowa-state-university.md
       - King's College London: universities/king-s-college-london.md
       - Kyoto University of Foreign Studies  京都外国语大学: universities/kyoto-university-of-foreign-studies-jing-du-wai-guo-yu-da-xue.md
       - Massey University: universities/massey-university.md
+      - National University of Singapore: universities/national-university-of-singapore.md
       - New York University: universities/new-york-university.md
       - Syracuse University: universities/syracuse-university.md
       - The University of Sydney: universities/the-university-of-sydney.md
@@ -2001,14 +2123,17 @@
       - University of Illinois Urbana Champaign: universities/university-of-illinois-urbana-champaign.md
       - University of Illinois at Urbana-Champaign: universities/university-of-illinois-at-urbana-champaign.md
       - University of Macao: universities/university-of-macao.md
+      - University of Manchester/ 曼彻斯特大学: universities/university-of-manchester-man-che-si-te-da-xue.md
       - University of Melbourne: universities/university-of-melbourne.md
       - University of Michigan Ann Arbor: universities/university-of-michigan-ann-arbor.md
       - University of Technology Malaysia: universities/university-of-technology-malaysia.md
       - University of Toronto: universities/university-of-toronto-2.md
       - University of Washington华盛顿大学: universities/university-of-washingtonhua-sheng-dun-da-xue.md
       - Università degli Studi di Trento: universities/universita-degli-studi-di-trento.md
+      - swjtu: universities/swjtu.md
       - university of Toronto: universities/university-of-toronto.md
       - university of liverpool: universities/university-of-liverpool.md
+      - xx: universities/xx.md
       - 三十四中: universities/san-shi-si-zhong.md
       - 上海中侨职业技术学校: universities/shang-hai-zhong-qiao-zhi-ye-ji-zhu-xue-xiao.md
       - 上海对外政策大学: universities/shang-hai-dui-wai-zheng-ce-da-xue.md
@@ -2017,6 +2142,8 @@
       - 上海市立达学院: universities/shang-hai-shi-li-da-xue-yuan.md
       - 上海市视觉艺术学院: universities/shang-hai-shi-shi-jue-yi-zhu-xue-yuan.md
       - 上海西南职业技术学院: universities/shang-hai-xi-nan-zhi-ye-ji-zhu-xue-yuan.md
+      - 不想说: universities/bu-xiang-shuo.md
+      - 不知道: universities/bu-zhi-dao.md
       - 东京大学: universities/dong-jing-da-xue.md
       - 东国大学: universities/dong-guo-da-xue.md
       - 中南民族: universities/zhong-nan-min-zu.md
@@ -2024,45 +2151,70 @@
       - 中国地质大学: universities/zhong-guo-di-zhi-da-xue.md
       - 中国美术学校: universities/zhong-guo-mei-zhu-xue-xiao.md
       - 中山市中等专业学校: universities/zhong-shan-shi-zhong-deng-zhuan-ye-xue-xiao.md
+      - 丰禾中学: universities/feng-he-zhong-xue.md
+      - 九姑中学: universities/jiu-gu-zhong-xue.md
       - 仁怀市第一中学: universities/ren-huai-shi-di-yi-zhong-xue.md
+      - 保康一中: universities/bao-kang-yi-zhong.md
+      - 信宜中学: universities/xin-yi-zhong-xue.md
+      - 修武县实验高级中学: universities/xiu-wu-xian-shi-yan-gao-ji-zhong-xue.md
       - 克雷西亚大学: universities/ke-lei-xi-ya-da-xue.md
+      - 内黄一中: universities/nei-huang-yi-zhong.md
+      - 利玛窦中学: universities/li-ma-dou-zhong-xue.md
+      - 加里敦大学: universities/jia-li-dun-da-xue.md
       - 北海设计艺术学院: universities/bei-hai-she-ji-yi-zhu-xue-yuan.md
+      - 华侨中学: universities/hua-qiao-zhong-xue.md
+      - 华南师大附中汕尾: universities/hua-nan-shi-da-fu-zhong-shan-wei.md
       - 协和医学院-护理学院: universities/xie-he-yi-xue-yuan-hu-li-xue-yuan.md
       - 南京工业职业技术学院: universities/nan-jing-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 南通城市建筑职业学院: universities/nan-tong-cheng-shi-jian-zhu-zhi-ye-xue-yuan.md
       - 去: universities/qu.md
       - 吉林工程职业技术学院: universities/ji-lin-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
+      - 哈密市第二中学: universities/ha-mi-shi-di-er-zhong-xue.md
+      - 哈尔滨酱料大学: universities/ha-er-bin-jiang-liao-da-xue.md
       - 大冶市职业技术学校: universities/da-ye-shi-zhi-ye-ji-zhu-xue-xiao.md
       - 天津职业大学海河园校区: universities/tian-jin-zhi-ye-da-xue-hai-he-yuan-xiao-qu.md
+      - 天门职业教育中心: universities/tian-men-zhi-ye-jiao-yu-zhong-xin.md
+      - 学习院大学: universities/xue-xi-yuan-da-xue.md
       - 宁夏能源学院: universities/zhu-xia-neng-yuan-xue-yuan.md
+      - 宁波市东恩中学: universities/zhu-bo-shi-dong-en-zhong-xue.md
       - 安徽省天长中学: universities/an-hui-sheng-tian-chang-zhong-xue.md
+      - 宏图学校: universities/hong-tu-xue-xiao.md
       - 对外经贸大学: universities/dui-wai-jing-mao-da-xue.md
       - 工程大学: universities/gong-cheng-da-xue.md
       - 广东省城市建设技师学院: universities/yan-dong-sheng-cheng-shi-jian-she-ji-shi-xue-yuan.md
+      - 广东省机械技师学院江高校区: universities/yan-dong-sheng-ji-jie-ji-shi-xue-yuan-jiang-gao-xiao-qu.md
       - 广外南国: universities/yan-wai-nan-guo.md
       - 广州市医药职业学校: universities/yan-zhou-shi-yi-yao-zhi-ye-xue-xiao.md
       - 广州市卫生职业技术学院: universities/yan-zhou-shi-wei-sheng-zhi-ye-ji-zhu-xue-yuan.md
       - 张家界文艺法学院: universities/zhang-jia-jie-wen-yi-fa-xue-yuan.md
       - 徐州医科大雪: universities/xu-zhou-yi-ke-da-xue-2.md
       - 徐沟中学: universities/xu-gou-zhong-xue.md
+      - 忘记了: universities/wang-ji-liao.md
       - 悉尼大学: universities/xi-ni-da-xue.md
       - 成都外国语学院: universities/cheng-du-wai-guo-yu-xue-yuan.md
       - 我来看看调查问卷设计: universities/wo-lai-kan-kan-diao-cha-wen-juan-she-ji.md
       - 抚州医学院: universities/fu-zhou-yi-xue-yuan.md
       - 抚州幼儿师范高等专科学校: universities/fu-zhou-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
+      - 抚顺师范高等专科: universities/fu-shun-shi-fan-gao-deng-zhuan-ke.md
       - 揭阳第一中学榕江新城学校: universities/jie-yang-di-yi-zhong-xue-rong-jiang-xin-cheng-xue-xiao.md
+      - 新会第一中学: universities/xin-hui-di-yi-zhong-xue.md
       - 新昌技师学院: universities/xin-chang-ji-shi-xue-yuan.md
       - 无锡卫生高等职业技术学校: universities/wu-xi-wei-sheng-gao-deng-zhi-ye-ji-zhu-xue-xiao.md
+      - 曲靖衡水实验中学: universities/qu-jing-heng-shui-shi-yan-zhong-xue.md
       - 朝阳大学: universities/zhao-yang-da-xue.md
       - 梅州中学: universities/mei-zhou-zhong-xue.md
       - 武平县第二中学: universities/wu-ping-xian-di-er-zhong-xue.md
+      - 武汉凡谷电子职业技术学校: universities/wu-yi-fan-gu-dian-zi-zhi-ye-ji-zhu-xue-xiao.md
       - 武汉枫叶国际学校: universities/wu-yi-feng-xie-guo-ji-xue-xiao.md
+      - 武胜中学学校: universities/wu-sheng-zhong-xue-xue-xiao.md
       - 毛坦厂中学: universities/mao-tan-han-zhong-xue.md
       - 永新中等专业学校: universities/yong-xin-zhong-deng-zhuan-ye-xue-xiao.md
+      - 汝州市万基高级中学: universities/ru-zhou-shi-mo-ji-gao-ji-zhong-xue.md
       - 江苏c财会职业学院: universities/jiang-su-ccai-hui-zhi-ye-xue-yuan.md
       - 江苏省徐州财经高等职业技术学校: universities/jiang-su-sheng-xu-zhou-cai-jing-gao-deng-zhi-ye-ji-zhu-xue-xiao.md
       - 江西省泰豪动漫职业学院: universities/jiang-xi-sheng-tai-hao-dong-man-zhi-ye-xue-yuan.md
       - 沙溪中学: universities/sha-xi-zhong-xue.md
+      - 河北工业职业技术学院大学: universities/he-bei-gong-ye-zhi-ye-ji-zhu-xue-yuan-da-xue.md
       - 河南省济源第一中学: universities/he-nan-sheng-ji-yuan-di-yi-zhong-xue.md
       - 洛阳师范大学: universities/luo-yang-shi-fan-da-xue.md
       - 浙大附中: universities/zhe-da-fu-zhong.md
@@ -2077,20 +2229,30 @@
       - 湖北信息工程学校: universities/hu-bei-xin-xi-gong-cheng-xue-xiao.md
       - 湖北省艺术职业学院: universities/hu-bei-sheng-yi-zhu-zhi-ye-xue-yuan.md
       - 湛江财贸学校: universities/zhan-jiang-cai-mao-xue-xiao.md
+      - 滕州科技职业高中: universities/teng-zhou-ke-ji-zhi-ye-gao-zhong.md
       - 澳门城市大学: universities/ao-men-cheng-shi-da-xue.md
       - 澳门大学: universities/ao-men-da-xue.md
       - 澳门旅游学院: universities/ao-men-lu-you-xue-yuan.md
+      - 澳门理工大学: universities/ao-men-li-gong-da-xue.md
       - 澳门科技大学: universities/ao-men-ke-ji-da-xue.md
       - 爱丁堡大学: universities/ai-ding-bao-da-xue.md
       - 甘肃省酒泉市肃州中学: universities/gan-su-sheng-jiu-quan-shi-su-zhou-zhong-xue.md
       - 白云工商技师学院: universities/bai-yun-gong-shang-ji-shi-xue-yuan.md
+      - 福州医科大: universities/fu-zhou-yi-ke-da.md
       - 福建中华技师学院福清校区: universities/fu-jian-zhong-hua-ji-shi-xue-yuan-fu-qing-xiao-qu.md
       - 福建开放大学晋安校区: universities/fu-jian-kai-fang-da-xue-jin-an-xiao-qu.md
+      - 福建船政: universities/fu-jian-chuan-zheng.md
       - 纽约大学: universities/niu-yue-da-xue.md
+      - 绵阳南山中学: universities/mian-yang-nan-shan-zhong-xue.md
+      - 芮城中学: universities/rui-cheng-zhong-xue.md
+      - 苏州市吴中技师学院: universities/su-zhou-shi-wu-zhong-ji-shi-xue-yuan.md
       - 苏州市职业大学: universities/su-zhou-shi-zhi-ye-da-xue.md
       - 英属哥伦比亚大学: universities/ying-shu-ge-lun-bi-ya-da-xue.md
+      - 蕲春实验高级中学: universities/qi-chun-shi-yan-gao-ji-zhong-xue.md
       - 衡阳技师学院: universities/heng-yang-ji-shi-xue-yuan.md
       - 西交大城市学院: universities/xi-jiao-da-cheng-shi-xue-yuan.md
+      - 西南航空职业学院: universities/xi-nan-hang-kong-zhi-ye-xue-yuan.md
+      - 西双版纳州第二中学: universities/xi-shuang-ban-na-zhou-di-er-zhong-xue.md
       - 西安市五环中学: universities/xi-an-shi-wu-huan-zhong-xue.md
       - 西安市财经大学行知学院: universities/xi-an-shi-cai-jing-da-xue-xing-zhi-xue-yuan.md
       - 辅仁大学: universities/fu-ren-da-xue.md
@@ -2102,6 +2264,7 @@
       - 重庆科创职业技术学院: universities/zhong-qing-ke-chuang-zhi-ye-ji-zhu-xue-yuan.md
       - 长广志医科大学: universities/chang-yan-zhi-yi-ke-da-xue.md
       - 陕西省商业学校: universities/shan-xi-sheng-shang-ye-xue-xiao.md
+      - 陵水中学: universities/ling-shui-zhong-xue.md
       - 青龙山拿: universities/qing-long-shan-na.md
       - 韩国外国语大学 한국외국어대학교: universities/han-guo-wai-guo-yu-da-xue-hangugoegugeodaehaggyo.md
       - 顺德职业技术学校: universities/shun-de-zhi-ye-ji-zhu-xue-xiao.md
