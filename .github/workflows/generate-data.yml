@@ -68,6 +68,4 @@ jobs:
         mv questionnaires/dist/mkdocs.yml colleges.chat/mkdocs.yml
         cd colleges.chat
         git add -A
-        git commit -m "update: $commit_message"
-        git push
-        
+        if ! git diff-index --quiet HEAD --; then git commit -m "update: $commit_message" && git push -f ; fi      
