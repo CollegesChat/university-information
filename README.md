@@ -800,8 +800,6 @@
 
 [华南农业大学珠江学院](./docs/universities/hua-nan-nong-ye-da-xue-zhu-jiang-xue-yuan.md)
 
-[华南师大附中汕尾](./docs/universities/hua-nan-shi-da-fu-zhong-shan-wei.md)
-
 [华南师范大学](./docs/universities/hua-nan-shi-fan-da-xue.md)
 
 [华南师范大学大学城校区](./docs/universities/hua-nan-shi-fan-da-xue-da-xue-cheng-xiao-qu.md)
@@ -1201,8 +1199,6 @@
 [哈尔滨职业技术学院](./docs/universities/ha-er-bin-zhi-ye-ji-zhu-xue-yuan.md)
 
 [哈尔滨远东理工学院](./docs/universities/ha-er-bin-yuan-dong-li-gong-xue-yuan.md)
-
-[哈尔滨酱料大学](./docs/universities/ha-er-bin-jiang-liao-da-xue.md)
 
 [哈尔滨金融学院](./docs/universities/ha-er-bin-jin-rong-xue-yuan.md)
 
@@ -2328,8 +2324,6 @@
 
 [抚顺师范高等专科](./docs/universities/fu-shun-shi-fan-gao-deng-zhuan-ke.md)
 
-[揭阳第一中学榕江新城学校](./docs/universities/jie-yang-di-yi-zhong-xue-rong-jiang-xin-cheng-xue-xiao.md)
-
 [揭阳职业技术学院](./docs/universities/jie-yang-zhi-ye-ji-zhu-xue-yuan.md)
 
 [文华学院](./docs/universities/wen-hua-xue-yuan.md)
@@ -2572,8 +2566,6 @@
 
 [武汉晴川学院](./docs/universities/wu-yi-qing-chuan-xue-yuan.md)
 
-[武汉枫叶国际学校](./docs/universities/wu-yi-feng-xie-guo-ji-xue-xiao.md)
-
 [武汉理工大学](./docs/universities/wu-yi-li-gong-da-xue.md)
 
 [武汉理工大学余家头校区](./docs/universities/wu-yi-li-gong-da-xue-yu-jia-tou-xiao-qu.md)
@@ -2612,11 +2604,7 @@
 
 [武汉音乐学院](./docs/universities/wu-yi-yin-le-xue-yuan.md)
 
-[武胜中学学校](./docs/universities/wu-sheng-zhong-xue-xue-xiao.md)
-
 [永州师范高等专科学校](./docs/universities/yong-zhou-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
-
-[永新中等专业学校](./docs/universities/yong-xin-zhong-deng-zhuan-ye-xue-xiao.md)
 
 [汉中职业技术学院](./docs/universities/yi-zhong-zhi-ye-ji-zhu-xue-yuan.md)
 
