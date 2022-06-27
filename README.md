@@ -6,10 +6,6 @@
 
 ## 大学列表（以 Python 默认排列方式为排列顺序）
 
-[1](./docs/universities/1.md)
-
-[653006464@qq.com](./docs/universities/653006464-qq-com.md)
-
 [City University of Hong Kong](./docs/universities/city-university-of-hong-kong.md)
 
 [Duke University](./docs/universities/duke-university.md)
@@ -60,13 +56,9 @@
 
 [Università degli Studi di Trento](./docs/universities/universita-degli-studi-di-trento.md)
 
-[swjtu](./docs/universities/swjtu.md)
-
 [university of Toronto](./docs/universities/university-of-toronto.md)
 
 [university of liverpool](./docs/universities/university-of-liverpool.md)
-
-[xx](./docs/universities/xx.md)
 
 [三亚学院](./docs/universities/san-ya-xue-yuan.md)
 
@@ -105,6 +97,8 @@
 [上海健康医学院南苑](./docs/universities/shang-hai-jian-kang-yi-xue-yuan-nan-yuan.md)
 
 [上海健康医学院新南苑](./docs/universities/shang-hai-jian-kang-yi-xue-yuan-xin-nan-yuan.md)
+
+[上海公安学院](./docs/universities/shang-hai-gong-an-xue-yuan.md)
 
 [上海农林职业技术学院](./docs/universities/shang-hai-nong-lin-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -190,6 +184,8 @@
 
 [上海电力大学](./docs/universities/shang-hai-dian-li-da-xue.md)
 
+[上海电子信息职业技术学院](./docs/universities/shang-hai-dian-zi-xin-xi-zhi-ye-ji-zhu-xue-yuan.md)
+
 [上海电影艺术职业学院](./docs/universities/shang-hai-dian-ying-yi-zhu-zhi-ye-xue-yuan.md)
 
 [上海电机学院](./docs/universities/shang-hai-dian-ji-xue-yuan.md)
@@ -222,13 +218,11 @@
 
 [上海音乐学院](./docs/universities/shang-hai-yin-le-xue-yuan.md)
 
+[上犹中学](./docs/universities/shang-you-zhong-xue.md)
+
 [上饶师范学院](./docs/universities/shang-rao-shi-fan-xue-yuan.md)
 
 [上饶职业技术学院](./docs/universities/shang-rao-zhi-ye-ji-zhu-xue-yuan.md)
-
-[不想说](./docs/universities/bu-xiang-shuo.md)
-
-[不知道](./docs/universities/bu-zhi-dao.md)
 
 [东京大学](./docs/universities/dong-jing-da-xue.md)
 
@@ -530,6 +524,8 @@
 
 [信阳师范学院淮河校区](./docs/universities/xin-yang-shi-fan-xue-yuan-huai-he-xiao-qu.md)
 
+[信阳航空职业学院](./docs/universities/xin-yang-hang-kong-zhi-ye-xue-yuan.md)
+
 [修武县实验高级中学](./docs/universities/xiu-wu-xian-shi-yan-gao-ji-zhong-xue.md)
 
 [克拉玛依职业技术学院](./docs/universities/ke-la-ma-yi-zhi-ye-ji-zhu-xue-yuan.md)
@@ -762,6 +758,8 @@
 
 [华东师范大学中北校区](./docs/universities/hua-dong-shi-fan-da-xue-zhong-bei-xiao-qu.md)
 
+[华东师范大学中北校区十七舍](./docs/universities/hua-dong-shi-fan-da-xue-zhong-bei-xiao-qu-shi-qi-she.md)
+
 [华东师范大学中北校区第五宿舍](./docs/universities/hua-dong-shi-fan-da-xue-zhong-bei-xiao-qu-di-wu-su-she.md)
 
 [华东师范大学闵行校区](./docs/universities/hua-dong-shi-fan-da-xue-min-xing-xiao-qu.md)
@@ -932,6 +930,8 @@
 
 [南京财经大学](./docs/universities/nan-jing-cai-jing-da-xue.md)
 
+[南京财经大学红山学院](./docs/universities/nan-jing-cai-jing-da-xue-hong-shan-xue-yuan.md)
+
 [南京邮电大学](./docs/universities/nan-jing-you-dian-da-xue.md)
 
 [南京邮电大学三牌楼校区](./docs/universities/nan-jing-you-dian-da-xue-san-pai-lou-xiao-qu.md)
@@ -982,6 +982,8 @@
 
 [南昌大学前湖北校区](./docs/universities/nan-chang-da-xue-qian-hu-bei-xiao-qu.md)
 
+[南昌大学前湖校区](./docs/universities/nan-chang-da-xue-qian-hu-xiao-qu.md)
+
 [南昌大学医学院](./docs/universities/nan-chang-da-xue-yi-xue-yuan.md)
 
 [南昌工学院](./docs/universities/nan-chang-gong-xue-yuan.md)
@@ -999,6 +1001,8 @@
 [南昌职业大学](./docs/universities/nan-chang-zhi-ye-da-xue.md)
 
 [南昌航空大学](./docs/universities/nan-chang-hang-kong-da-xue.md)
+
+[南昌航空大学人民武装学院江西开放大学人民武装学院](./docs/universities/nan-chang-hang-kong-da-xue-ren-min-wu-zhuang-xue-yuan-jiang-xi-kai-fang-da-xue-ren-min-wu-zhuang-xue-yuan.md)
 
 [南昌航空大学科技学院](./docs/universities/nan-chang-hang-kong-da-xue-ke-ji-xue-yuan.md)
 
@@ -1048,13 +1052,13 @@
 
 [厦门工学院](./docs/universities/sha-men-gong-xue-yuan.md)
 
+[厦门市集美职业技术学校](./docs/universities/sha-men-shi-ji-mei-zhi-ye-ji-zhu-xue-xiao.md)
+
 [厦门海洋职业技术学院翔安校区](./docs/universities/sha-men-hai-yang-zhi-ye-ji-zhu-xue-yuan-xiang-an-xiao-qu.md)
 
 [厦门理工学院](./docs/universities/sha-men-li-gong-xue-yuan.md)
 
 [厦门软件职业技术学院](./docs/universities/sha-men-ruan-jian-zhi-ye-ji-zhu-xue-yuan.md)
-
-[去](./docs/universities/qu.md)
 
 [台州学院](./docs/universities/tai-zhou-xue-yuan.md)
 
@@ -1063,6 +1067,8 @@
 [台州职业技术学院](./docs/universities/tai-zhou-zhi-ye-ji-zhu-xue-yuan.md)
 
 [右江民族医学院](./docs/universities/you-jiang-min-zu-yi-xue-yuan.md)
+
+[合肥八中](./docs/universities/he-fei-ba-zhong.md)
 
 [合肥学院](./docs/universities/he-fei-xue-yuan.md)
 
@@ -1160,6 +1166,8 @@
 
 [同济大学浙江学院](./docs/universities/tong-ji-da-xue-zhe-jiang-xue-yuan.md)
 
+[向明中学](./docs/universities/xiang-ming-zhong-xue.md)
+
 [吕梁学院](./docs/universities/lu-liang-xue-yuan.md)
 
 [周口师范学院](./docs/universities/zhou-kou-shi-fan-xue-yuan.md)
@@ -1203,6 +1211,8 @@
 [哈尔滨工业大学深圳](./docs/universities/ha-er-bin-gong-ye-da-xue-shen-zhen.md)
 
 [哈尔滨工程大学](./docs/universities/ha-er-bin-gong-cheng-da-xue.md)
+
+[哈尔滨工程大学青岛校区](./docs/universities/ha-er-bin-gong-cheng-da-xue-qing-dao-xiao-qu.md)
 
 [哈尔滨师范大学](./docs/universities/ha-er-bin-shi-fan-da-xue.md)
 
@@ -1252,13 +1262,19 @@
 
 [嘉兴学院梁林校区](./docs/universities/jia-xing-xue-yuan-liang-lin-xiao-qu.md)
 
+[嘉兴职业技术学院](./docs/universities/jia-xing-zhi-ye-ji-zhu-xue-yuan.md)
+
 [嘉应学院](./docs/universities/jia-ying-xue-yuan.md)
 
 [嘉应学院医学院](./docs/universities/jia-ying-xue-yuan-yi-xue-yuan.md)
 
+[四川三河职业学院](./docs/universities/si-chuan-san-he-zhi-ye-xue-yuan.md)
+
 [四川交通职业技术学院](./docs/universities/si-chuan-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md)
 
 [四川传媒学院](./docs/universities/si-chuan-chuan-mei-xue-yuan.md)
+
+[四川信息职业技术学院](./docs/universities/si-chuan-xin-xi-zhi-ye-ji-zhu-xue-yuan.md)
 
 [四川信息职业技术学院雪峰校区](./docs/universities/si-chuan-xin-xi-zhi-ye-ji-zhu-xue-yuan-xue-feng-xiao-qu.md)
 
@@ -1375,6 +1391,8 @@
 [外交学院](./docs/universities/wai-jiao-xue-yuan.md)
 
 [大冶市职业技术学校](./docs/universities/da-ye-shi-zhi-ye-ji-zhu-xue-xiao.md)
+
+[大庆师范学院](./docs/universities/da-qing-shi-fan-xue-yuan.md)
 
 [大理大学](./docs/universities/da-li-da-xue.md)
 
@@ -1530,6 +1548,8 @@
 
 [宁夏大学新华学院](./docs/universities/zhu-xia-da-xue-xin-hua-xue-yuan.md)
 
+[宁夏工商职业技术学院](./docs/universities/zhu-xia-gong-shang-zhi-ye-ji-zhu-xue-yuan.md)
+
 [宁夏师范学院](./docs/universities/zhu-xia-shi-fan-xue-yuan.md)
 
 [宁夏幼儿师范高等专科学校](./docs/universities/zhu-xia-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
@@ -1576,6 +1596,8 @@
 
 [安徽中医药大学梅山路校区](./docs/universities/an-hui-zhong-yi-yao-da-xue-mei-shan-lu-xiao-qu.md)
 
+[安徽中医药高等专科学校](./docs/universities/an-hui-zhong-yi-yao-gao-deng-zhuan-ke-xue-xiao.md)
+
 [安徽信息工程学院](./docs/universities/an-hui-xin-xi-gong-cheng-xue-yuan.md)
 
 [安徽公安职业学院](./docs/universities/an-hui-gong-an-zhi-ye-xue-yuan.md)
@@ -1584,9 +1606,13 @@
 
 [安徽医科大学](./docs/universities/an-hui-yi-ke-da-xue.md)
 
+[安徽合肥技师学院](./docs/universities/an-hui-he-fei-ji-shi-xue-yuan.md)
+
 [安徽商贸职业技术学院](./docs/universities/an-hui-shang-mao-zhi-ye-ji-zhu-xue-yuan.md)
 
 [安徽国防科技职业学院](./docs/universities/an-hui-guo-fang-ke-ji-zhi-ye-xue-yuan.md)
+
+[安徽国际商务职业学院](./docs/universities/an-hui-guo-ji-shang-wu-zhi-ye-xue-yuan.md)
 
 [安徽城市管理职业学院](./docs/universities/an-hui-cheng-shi-guan-li-zhi-ye-xue-yuan.md)
 
@@ -1674,6 +1700,8 @@
 
 [宿州学院](./docs/universities/su-zhou-xue-yuan.md)
 
+[宿州航空职业学院](./docs/universities/su-zhou-hang-kong-zhi-ye-xue-yuan.md)
+
 [宿迁学院](./docs/universities/su-qian-xue-yuan.md)
 
 [对外经济贸易大学](./docs/universities/dui-wai-jing-ji-mao-yi-da-xue.md)
@@ -1717,6 +1745,8 @@
 [山东圣翰财贸职业学院](./docs/universities/shan-dong-sheng-han-cai-mao-zhi-ye-xue-yuan.md)
 
 [山东城市建设职业学院](./docs/universities/shan-dong-cheng-shi-jian-she-zhi-ye-xue-yuan.md)
+
+[山东外事职业大学](./docs/universities/shan-dong-wai-shi-zhi-ye-da-xue.md)
 
 [山东外国语职业技术大学](./docs/universities/shan-dong-wai-guo-yu-zhi-ye-ji-zhu-da-xue.md)
 
@@ -1778,6 +1808,8 @@
 
 [山东畜牧兽医职业学院](./docs/universities/shan-dong-chu-mu-shou-yi-zhi-ye-xue-yuan.md)
 
+[山东石油化工学院](./docs/universities/shan-dong-shi-you-hua-gong-xue-yuan.md)
+
 [山东科技大学](./docs/universities/shan-dong-ke-ji-da-xue.md)
 
 [山东科技大学济南校区](./docs/universities/shan-dong-ke-ji-da-xue-ji-nan-xiao-qu.md)
@@ -1832,6 +1864,8 @@
 
 [山西医科大学汾阳学院](./docs/universities/shan-xi-yi-ke-da-xue-fen-yang-xue-yuan.md)
 
+[山西华澳商贸职业学院](./docs/universities/shan-xi-hua-ao-shang-mao-zhi-ye-xue-yuan.md)
+
 [山西大同大学](./docs/universities/shan-xi-da-tong-da-xue.md)
 
 [山西大学](./docs/universities/shan-xi-da-xue.md)
@@ -1840,7 +1874,11 @@
 
 [山西工学院](./docs/universities/shan-xi-gong-xue-yuan.md)
 
+[山西工程科技职业大学](./docs/universities/shan-xi-gong-cheng-ke-ji-zhi-ye-da-xue.md)
+
 [山西工程职业学院](./docs/universities/shan-xi-gong-cheng-zhi-ye-xue-yuan.md)
+
+[山西工程职业学院龙潭校区](./docs/universities/shan-xi-gong-cheng-zhi-ye-xue-yuan-long-tan-xiao-qu.md)
 
 [山西师范大学](./docs/universities/shan-xi-shi-fan-da-xue-2.md)
 
@@ -1986,6 +2024,8 @@
 
 [广东白云学院北校区](./docs/universities/yan-dong-bai-yun-xue-yuan-bei-xiao-qu.md)
 
+[广东白云学院西校区](./docs/universities/yan-dong-bai-yun-xue-yuan-xi-xiao-qu.md)
+
 [广东省城市建设技师学院](./docs/universities/yan-dong-sheng-cheng-shi-jian-she-ji-shi-xue-yuan.md)
 
 [广东省外语艺术职业学院](./docs/universities/yan-dong-sheng-wai-yu-yi-zhu-zhi-ye-xue-yuan.md)
@@ -2010,11 +2050,15 @@
 
 [广东职业技术学院](./docs/universities/yan-dong-zhi-ye-ji-zhu-xue-yuan.md)
 
+[广东职业技术学院澜石校区](./docs/universities/yan-dong-zhi-ye-ji-zhu-xue-yuan-lan-shi-xiao-qu.md)
+
 [广东职业技术学院高明校区](./docs/universities/yan-dong-zhi-ye-ji-zhu-xue-yuan-gao-ming-xiao-qu.md)
 
 [广东舞蹈戏剧职业学院](./docs/universities/yan-dong-wu-dao-xi-ju-zhi-ye-xue-yuan.md)
 
 [广东茂名健康职业学院](./docs/universities/yan-dong-mao-ming-jian-kang-zhi-ye-xue-yuan.md)
+
+[广东茂名幼儿师范专科学校](./docs/universities/yan-dong-mao-ming-you-er-shi-fan-zhuan-ke-xue-xiao.md)
 
 [广东药科大学](./docs/universities/yan-dong-yao-ke-da-xue.md)
 
@@ -2048,6 +2092,8 @@
 
 [广东金融学院本部校区](./docs/universities/yan-dong-jin-rong-xue-yuan-ben-bu-xiao-qu.md)
 
+[广东金融学院清远校区](./docs/universities/yan-dong-jin-rong-xue-yuan-qing-yuan-xiao-qu.md)
+
 [广东食品药品职业学院](./docs/universities/yan-dong-shi-pin-yao-pin-zhi-ye-xue-yuan.md)
 
 [广外南国](./docs/universities/yan-wai-nan-guo.md)
@@ -2069,6 +2115,8 @@
 [广州华立科技职业学院](./docs/universities/yan-zhou-hua-li-ke-ji-zhi-ye-xue-yuan.md)
 
 [广州南方学院](./docs/universities/yan-zhou-nan-fang-xue-yuan.md)
+
+[广州南方学院原中山大学南方学院](./docs/universities/yan-zhou-nan-fang-xue-yuan-yuan-zhong-shan-da-xue-nan-fang-xue-yuan.md)
 
 [广州商学院](./docs/universities/yan-zhou-shang-xue-yuan.md)
 
@@ -2202,6 +2250,8 @@
 
 [开封大学](./docs/universities/kai-feng-da-xue.md)
 
+[开封文化艺术职业学院](./docs/universities/kai-feng-wen-hua-yi-zhu-zhi-ye-xue-yuan.md)
+
 [张家口学院](./docs/universities/zhang-jia-kou-xue-yuan.md)
 
 [张家口职业技术学院](./docs/universities/zhang-jia-kou-zhi-ye-ji-zhu-xue-yuan.md)
@@ -2225,8 +2275,6 @@
 [徐沟中学](./docs/universities/xu-gou-zhong-xue.md)
 
 [德州学院](./docs/universities/de-zhou-xue-yuan.md)
-
-[忘记了](./docs/universities/wang-ji-liao.md)
 
 [忻州师范学院](./docs/universities/xin-zhou-shi-fan-xue-yuan.md)
 
@@ -2296,8 +2344,6 @@
 
 [成都锦城学院](./docs/universities/cheng-du-jin-cheng-xue-yuan.md)
 
-[我来看看调查问卷设计](./docs/universities/wo-lai-kan-kan-diao-cha-wen-juan-she-ji.md)
-
 [所沈阳化工大学](./docs/universities/suo-chen-yang-hua-gong-da-xue.md)
 
 [扬州中瑞酒店职业学院](./docs/universities/yang-zhou-zhong-rui-jiu-dian-zhi-ye-xue-yuan.md)
@@ -2328,6 +2374,8 @@
 
 [新乡医学院三全学院](./docs/universities/xin-xiang-yi-xue-yuan-san-quan-xue-yuan.md)
 
+[新乡县第一中学](./docs/universities/xin-xiang-xian-di-yi-zhong-xue.md)
+
 [新乡学院](./docs/universities/xin-xiang-xue-yuan.md)
 
 [新乡工程学院](./docs/universities/xin-xiang-gong-cheng-xue-yuan.md)
@@ -2335,6 +2383,8 @@
 [新乡职业技术学院](./docs/universities/xin-xiang-zhi-ye-ji-zhu-xue-yuan.md)
 
 [新会第一中学](./docs/universities/xin-hui-di-yi-zhong-xue.md)
+
+[新余学院](./docs/universities/xin-yu-xue-yuan.md)
 
 [新昌技师学院](./docs/universities/xin-chang-ji-shi-xue-yuan.md)
 
@@ -2348,6 +2398,8 @@
 
 [新疆大学红湖校区](./docs/universities/xin-jiang-da-xue-hong-hu-xiao-qu.md)
 
+[新疆工程学院](./docs/universities/xin-jiang-gong-cheng-xue-yuan.md)
+
 [新疆师范大学](./docs/universities/xin-jiang-shi-fan-da-xue.md)
 
 [新疆昌吉学院](./docs/universities/xin-jiang-chang-ji-xue-yuan.md)
@@ -2359,6 +2411,8 @@
 [新疆财经大学](./docs/universities/xin-jiang-cai-jing-da-xue.md)
 
 [无锡卫生高等职业技术学校](./docs/universities/wu-xi-wei-sheng-gao-deng-zhi-ye-ji-zhu-xue-xiao.md)
+
+[无锡商业职业技术学院](./docs/universities/wu-xi-shang-ye-zhi-ye-ji-zhu-xue-yuan.md)
 
 [无锡城市职业技术学院](./docs/universities/wu-xi-cheng-shi-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -2432,6 +2486,8 @@
 
 [曲靖衡水实验中学](./docs/universities/qu-jing-heng-shui-shi-yan-zhong-xue.md)
 
+[曾子学校](./docs/universities/ceng-zi-xue-xiao.md)
+
 [朝阳大学](./docs/universities/zhao-yang-da-xue.md)
 
 [杭州万向职业技术学院](./docs/universities/hang-zhou-mo-xiang-zhi-ye-ji-zhu-xue-yuan.md)
@@ -2462,13 +2518,21 @@
 
 [枣庄学院新城校区](./docs/universities/zao-zhuang-xue-yuan-xin-cheng-xiao-qu.md)
 
+[柳州城市职业学院](./docs/universities/liu-zhou-cheng-shi-zhi-ye-xue-yuan.md)
+
 [柳州城市职业学院官塘校区](./docs/universities/liu-zhou-cheng-shi-zhi-ye-xue-yuan-guan-tang-xiao-qu.md)
 
 [柳州工学院](./docs/universities/liu-zhou-gong-xue-yuan.md)
 
 [柳州职业技术学院官塘校区](./docs/universities/liu-zhou-zhi-ye-ji-zhu-xue-yuan-guan-tang-xiao-qu.md)
 
+[柳州铁一中学](./docs/universities/liu-zhou-tie-yi-zhong-xue.md)
+
+[柳铁一中](./docs/universities/liu-tie-yi-zhong.md)
+
 [桂林信息科技学院](./docs/universities/gui-lin-xin-xi-ke-ji-xue-yuan.md)
+
+[桂林信息科技学院原桂林电子科技大学信息科技学院，今年已更名](./docs/universities/gui-lin-xin-xi-ke-ji-xue-yuan-yuan-gui-lin-dian-zi-ke-ji-da-xue-xin-xi-ke-ji-xue-yuan-jin-nian-yi-geng-ming.md)
 
 [桂林医学院](./docs/universities/gui-lin-yi-xue-yuan.md)
 
@@ -2495,6 +2559,8 @@
 [梅州中学](./docs/universities/mei-zhou-zhong-xue.md)
 
 [梧州学院](./docs/universities/wu-zhou-xue-yuan.md)
+
+[梧州市第一中学](./docs/universities/wu-zhou-shi-di-yi-zhong-xue.md)
 
 [楚雄师范学院](./docs/universities/chu-xiong-shi-fan-xue-yuan.md)
 
@@ -2584,6 +2650,8 @@
 
 [武汉职业技术学院](./docs/universities/wu-yi-zhi-ye-ji-zhu-xue-yuan.md)
 
+[武汉船舶职业技术学院](./docs/universities/wu-yi-chuan-bo-zhi-ye-ji-zhu-xue-yuan.md)
+
 [武汉警官职业学院](./docs/universities/wu-yi-jing-guan-zhi-ye-xue-yuan.md)
 
 [武汉设计工程学院](./docs/universities/wu-yi-she-ji-gong-cheng-xue-yuan.md)
@@ -2666,6 +2734,10 @@
 
 [江苏省徐州财经高等职业技术学校](./docs/universities/jiang-su-sheng-xu-zhou-cai-jing-gao-deng-zhi-ye-ji-zhu-xue-xiao.md)
 
+[江苏省江阴市第一中学](./docs/universities/jiang-su-sheng-jiang-yin-shi-di-yi-zhong-xue.md)
+
+[江苏省苏州中学](./docs/universities/jiang-su-sheng-su-zhou-zhong-xue.md)
+
 [江苏科技大学](./docs/universities/jiang-su-ke-ji-da-xue.md)
 
 [江苏科技大学苏州理工学院](./docs/universities/jiang-su-ke-ji-da-xue-su-zhou-li-gong-xue-yuan.md)
@@ -2694,6 +2766,8 @@
 
 [江西农业大学南昌商学院](./docs/universities/jiang-xi-nong-ye-da-xue-nan-chang-shang-xue-yuan.md)
 
+[江西农业工程职业学院](./docs/universities/jiang-xi-nong-ye-gong-cheng-zhi-ye-xue-yuan.md)
+
 [江西冶金职业技术学院](./docs/universities/jiang-xi-ye-jin-zhi-ye-ji-zhu-xue-yuan.md)
 
 [江西医学高等专科学校](./docs/universities/jiang-xi-yi-xue-gao-deng-zhuan-ke-xue-xiao.md)
@@ -2709,6 +2783,8 @@
 [江西师范大学](./docs/universities/jiang-xi-shi-fan-da-xue.md)
 
 [江西师范大学科学技术学院](./docs/universities/jiang-xi-shi-fan-da-xue-ke-xue-ji-zhu-xue-yuan.md)
+
+[江西应用技术职业学院](./docs/universities/jiang-xi-ying-yong-ji-zhu-zhi-ye-xue-yuan.md)
 
 [江西应用科技学院](./docs/universities/jiang-xi-ying-yong-ke-ji-xue-yuan.md)
 
@@ -2765,6 +2841,8 @@
 [沈阳城市建设学院](./docs/universities/chen-yang-cheng-shi-jian-she-xue-yuan.md)
 
 [沈阳大学](./docs/universities/chen-yang-da-xue.md)
+
+[沈阳好果汁学院](./docs/universities/chen-yang-hao-guo-zhi-xue-yuan.md)
 
 [沈阳工业大学](./docs/universities/chen-yang-gong-ye-da-xue.md)
 
@@ -2852,6 +2930,8 @@
 
 [河北环境工程学院](./docs/universities/he-bei-huan-jing-gong-cheng-xue-yuan.md)
 
+[河北石油职业技术大学](./docs/universities/he-bei-shi-you-zhi-ye-ji-zhu-da-xue.md)
+
 [河北科技大学](./docs/universities/he-bei-ke-ji-da-xue.md)
 
 [河北科技工程职业技术大学](./docs/universities/he-bei-ke-ji-gong-cheng-zhi-ye-ji-zhu-da-xue.md)
@@ -2900,6 +2980,8 @@
 
 [河南师范大学新联学院新乡](./docs/universities/he-nan-shi-fan-da-xue-xin-lian-xue-yuan-xin-xiang.md)
 
+[河南应用技术职业学院](./docs/universities/he-nan-ying-yong-ji-zhu-zhi-ye-xue-yuan.md)
+
 [河南开封科技传媒学院](./docs/universities/he-nan-kai-feng-ke-ji-chuan-mei-xue-yuan.md)
 
 [河南开封科技传媒学院原河南大学民生学院](./docs/universities/he-nan-kai-feng-ke-ji-chuan-mei-xue-yuan-yuan-he-nan-da-xue-min-sheng-xue-yuan.md)
@@ -2907,6 +2989,8 @@
 [河南推拿职业学院](./docs/universities/he-nan-tui-na-zhi-ye-xue-yuan.md)
 
 [河南机电职业学院](./docs/universities/he-nan-ji-dian-zhi-ye-xue-yuan.md)
+
+[河南水利与环境职业学院](./docs/universities/he-nan-shui-li-yu-huan-jing-zhi-ye-xue-yuan.md)
 
 [河南牧业经济学院](./docs/universities/he-nan-mu-ye-jing-ji-xue-yuan.md)
 
@@ -2931,6 +3015,8 @@
 [河南艺术职业学院](./docs/universities/he-nan-yi-zhu-zhi-ye-xue-yuan.md)
 
 [河南财政金融学院](./docs/universities/he-nan-cai-zheng-jin-rong-xue-yuan.md)
+
+[河南财政金融学院象湖校区](./docs/universities/he-nan-cai-zheng-jin-rong-xue-yuan-xiang-hu-xiao-qu.md)
 
 [河南财经政法大学](./docs/universities/he-nan-cai-jing-zheng-fa-da-xue.md)
 
@@ -2970,11 +3056,15 @@
 
 [洛阳理工学院](./docs/universities/luo-yang-li-gong-xue-yuan.md)
 
+[洛阳科技职业技术学院](./docs/universities/luo-yang-ke-ji-zhi-ye-ji-zhu-xue-yuan.md)
+
 [洛阳职业技术学院](./docs/universities/luo-yang-zhi-ye-ji-zhu-xue-yuan.md)
 
 [济南大学](./docs/universities/ji-nan-da-xue.md)
 
 [济南大学舜耕校区](./docs/universities/ji-nan-da-xue-shun-geng-xiao-qu.md)
+
+[济南幼儿师范高等专科学校](./docs/universities/ji-nan-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
 
 [济南护理职业学院](./docs/universities/ji-nan-hu-li-zhi-ye-xue-yuan.md)
 
@@ -3120,6 +3210,8 @@
 
 [海口经济学院](./docs/universities/hai-kou-jing-ji-xue-yuan.md)
 
+[海洋工业大学](./docs/universities/hai-yang-gong-ye-da-xue.md)
+
 [淄博师范高等专科学校](./docs/universities/zi-bo-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
 
 [淄博职业学院](./docs/universities/zi-bo-zhi-ye-xue-yuan.md)
@@ -3168,6 +3260,8 @@
 
 [温州理工学院](./docs/universities/wen-zhou-li-gong-xue-yuan.md)
 
+[温州科技职业学院](./docs/universities/wen-zhou-ke-ji-zhi-ye-xue-yuan.md)
+
 [温州职业技术学院](./docs/universities/wen-zhou-zhi-ye-ji-zhu-xue-yuan.md)
 
 [温州肯恩大学](./docs/universities/wen-zhou-ken-en-da-xue.md)
@@ -3182,6 +3276,8 @@
 
 [湖北中医药高等专科学校](./docs/universities/hu-bei-zhong-yi-yao-gao-deng-zhuan-ke-xue-xiao.md)
 
+[湖北交通职业技术学院](./docs/universities/hu-bei-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md)
+
 [湖北体育职业学院](./docs/universities/hu-bei-ti-yu-zhi-ye-xue-yuan.md)
 
 [湖北信息工程学校](./docs/universities/hu-bei-xin-xi-gong-cheng-xue-xiao.md)
@@ -3189,6 +3285,8 @@
 [湖北医药学院](./docs/universities/hu-bei-yi-yao-xue-yuan.md)
 
 [湖北商贸学院](./docs/universities/hu-bei-shang-mao-xue-yuan.md)
+
+[湖北商贸学院咸宁校区](./docs/universities/hu-bei-shang-mao-xue-yuan-xian-zhu-xiao-qu.md)
 
 [湖北国土资源职业学院](./docs/universities/hu-bei-guo-tu-zi-yuan-zhi-ye-xue-yuan.md)
 
@@ -3270,6 +3368,8 @@
 
 [湖南城建职业技术学院](./docs/universities/hu-nan-cheng-jian-zhi-ye-ji-zhu-xue-yuan.md)
 
+[湖南外国语职业学院](./docs/universities/hu-nan-wai-guo-yu-zhi-ye-xue-yuan.md)
+
 [湖南大众传媒职业技术学院](./docs/universities/hu-nan-da-zhong-chuan-mei-zhi-ye-ji-zhu-xue-yuan.md)
 
 [湖南大学](./docs/universities/hu-nan-da-xue.md)
@@ -3305,6 +3405,8 @@
 [湖南文理学院](./docs/universities/hu-nan-wen-li-xue-yuan.md)
 
 [湖南有色金属职业技术学院](./docs/universities/hu-nan-you-se-jin-shu-zhi-ye-ji-zhu-xue-yuan.md)
+
+[湖南民族职业学院](./docs/universities/hu-nan-min-zu-zhi-ye-xue-yuan.md)
 
 [湖南涉外经济学院](./docs/universities/hu-nan-she-wai-jing-ji-xue-yuan.md)
 
@@ -3349,6 +3451,8 @@
 [湘南学院](./docs/universities/xiang-nan-xue-yuan.md)
 
 [湘南幼儿师范高等专科学校](./docs/universities/xiang-nan-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
+
+[湘潭县第一中学](./docs/universities/xiang-tan-xian-di-yi-zhong-xue.md)
 
 [湘潭大学](./docs/universities/xiang-tan-da-xue.md)
 
@@ -3414,9 +3518,13 @@
 
 [澳门科技大学](./docs/universities/ao-men-ke-ji-da-xue.md)
 
+[濮阳市油田第三高级中学](./docs/universities/pu-yang-shi-you-tian-di-san-gao-ji-zhong-xue.md)
+
 [烟台南山学院](./docs/universities/yan-tai-nan-shan-xue-yuan.md)
 
 [烟台大学](./docs/universities/yan-tai-da-xue.md)
+
+[烟台大学文经学院](./docs/universities/yan-tai-da-xue-wen-jing-xue-yuan.md)
 
 [烟台文化旅游职业学院](./docs/universities/yan-tai-wen-hua-lu-you-zhi-ye-xue-yuan.md)
 
@@ -3546,6 +3654,8 @@
 
 [福州黎明职业技术学院](./docs/universities/fu-zhou-li-ming-zhi-ye-ji-zhu-xue-yuan.md)
 
+[福工](./docs/universities/fu-gong.md)
+
 [福建中医药大学](./docs/universities/fu-jian-zhong-yi-yao-da-xue.md)
 
 [福建中华技师学院福清校区](./docs/universities/fu-jian-zhong-hua-ji-shi-xue-yuan-fu-qing-xiao-qu.md)
@@ -3607,6 +3717,8 @@
 [秦皇岛职业技术学院](./docs/universities/qin-huang-dao-zhi-ye-ji-zhu-xue-yuan.md)
 
 [空军航空大学](./docs/universities/kong-jun-hang-kong-da-xue.md)
+
+[第三军医大学](./docs/universities/di-san-jun-yi-da-xue.md)
 
 [红河学院](./docs/universities/hong-he-xue-yuan.md)
 
@@ -3680,6 +3792,8 @@
 
 [茅台学院](./docs/universities/mao-tai-xue-yuan.md)
 
+[荆州学院](./docs/universities/jing-zhou-xue-yuan.md)
+
 [荆州教育学院现荆州理工职业学院东校区](./docs/universities/jing-zhou-jiao-yu-xue-yuan-xian-jing-zhou-li-gong-zhi-ye-xue-yuan-dong-xiao-qu.md)
 
 [荆州理工职业学院](./docs/universities/jing-zhou-li-gong-zhi-ye-xue-yuan.md)
@@ -3708,6 +3822,8 @@
 
 [蚌埠工商学院](./docs/universities/bang-bu-gong-shang-xue-yuan.md)
 
+[衡水二中](./docs/universities/heng-shui-er-zhong.md)
+
 [衡水学院](./docs/universities/heng-shui-xue-yuan.md)
 
 [衡阳师范学院](./docs/universities/heng-yang-shi-fan-xue-yuan.md)
@@ -3733,6 +3849,8 @@
 [西北农林科技大学](./docs/universities/xi-bei-nong-lin-ke-ji-da-xue.md)
 
 [西北大学](./docs/universities/xi-bei-da-xue.md)
+
+[西北大学现代学院](./docs/universities/xi-bei-da-xue-xian-dai-xue-yuan.md)
 
 [西北工业大学](./docs/universities/xi-bei-gong-ye-da-xue.md)
 
@@ -3788,11 +3906,17 @@
 
 [西南财经大学天府学院](./docs/universities/xi-nan-cai-jing-da-xue-tian-fu-xue-yuan.md)
 
+[西南财经大学柳林校区](./docs/universities/xi-nan-cai-jing-da-xue-liu-lin-xiao-qu.md)
+
 [西双版纳州第二中学](./docs/universities/xi-shuang-ban-na-zhou-di-er-zhong-xue.md)
+
+[西安交通利物浦大学](./docs/universities/xi-an-jiao-tong-li-wu-pu-da-xue.md)
 
 [西安交通大学](./docs/universities/xi-an-jiao-tong-da-xue.md)
 
 [西安交通大学兴庆校区](./docs/universities/xi-an-jiao-tong-da-xue-xing-qing-xiao-qu.md)
+
+[西安交通大学城市学院](./docs/universities/xi-an-jiao-tong-da-xue-cheng-shi-xue-yuan.md)
 
 [西安交通大学西五路校区](./docs/universities/xi-an-jiao-tong-da-xue-xi-wu-lu-xiao-qu.md)
 
@@ -3821,6 +3945,8 @@
 [西安建筑科技大学草堂校区](./docs/universities/xi-an-jian-zhu-ke-ji-da-xue-cao-tang-xiao-qu.md)
 
 [西安建筑科技大学雁塔校区](./docs/universities/xi-an-jian-zhu-ke-ji-da-xue-yan-ta-xiao-qu.md)
+
+[西安思源学院](./docs/universities/xi-an-si-yuan-xue-yuan.md)
 
 [西安文理学院](./docs/universities/xi-an-wen-li-xue-yuan.md)
 
@@ -3990,6 +4116,8 @@
 
 [辽宁铁道职业技术学院](./docs/universities/liao-zhu-tie-dao-zhi-ye-ji-zhu-xue-yuan.md)
 
+[达州中医药职业学院](./docs/universities/da-zhou-zhong-yi-yao-zhi-ye-xue-yuan.md)
+
 [迈阿密大学](./docs/universities/mai-a-mi-da-xue.md)
 
 [运城学院](./docs/universities/yun-cheng-xue-yuan.md)
@@ -4078,6 +4206,8 @@
 
 [郴州职业技术学院](./docs/universities/chen-zhou-zhi-ye-ji-zhu-xue-yuan.md)
 
+[鄄城第一中学](./docs/universities/juan-cheng-di-yi-zhong-xue.md)
+
 [重庆三峡医药高等专科学校](./docs/universities/zhong-qing-san-xia-yi-yao-gao-deng-zhuan-ke-xue-xiao.md)
 
 [重庆三峡学院](./docs/universities/zhong-qing-san-xia-xue-yuan.md)
@@ -4142,6 +4272,8 @@
 
 [重庆科技学院](./docs/universities/zhong-qing-ke-ji-xue-yuan.md)
 
+[重庆移通学院](./docs/universities/zhong-qing-yi-tong-xue-yuan.md)
+
 [重庆移通学院綦江校区](./docs/universities/zhong-qing-yi-tong-xue-yuan-qi-jiang-xiao-qu.md)
 
 [重庆第二师范学院](./docs/universities/zhong-qing-di-er-shi-fan-xue-yuan.md)
@@ -4192,6 +4324,8 @@
 
 [长春健康职业学院](./docs/universities/chang-chun-jian-kang-zhi-ye-xue-yuan.md)
 
+[长春光华学院](./docs/universities/chang-chun-guang-hua-xue-yuan.md)
+
 [长春医学高等专科学校](./docs/universities/chang-chun-yi-xue-gao-deng-zhuan-ke-xue-xiao.md)
 
 [长春大学](./docs/universities/chang-chun-da-xue.md)
@@ -4216,9 +4350,13 @@
 
 [长春科技学院](./docs/universities/chang-chun-ke-ji-xue-yuan.md)
 
+[长春职业技术学院](./docs/universities/chang-chun-zhi-ye-ji-zhu-xue-yuan.md)
+
 [长春财经学院](./docs/universities/chang-chun-cai-jing-xue-yuan.md)
 
 [长江大学](./docs/universities/chang-jiang-da-xue.md)
+
+[长江大学文理学院](./docs/universities/chang-jiang-da-xue-wen-li-xue-yuan.md)
 
 [长江大学武汉校区](./docs/universities/chang-jiang-da-xue-wu-yi-xiao-qu.md)
 
@@ -4235,6 +4373,8 @@
 [长沙学院](./docs/universities/chang-sha-xue-yuan.md)
 
 [长沙师范学院](./docs/universities/chang-sha-shi-fan-xue-yuan.md)
+
+[长沙幼儿师范高等专科学校](./docs/universities/chang-sha-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
 
 [长沙民政职业技术学院](./docs/universities/chang-sha-min-zheng-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -4288,6 +4428,8 @@
 
 [陕西国防工业职业技术学院](./docs/universities/shan-xi-guo-fang-gong-ye-zhi-ye-ji-zhu-xue-yuan.md)
 
+[陕西国防工业职业技术学院北校区](./docs/universities/shan-xi-guo-fang-gong-ye-zhi-ye-ji-zhu-xue-yuan-bei-xiao-qu.md)
+
 [陕西学前师范学院](./docs/universities/shan-xi-xue-qian-shi-fan-xue-yuan.md)
 
 [陕西师范大学](./docs/universities/shan-xi-shi-fan-da-xue.md)
@@ -4301,6 +4443,8 @@
 [陕西科技大学](./docs/universities/shan-xi-ke-ji-da-xue.md)
 
 [陕西职业技术学院](./docs/universities/shan-xi-zhi-ye-ji-zhu-xue-yuan-2.md)
+
+[陕西警官职业学院](./docs/universities/shan-xi-jing-guan-zhi-ye-xue-yuan.md)
 
 [陕西铁路工程职业技术学院](./docs/universities/shan-xi-tie-lu-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -4338,6 +4482,8 @@
 
 [青岛理工大学黄岛校区](./docs/universities/qing-dao-li-gong-da-xue-huang-dao-xiao-qu.md)
 
+[青岛电影学院](./docs/universities/qing-dao-dian-ying-xue-yuan.md)
+
 [青岛电影学院原北京电影学院现代创意媒体学院](./docs/universities/qing-dao-dian-ying-xue-yuan-yuan-bei-jing-dian-ying-xue-yuan-xian-dai-chuang-yi-mei-ti-xue-yuan.md)
 
 [青岛科技大学](./docs/universities/qing-dao-ke-ji-da-xue.md)
@@ -4355,8 +4501,6 @@
 [青海大学](./docs/universities/qing-hai-da-xue.md)
 
 [青海民族大学](./docs/universities/qing-hai-min-zu-da-xue.md)
-
-[青龙山拿](./docs/universities/qing-long-shan-na.md)
 
 [鞍山师范学院](./docs/universities/an-shan-shi-fan-xue-yuan.md)
 
@@ -4481,6 +4625,8 @@
 [黑龙江财经学院](./docs/universities/hei-long-jiang-cai-jing-xue-yuan.md)
 
 [黔南民族师范学院](./docs/universities/qian-nan-min-zu-shi-fan-xue-yuan.md)
+
+[黔西第一中学](./docs/universities/qian-xi-di-yi-zhong-xue.md)
 
 [齐鲁医药学院](./docs/universities/qi-lu-yi-yao-xue-yuan.md)
 
