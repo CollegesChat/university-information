@@ -203,6 +203,13 @@ def main():
             name = line.rstrip('\n')
             if name in universities:
                 del universities[name]
+                
+    middle_school_names = []
+    for name in universities:
+        if name.endswith('中') or name.endswith('中学'):
+            middle_school_names.append(name)
+    for name in middle_school_names:
+        del universities[name]
     
     whitelist = set()
     with open('whitelist.txt', 'r', encoding='utf-8') as f:
