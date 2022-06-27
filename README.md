@@ -2230,8 +2230,6 @@
 
 [徐州医科大学](./docs/universities/xu-zhou-yi-ke-da-xue.md)
 
-[徐州医科大雪](./docs/universities/xu-zhou-yi-ke-da-xue-2.md)
-
 [徐州工业职业技术学院](./docs/universities/xu-zhou-gong-ye-zhi-ye-ji-zhu-xue-yuan.md)
 
 [徐州工程学院](./docs/universities/xu-zhou-gong-cheng-xue-yuan.md)
@@ -2488,8 +2486,6 @@
 
 [桂林信息科技学院](./docs/universities/gui-lin-xin-xi-ke-ji-xue-yuan.md)
 
-[桂林信息科技学院原桂林电子科技大学信息科技学院，今年已更名](./docs/universities/gui-lin-xin-xi-ke-ji-xue-yuan-yuan-gui-lin-dian-zi-ke-ji-da-xue-xin-xi-ke-ji-xue-yuan-jin-nian-yi-geng-ming.md)
-
 [桂林医学院](./docs/universities/gui-lin-yi-xue-yuan.md)
 
 [桂林学院](./docs/universities/gui-lin-xue-yuan.md)
@@ -2642,8 +2638,6 @@
 
 [江汉大学](./docs/universities/jiang-yi-da-xue.md)
 
-[江苏c财会职业学院](./docs/universities/jiang-su-ccai-hui-zhi-ye-xue-yuan.md)
-
 [江苏信息职业技术学院](./docs/universities/jiang-su-xin-xi-zhi-ye-ji-zhu-xue-yuan.md)
 
 [江苏农林职业技术学院](./docs/universities/jiang-su-nong-lin-zhi-ye-ji-zhu-xue-yuan.md)
@@ -2738,6 +2732,8 @@
 
 [江西水利职业学院老校区](./docs/universities/jiang-xi-shui-li-zhi-ye-xue-yuan-lao-xiao-qu.md)
 
+[江西泰豪动漫职业学院](./docs/universities/jiang-xi-tai-hao-dong-man-zhi-ye-xue-yuan.md)
+
 [江西环境工程职业学院](./docs/universities/jiang-xi-huan-jing-gong-cheng-zhi-ye-xue-yuan.md)
 
 [江西现代职业技术学院](./docs/universities/jiang-xi-xian-dai-zhi-ye-ji-zhu-xue-yuan.md)
@@ -2747,8 +2743,6 @@
 [江西理工大学南昌校区](./docs/universities/jiang-xi-li-gong-da-xue-nan-chang-xiao-qu.md)
 
 [江西电力职业技术学院](./docs/universities/jiang-xi-dian-li-zhi-ye-ji-zhu-xue-yuan.md)
-
-[江西省泰豪动漫职业学院](./docs/universities/jiang-xi-sheng-tai-hao-dong-man-zhi-ye-xue-yuan.md)
 
 [江西科技学院](./docs/universities/jiang-xi-ke-ji-xue-yuan.md)
 
@@ -2783,8 +2777,6 @@
 [沈阳城市建设学院](./docs/universities/chen-yang-cheng-shi-jian-she-xue-yuan.md)
 
 [沈阳大学](./docs/universities/chen-yang-da-xue.md)
-
-[沈阳好果汁学院](./docs/universities/chen-yang-hao-guo-zhi-xue-yuan.md)
 
 [沈阳工业大学](./docs/universities/chen-yang-gong-ye-da-xue.md)
 
@@ -3582,8 +3574,6 @@
 
 [福州黎明职业技术学院](./docs/universities/fu-zhou-li-ming-zhi-ye-ji-zhu-xue-yuan.md)
 
-[福工](./docs/universities/fu-gong.md)
-
 [福建中医药大学](./docs/universities/fu-jian-zhong-yi-yao-da-xue.md)
 
 [福建中华技师学院福清校区](./docs/universities/fu-jian-zhong-hua-ji-shi-xue-yuan-fu-qing-xiao-qu.md)
@@ -3969,8 +3959,6 @@
 [辽东学院](./docs/universities/liao-dong-xue-yuan.md)
 
 [辽东学院南校区](./docs/universities/liao-dong-xue-yuan-nan-xiao-qu.md)
-
-[辽南那个中医药大学](./docs/universities/liao-nan-na-ge-zhong-yi-yao-da-xue.md)
 
 [辽宁中医药大学](./docs/universities/liao-zhu-zhong-yi-yao-da-xue.md)
 
