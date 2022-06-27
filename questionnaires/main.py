@@ -6,6 +6,7 @@ import collections
 import csv
 import os
 import re
+import time
 import shutil
 import typing
 import zhconv
@@ -301,7 +302,7 @@ def main():
          open('mkdocs_template.yml', 'r', encoding='utf-8') as mkdocs_template_f,\
          open(join_path('dist', 'mkdocs.yml'), 'w', encoding='utf-8') as mkdocs_f:
         
-        mkdocs_f.write(mkdocs_template_f.read().replace('[universities_nav]',nav_f.read()))
+        mkdocs_f.write(mkdocs_template_f.read().replace('[universities_nav]',nav_f.read()).replace('[current_time]',time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
 
 if __name__ == '__main__':
     main()
