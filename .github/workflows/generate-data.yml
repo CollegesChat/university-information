@@ -35,7 +35,7 @@ jobs:
       run: python main.py
       working-directory: ${{ env.workpath }}
 
-    - name: Push generated data
+    - name: Push generated data to branch generated
       uses: stefanzweifel/git-auto-commit-action@v4
       with:
         branch: generated
@@ -45,3 +45,28 @@ jobs:
           update generated data
 
           Triggered by ${{ github.sha }}
+
+    - name: Setup SSH
+      env:
+        SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+      run: |
+        ssh-agent -a $SSH_AUTH_SOCK > /dev/null
+        ssh-add - <<< "${{ secrets.COLLEGES_CHAT_DEPLOY_KEY }}"
+          
+    - name: Push generated data to repo colleges.chat
+      env:
+        SSH_AUTH_SOCK: /tmp/ssh_agent.sock
+        GIT_SSH_COMMAND: "ssh -o StrictHostKeyChecking=no"
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+        git clone git@github.com:CollegesChat/colleges.chat.git --depth 1
+        rm -rf colleges.chat/docs
+        rm -f colleges.chat/mkdocs.yml
+        mv questionnaires/dist/docs colleges.chat/docs
+        mv questionnaires/dist/mkdocs.yml colleges.chat/mkdocs.yml
+        cd colleges.chat
+        git add -A
+        git commit -m "从university-information更新数据"
+        git push
+        
