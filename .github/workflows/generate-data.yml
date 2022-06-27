@@ -61,12 +61,13 @@ jobs:
         git config --global user.name "github-actions[bot]"
         git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
         git clone git@github.com:CollegesChat/colleges.chat.git --depth 1
+        commit_message="$(git log --pretty="%h %s" -1)"
         rm -rf colleges.chat/docs
         rm -f colleges.chat/mkdocs.yml
         mv questionnaires/dist/docs colleges.chat/docs
         mv questionnaires/dist/mkdocs.yml colleges.chat/mkdocs.yml
         cd colleges.chat
         git add -A
-        git commit -m "从university-information更新数据"
+        git commit -m "update: $commit_message"
         git push
         
