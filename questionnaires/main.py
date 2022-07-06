@@ -44,13 +44,28 @@ NAME_PREPROCESS = re.compile(r'[\(\)（）【】#]')
 FILENAME_PREPROCESS = re.compile(r'[/>|:&]')
 NORMAL_NAME_MATCHER = re.compile(r'大学|学院|学校')
 
+
+# store answer id and content
+class IndexedContent:
+    answer_id: int
+    content: str
+
+    def __init__(self, answer_id: int, content: str):
+        self.answer_id = answer_id
+        self.content = content
+
+    def __str__(self):
+        # print answer correctly when concatenating with str
+        return f'A{self.answer_id}: {self.content}'
+
+
 class AnswerGroup:
     answers: list
 
     def __init__(self):
         self.answers = []
 
-    def add_answer(self, answer: str):
+    def add_answer(self, answer: IndexedContent):
         self.answers.append(answer)
 
     def extend(self, other):
@@ -67,13 +82,13 @@ class University:
         self.additional_answers = []
         self.credits = []
 
-    def add_answer(self, index: int, answer: str):
+    def add_answer(self, index: int, answer: IndexedContent):
         self.answers[index].add_answer(answer)
 
-    def add_additional_answer(self, answer: str):
+    def add_additional_answer(self, answer: IndexedContent):
         self.additional_answers.append(answer)
 
-    def add_credit(self, author: str):
+    def add_credit(self, author: IndexedContent):
         self.credits.append(author)
 
     def combine_from(self, other):
@@ -159,11 +174,11 @@ def main():
             # unpack row into different parts, and ignore 7 items in the end.
             # `anonymous`: `2` means anonymous, and `1` not.
             # if `anonymous` is True, `email` is empty.
-            id, _, anonymous, email, show_email, name, *answers = row[:-9]
+            aid, _, anonymous, email, show_email, name, *answers = row[:-9]
             # if int(id) == 3516:
             #     continue
 
-            additional_answer = row[-9]
+            additional_answer = IndexedContent(aid, row[-9])
 
             # convert `anonymous` and `show_email` to boolean
             anonymous = True if int(anonymous) == 2 else False
@@ -180,12 +195,12 @@ def main():
             submittal_time = datetime.strptime(row[-8], '%Y-%m-%d %H:%M:%S')
 
             if not show_email or email == '':
-                university.add_credit('匿名 (' + submittal_time.strftime('%Y 年 %m 月') + ')')
+                university.add_credit(IndexedContent(aid, '匿名 (' + submittal_time.strftime('%Y 年 %m 月') + ')'))
             else:
-                university.add_credit(email + ' (' + submittal_time.strftime('%Y 年 %m 月') + ')')
+                university.add_credit(IndexedContent(aid, email + ' (' + submittal_time.strftime('%Y 年 %m 月') + ')'))
 
             for index, answer in enumerate(answers):
-                university.add_answer(index, answer)
+                university.add_answer(index, IndexedContent(aid, answer))
             university.add_additional_answer(additional_answer)
 
     # ===== combine colleges =====
@@ -238,21 +253,22 @@ def main():
             # write header
             f.write(f'# {name}\n\n')
             f.write('> [免责声明](https://colleges.chat/#_3)：本页面内容均来源于问卷收集，仅供参考，请自行确定信息准确性和真实性！\n\n')
-            # f.write('> 数据来源：{}\n\n'.format(' + '.join(university.credits)))
+            f.write('> 若您发现回答中存在答非所问或胡言乱语，欢迎记录对应的问卷 ID，前往页面对应的 GitHub 页面，通过 issue 或邮件等方式提交反馈！\n\n')
             output_credits = '> 数据来源：'
-            for index, credit in enumerate(university.credits, start=1):
-                output_credits += f'A{index}: {credit} + '
+            for credit in university.credits:
+                output_credits += f'A{credit.answer_id}: {credit.content} + '
             f.write(output_credits[:-3] + '\n\n')
 
             # write answers
             assert len(questionnaire) == len(university.answers)
             for question, answers in zip(questionnaire, university.answers):
                 f.write(f'## Q: {question}\n\n')
-                for index, answer in enumerate(answers.answers, start=1):
-                    f.write(f'- A{index}: {markdown_escape(answer)}\n\n')
+                for answer in answers.answers:
+                    f.write(f'- A{answer.answer_id}: {markdown_escape(answer.content)}\n\n')
 
             # write additional answers
-            additional_answers = [ markdown_escape(text).replace('\n', '\n\n') for text in university.additional_answers if len(text) > 0 ]
+            additional_answers = [markdown_escape(answer.__str__()).replace('\n', '\n\n')
+                                   for answer in university.additional_answers if len(answer.content) > 0]
             if len(additional_answers) > 0:
                 f.write('## 自由补充部分\n\n')
                 f.write('\n\n***\n\n'.join(additional_answers))
