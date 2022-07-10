@@ -1158,6 +1158,8 @@
 
 [吉林农业科技学院](./docs/universities/ji-lin-nong-ye-ke-ji-xue-yuan.md)
 
+[吉林农业科技学院左家](./docs/universities/ji-lin-nong-ye-ke-ji-xue-yuan-zuo-jia.md)
+
 [吉林动画学院](./docs/universities/ji-lin-dong-hua-xue-yuan.md)
 
 [吉林化工学院](./docs/universities/ji-lin-hua-gong-xue-yuan.md)
@@ -2158,6 +2160,8 @@
 
 [广东工贸职业技术学院](./docs/universities/yan-dong-gong-mao-zhi-ye-ji-zhu-xue-yuan.md)
 
+[广东建设职业技术学院](./docs/universities/yan-dong-jian-she-zhi-ye-ji-zhu-xue-yuan.md)
+
 [广东技术师范大学](./docs/universities/yan-dong-ji-zhu-shi-fan-da-xue.md)
 
 [广东技术师范大学东校区本部](./docs/universities/yan-dong-ji-zhu-shi-fan-da-xue-dong-xiao-qu-ben-bu.md)
@@ -2241,6 +2245,8 @@
 [广东药科大学中山校区](./docs/universities/yan-dong-yao-ke-da-xue-zhong-shan-xiao-qu.md)
 
 [广东药科大学云浮](./docs/universities/yan-dong-yao-ke-da-xue-yun-fu.md)
+
+[广东药科大学大学城校区](./docs/universities/yan-dong-yao-ke-da-xue-da-xue-cheng-xiao-qu.md)
 
 [广东药科大学赤岗校区](./docs/universities/yan-dong-yao-ke-da-xue-chi-gang-xiao-qu.md)
 
@@ -2774,6 +2780,8 @@
 
 [桂林电子科技大学北海校区](./docs/universities/gui-lin-dian-zi-ke-ji-da-xue-bei-hai-xiao-qu.md)
 
+[桂林电子科技大学花江校区](./docs/universities/gui-lin-dian-zi-ke-ji-da-xue-hua-jiang-xiao-qu.md)
+
 [桂林航天](./docs/universities/gui-lin-hang-tian.md)
 
 [桂林航天工业学院](./docs/universities/gui-lin-hang-tian-gong-ye-xue-yuan.md)
@@ -3063,6 +3071,8 @@
 [江西陶瓷工艺美术职业技术学院](./docs/universities/jiang-xi-tao-ci-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md)
 
 [池州学院](./docs/universities/chi-zhou-xue-yuan.md)
+
+[沈阳体育学院](./docs/universities/chen-yang-ti-yu-xue-yuan.md)
 
 [沈阳农业大学](./docs/universities/chen-yang-nong-ye-da-xue.md)
 
@@ -3745,8 +3755,6 @@
 [湖南财政经济学院](./docs/universities/hu-nan-cai-zheng-jing-ji-xue-yuan.md)
 
 [湖南财政经济学院雷锋校区](./docs/universities/hu-nan-cai-zheng-jing-ji-xue-yuan-lei-feng-xiao-qu.md)
-
-[湖南财经工业职业技术学院](./docs/universities/hu-nan-cai-jing-gong-ye-zhi-ye-ji-zhu-xue-yuan.md)
 
 [湖南软件职业技术大学](./docs/universities/hu-nan-ruan-jian-zhi-ye-ji-zhu-da-xue.md)
 

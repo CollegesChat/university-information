@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-09 15:35:32
+copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-10 08:41:18
 
 # Navigation
 nav:
@@ -378,6 +378,7 @@ nav:
       - 大连艺术学院: universities/da-lian-yi-zhu-xue-yuan.md
       - 大连财经学院: universities/da-lian-cai-jing-xue-yuan.md
       - 所沈阳化工大学: universities/suo-chen-yang-hua-gong-da-xue.md
+      - 沈阳体育学院: universities/chen-yang-ti-yu-xue-yuan.md
       - 沈阳农业大学: universities/chen-yang-nong-ye-da-xue.md
       - 沈阳化工大学: universities/chen-yang-hua-gong-da-xue.md
       - 沈阳医学院: universities/chen-yang-yi-xue-yuan.md
@@ -449,6 +450,7 @@ nav:
       - 北华大学: universities/bei-hua-da-xue.md
       - 吉林农业大学: universities/ji-lin-nong-ye-da-xue.md
       - 吉林农业科技学院: universities/ji-lin-nong-ye-ke-ji-xue-yuan.md
+      - 吉林农业科技学院左家: universities/ji-lin-nong-ye-ke-ji-xue-yuan-zuo-jia.md
       - 吉林动画学院: universities/ji-lin-dong-hua-xue-yuan.md
       - 吉林化工学院: universities/ji-lin-hua-gong-xue-yuan.md
       - 吉林化工学院本校区: universities/ji-lin-hua-gong-xue-yuan-ben-xiao-qu.md
@@ -1669,7 +1671,6 @@ nav:
       - 湖南警察学院: universities/hu-nan-jing-cha-xue-yuan.md
       - 湖南财政经济学院: universities/hu-nan-cai-zheng-jing-ji-xue-yuan.md
       - 湖南财政经济学院雷锋校区: universities/hu-nan-cai-zheng-jing-ji-xue-yuan-lei-feng-xiao-qu.md
-      - 湖南财经工业职业技术学院: universities/hu-nan-cai-jing-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南软件职业技术大学: universities/hu-nan-ruan-jian-zhi-ye-ji-zhu-da-xue.md
       - 湖南邮电职业技术学院: universities/hu-nan-you-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南铁路科技职业技术学院: universities/hu-nan-tie-lu-ke-ji-zhi-ye-ji-zhu-xue-yuan.md
@@ -1768,6 +1769,7 @@ nav:
       - 广东工程职业技术学院: universities/yan-dong-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
       - 广东工程职业技术学院广州校区: universities/yan-dong-gong-cheng-zhi-ye-ji-zhu-xue-yuan-yan-zhou-xiao-qu.md
       - 广东工贸职业技术学院: universities/yan-dong-gong-mao-zhi-ye-ji-zhu-xue-yuan.md
+      - 广东建设职业技术学院: universities/yan-dong-jian-she-zhi-ye-ji-zhu-xue-yuan.md
       - 广东技术师范大学: universities/yan-dong-ji-zhu-shi-fan-da-xue.md
       - 广东技术师范大学东校区本部: universities/yan-dong-ji-zhu-shi-fan-da-xue-dong-xiao-qu-ben-bu.md
       - 广东技术师范大学本校区: universities/yan-dong-ji-zhu-shi-fan-da-xue-ben-xiao-qu.md
@@ -1808,6 +1810,7 @@ nav:
       - 广东药科大学: universities/yan-dong-yao-ke-da-xue.md
       - 广东药科大学中山校区: universities/yan-dong-yao-ke-da-xue-zhong-shan-xiao-qu.md
       - 广东药科大学云浮: universities/yan-dong-yao-ke-da-xue-yun-fu.md
+      - 广东药科大学大学城校区: universities/yan-dong-yao-ke-da-xue-da-xue-cheng-xiao-qu.md
       - 广东药科大学赤岗校区: universities/yan-dong-yao-ke-da-xue-chi-gang-xiao-qu.md
       - 广东警官学院: universities/yan-dong-jing-guan-xue-yuan.md
       - 广东财经大学: universities/yan-dong-cai-jing-da-xue.md
@@ -1967,6 +1970,7 @@ nav:
       - 桂林电子科技大学: universities/gui-lin-dian-zi-ke-ji-da-xue.md
       - 桂林电子科技大学信息科技学院: universities/gui-lin-dian-zi-ke-ji-da-xue-xin-xi-ke-ji-xue-yuan.md
       - 桂林电子科技大学北海校区: universities/gui-lin-dian-zi-ke-ji-da-xue-bei-hai-xiao-qu.md
+      - 桂林电子科技大学花江校区: universities/gui-lin-dian-zi-ke-ji-da-xue-hua-jiang-xiao-qu.md
       - 桂林航天工业学院: universities/gui-lin-hang-tian-gong-ye-xue-yuan.md
       - 梧州学院: universities/wu-zhou-xue-yuan.md
       - 河池学院: universities/he-chi-xue-yuan.md
