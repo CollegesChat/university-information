@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-10 08:41:18
+copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-11 07:57:38
 
 # Navigation
 nav:
@@ -1364,6 +1364,7 @@ nav:
       - 商丘工学院: universities/shang-qiu-gong-xue-yuan.md
       - 商丘师范学院: universities/shang-qiu-shi-fan-xue-yuan.md
       - 商丘职业技术学院: universities/shang-qiu-zhi-ye-ji-zhu-xue-yuan.md
+      - 安阳学院: universities/an-yang-xue-yuan.md
       - 安阳工学院: universities/an-yang-gong-xue-yuan.md
       - 安阳师范学院: universities/an-yang-shi-fan-xue-yuan.md
       - 安阳师范学院老校区: universities/an-yang-shi-fan-xue-yuan-lao-xiao-qu.md
@@ -1775,6 +1776,7 @@ nav:
       - 广东技术师范大学本校区: universities/yan-dong-ji-zhu-shi-fan-da-xue-ben-xiao-qu.md
       - 广东技术师范大学白云校区: universities/yan-dong-ji-zhu-shi-fan-da-xue-bai-yun-xiao-qu.md
       - 广东文理职业学院: universities/yan-dong-wen-li-zhi-ye-xue-yuan.md
+      - 广东文艺职业学院: universities/yan-dong-wen-yi-zhi-ye-xue-yuan.md
       - 广东机电职业技术学院: universities/yan-dong-ji-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 广东松山职业技术学院: universities/yan-dong-song-shan-zhi-ye-ji-zhu-xue-yuan.md
       - 广东水利电力职业技术学院: universities/yan-dong-shui-li-dian-li-zhi-ye-ji-zhu-xue-yuan.md
@@ -2236,6 +2238,7 @@ nav:
       - 昆明理工大学津桥学院: universities/kun-ming-li-gong-da-xue-jin-qiao-xue-yuan.md
       - 昆明铁道职业技术学院: universities/kun-ming-tie-dao-zhi-ye-ji-zhu-xue-yuan.md
       - 昭通卫生职业学院: universities/zhao-tong-wei-sheng-zhi-ye-xue-yuan.md
+      - 昭通学院: universities/zhao-tong-xue-yuan.md
       - 普洱学院: universities/pu-er-xue-yuan.md
       - 曲靖医学高等专科学校: universities/qu-jing-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
       - 楚雄师范学院: universities/chu-xiong-shi-fan-xue-yuan.md
@@ -2418,6 +2421,7 @@ nav:
       - university of liverpool: universities/university-of-liverpool.md
       - デジタルハリウッド大学: universities/dezitaruhariutudoda-xue.md
       - 上海中侨职业技术学校: universities/shang-hai-zhong-qiao-zhi-ye-ji-zhu-xue-xiao.md
+      - 上海外国语贤达经济人文学院虹口校区: universities/shang-hai-wai-guo-yu-xian-da-jing-ji-ren-wen-xue-yuan-hong-kou-xiao-qu.md
       - 上海对外政策大学: universities/shang-hai-dui-wai-zheng-ce-da-xue.md
       - 上海市出版印刷高等专科学校: universities/shang-hai-shi-chu-ban-yin-shua-gao-deng-zhuan-ke-xue-xiao.md
       - 上海市天华学院: universities/shang-hai-shi-tian-hua-xue-yuan.md

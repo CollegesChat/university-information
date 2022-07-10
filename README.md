@@ -118,6 +118,8 @@
 
 [上海外国语大学贤达经济人文学院](./docs/universities/shang-hai-wai-guo-yu-da-xue-xian-da-jing-ji-ren-wen-xue-yuan.md)
 
+[上海外国语贤达经济人文学院虹口校区](./docs/universities/shang-hai-wai-guo-yu-xian-da-jing-ji-ren-wen-xue-yuan-hong-kou-xiao-qu.md)
+
 [上海大学](./docs/universities/shang-hai-da-xue.md)
 
 [上海大学宝山校区](./docs/universities/shang-hai-da-xue-bao-shan-xiao-qu.md)
@@ -1802,6 +1804,8 @@
 
 [安徽黄梅戏艺术职业学院](./docs/universities/an-hui-huang-mei-xi-yi-zhu-zhi-ye-xue-yuan.md)
 
+[安阳学院](./docs/universities/an-yang-xue-yuan.md)
+
 [安阳工学院](./docs/universities/an-yang-gong-xue-yuan.md)
 
 [安阳师范学院](./docs/universities/an-yang-shi-fan-xue-yuan.md)
@@ -2171,6 +2175,8 @@
 [广东技术师范大学白云校区](./docs/universities/yan-dong-ji-zhu-shi-fan-da-xue-bai-yun-xiao-qu.md)
 
 [广东文理职业学院](./docs/universities/yan-dong-wen-li-zhi-ye-xue-yuan.md)
+
+[广东文艺职业学院](./docs/universities/yan-dong-wen-yi-zhi-ye-xue-yuan.md)
 
 [广东机电职业技术学院](./docs/universities/yan-dong-ji-dian-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -2685,6 +2691,8 @@
 [星海音乐学院大学城校区](./docs/universities/xing-hai-yin-le-xue-yuan-da-xue-cheng-xiao-qu.md)
 
 [昭通卫生职业学院](./docs/universities/zhao-tong-wei-sheng-zhi-ye-xue-yuan.md)
+
+[昭通学院](./docs/universities/zhao-tong-xue-yuan.md)
 
 [晋中信息学院](./docs/universities/jin-zhong-xin-xi-xue-yuan.md)
 
