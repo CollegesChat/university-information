@@ -1472,6 +1472,8 @@
 
 [四川邮电职业技术学院](./docs/universities/si-chuan-you-dian-zhi-ye-ji-zhu-xue-yuan.md)
 
+[四川锦城学院](./docs/universities/si-chuan-jin-cheng-xue-yuan.md)
+
 [四川长江职业学院](./docs/universities/si-chuan-chang-jiang-zhi-ye-xue-yuan.md)
 
 [四川音乐学院](./docs/universities/si-chuan-yin-le-xue-yuan.md)
@@ -1609,6 +1611,8 @@
 [天津师范大学](./docs/universities/tian-jin-shi-fan-da-xue.md)
 
 [天津海运职业学院](./docs/universities/tian-jin-hai-yun-zhi-ye-xue-yuan.md)
+
+[天津渤海职业技术学院](./docs/universities/tian-jin-bo-hai-zhi-ye-ji-zhu-xue-yuan.md)
 
 [天津滨海职业学院](./docs/universities/tian-jin-bin-hai-zhi-ye-xue-yuan.md)
 
@@ -3099,8 +3103,6 @@
 [江西陶瓷工艺美术职业技术学院](./docs/universities/jiang-xi-tao-ci-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md)
 
 [池州学院](./docs/universities/chi-zhou-xue-yuan.md)
-
-[沈阳体育学院](./docs/universities/chen-yang-ti-yu-xue-yuan.md)
 
 [沈阳农业大学](./docs/universities/chen-yang-nong-ye-da-xue.md)
 
@@ -5033,6 +5035,8 @@
 [香港都会大学/Hong Kong Metropolitan University原公开大学](./docs/universities/xiang-gang-du-hui-da-xue-hong-kong-metropolitan-universityyuan-gong-kai-da-xue.md)
 
 [马鞍山学院](./docs/universities/ma-an-shan-xue-yuan.md)
+
+[马鞍山秀山实验学校](./docs/universities/ma-an-shan-xiu-shan-shi-yan-xue-xiao.md)
 
 [马鞍山高等师范专科学校](./docs/universities/ma-an-shan-gao-deng-shi-fan-zhuan-ke-xue-xiao.md)
 

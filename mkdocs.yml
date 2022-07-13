@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-12 09:33:50
+copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-13 09:10:51
 
 # Navigation
 nav:
@@ -165,6 +165,7 @@ nav:
       - 天津市职业大学: universities/tian-jin-shi-zhi-ye-da-xue.md
       - 天津师范大学: universities/tian-jin-shi-fan-da-xue.md
       - 天津海运职业学院: universities/tian-jin-hai-yun-zhi-ye-xue-yuan.md
+      - 天津渤海职业技术学院: universities/tian-jin-bo-hai-zhi-ye-ji-zhu-xue-yuan.md
       - 天津滨海职业学院: universities/tian-jin-bin-hai-zhi-ye-xue-yuan.md
       - 天津理工大学: universities/tian-jin-li-gong-da-xue.md
       - 天津理工大学中环信息学院: universities/tian-jin-li-gong-da-xue-zhong-huan-xin-xi-xue-yuan.md
@@ -379,7 +380,6 @@ nav:
       - 大连艺术学院: universities/da-lian-yi-zhu-xue-yuan.md
       - 大连财经学院: universities/da-lian-cai-jing-xue-yuan.md
       - 所沈阳化工大学: universities/suo-chen-yang-hua-gong-da-xue.md
-      - 沈阳体育学院: universities/chen-yang-ti-yu-xue-yuan.md
       - 沈阳农业大学: universities/chen-yang-nong-ye-da-xue.md
       - 沈阳化工大学: universities/chen-yang-hua-gong-da-xue.md
       - 沈阳医学院: universities/chen-yang-yi-xue-yuan.md
@@ -2474,6 +2474,7 @@ nav:
       - 商贸职业高级学院: universities/shang-mao-zhi-ye-gao-ji-xue-yuan.md
       - 四川天府新区信息职业技术学院: universities/si-chuan-tian-fu-xin-qu-xin-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 四川省兴文第二中学校: universities/si-chuan-sheng-xing-wen-di-er-zhong-xue-xiao.md
+      - 四川锦城学院: universities/si-chuan-jin-cheng-xue-yuan.md
       - 声学院: universities/sheng-xue-yuan.md
       - 夏邑县孔祖中等职业学校: universities/xia-yi-xian-kong-zu-zhong-deng-zhi-ye-xue-xiao.md
       - 大冶市职业技术学校: universities/da-ye-shi-zhi-ye-ji-zhu-xue-xiao.md
@@ -2613,6 +2614,7 @@ nav:
       - 香港理工大学: universities/xiang-gang-li-gong-da-xue.md
       - 香港科技大学: universities/xiang-gang-ke-ji-da-xue.md
       - 香港都会大学/Hong Kong Metropolitan University原公开大学: universities/xiang-gang-du-hui-da-xue-hong-kong-metropolitan-universityyuan-gong-kai-da-xue.md
+      - 马鞍山秀山实验学校: universities/ma-an-shan-xiu-shan-shi-yan-xue-xiao.md
       - 马鞍山高等师范专科学校: universities/ma-an-shan-gao-deng-shi-fan-zhuan-ke-xue-xiao.md
       - 黑龙江生物科技职业技术学院: universities/hei-long-jiang-sheng-wu-ke-ji-zhi-ye-ji-zhu-xue-yuan.md
       - 黔南民族幺儿师范高等专科学校: universities/qian-nan-min-zu-yao-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
