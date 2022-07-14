@@ -542,6 +542,8 @@
 
 [保山学院](./docs/universities/bao-shan-xue-yuan.md)
 
+[保险职业学院](./docs/universities/bao-xian-zhi-ye-xue-yuan.md)
+
 [信阳农林学院](./docs/universities/xin-yang-nong-lin-xue-yuan.md)
 
 [信阳学院](./docs/universities/xin-yang-xue-yuan.md)
@@ -1875,6 +1877,8 @@
 [山东信息职业技术学院滨海校区](./docs/universities/shan-dong-xin-xi-zhi-ye-ji-zhu-xue-yuan-bin-hai-xiao-qu.md)
 
 [山东农业大学](./docs/universities/shan-dong-nong-ye-da-xue.md)
+
+[山东农业大学仅限西北片区](./docs/universities/shan-dong-nong-ye-da-xue-jin-xian-xi-bei-pian-qu.md)
 
 [山东农业工程学院](./docs/universities/shan-dong-nong-ye-gong-cheng-xue-yuan.md)
 
@@ -4355,6 +4359,8 @@
 [西安石油大学鄠邑校区](./docs/universities/xi-an-shi-you-da-xue-hu-yi-xiao-qu.md)
 
 [西安科技大学](./docs/universities/xi-an-ke-ji-da-xue.md)
+
+[西安科技大学高新学院](./docs/universities/xi-an-ke-ji-da-xue-gao-xin-xue-yuan.md)
 
 [西安美术学院](./docs/universities/xi-an-mei-zhu-xue-yuan.md)
 

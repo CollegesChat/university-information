@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-13 09:10:51
+copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-14 13:47:50
 
 # Navigation
 nav:
@@ -1199,6 +1199,7 @@ nav:
       - 山东体育学院: universities/shan-dong-ti-yu-xue-yuan.md
       - 山东信息职业技术学院滨海校区: universities/shan-dong-xin-xi-zhi-ye-ji-zhu-xue-yuan-bin-hai-xiao-qu.md
       - 山东农业大学: universities/shan-dong-nong-ye-da-xue.md
+      - 山东农业大学仅限西北片区: universities/shan-dong-nong-ye-da-xue-jin-xian-xi-bei-pian-qu.md
       - 山东农业工程学院: universities/shan-dong-nong-ye-gong-cheng-xue-yuan.md
       - 山东劳动职业技术学院: universities/shan-dong-lao-dong-zhi-ye-ji-zhu-xue-yuan.md
       - 山东医学高等专科学校: universities/shan-dong-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
@@ -1612,6 +1613,7 @@ nav:
       - 中南林业科技大学: universities/zhong-nan-lin-ye-ke-ji-da-xue.md
       - 中南林业科技大学涉外学院: universities/zhong-nan-lin-ye-ke-ji-da-xue-she-wai-xue-yuan.md
       - 中国人民解放军国防科技大学: universities/zhong-guo-ren-min-jie-fang-jun-guo-fang-ke-ji-da-xue.md
+      - 保险职业学院: universities/bao-xian-zhi-ye-xue-yuan.md
       - 南华大学: universities/nan-hua-da-xue.md
       - 南华大学核科学技术学院: universities/nan-hua-da-xue-he-ke-xue-ji-zhu-xue-yuan.md
       - 吉首大学: universities/ji-shou-da-xue.md
@@ -2306,6 +2308,7 @@ nav:
       - 西安石油大学: universities/xi-an-shi-you-da-xue.md
       - 西安石油大学鄠邑校区: universities/xi-an-shi-you-da-xue-hu-yi-xiao-qu.md
       - 西安科技大学: universities/xi-an-ke-ji-da-xue.md
+      - 西安科技大学高新学院: universities/xi-an-ke-ji-da-xue-gao-xin-xue-yuan.md
       - 西安美术学院: universities/xi-an-mei-zhu-xue-yuan.md
       - 西安美术学院雁塔校区: universities/xi-an-mei-zhu-xue-yuan-yan-ta-xiao-qu.md
       - 西安翻译学院: universities/xi-an-fan-yi-xue-yuan.md
