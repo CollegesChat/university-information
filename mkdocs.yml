@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-14 13:47:50
+copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-15 10:08:53
 
 # Navigation
 nav:
@@ -286,6 +286,7 @@ nav:
       - 山西医科大学中都校区: universities/shan-xi-yi-ke-da-xue-zhong-du-xiao-qu.md
       - 山西医科大学汾阳学院: universities/shan-xi-yi-ke-da-xue-fen-yang-xue-yuan.md
       - 山西华澳商贸职业学院: universities/shan-xi-hua-ao-shang-mao-zhi-ye-xue-yuan.md
+      - 山西卫生健康职业学院: universities/shan-xi-wei-sheng-jian-kang-zhi-ye-xue-yuan.md
       - 山西大同大学: universities/shan-xi-da-tong-da-xue.md
       - 山西大学: universities/shan-xi-da-xue.md
       - 山西大学坞城校区: universities/shan-xi-da-xue-wu-cheng-xiao-qu.md
@@ -2064,6 +2065,7 @@ nav:
       - 南充职业技术学院: universities/nan-chong-zhi-ye-ji-zhu-xue-yuan.md
       - 吉利学院: universities/ji-li-xue-yuan.md
       - 四川三河职业学院: universities/si-chuan-san-he-zhi-ye-xue-yuan.md
+      - 四川中医药高等专科学校: universities/si-chuan-zhong-yi-yao-gao-deng-zhuan-ke-xue-xiao.md
       - 四川交通职业技术学院: universities/si-chuan-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md
       - 四川传媒学院: universities/si-chuan-chuan-mei-xue-yuan.md
       - 四川信息职业技术学院: universities/si-chuan-xin-xi-zhi-ye-ji-zhu-xue-yuan.md

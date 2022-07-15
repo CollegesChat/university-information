@@ -1360,6 +1360,8 @@
 
 [四川三河职业学院](./docs/universities/si-chuan-san-he-zhi-ye-xue-yuan.md)
 
+[四川中医药高等专科学校](./docs/universities/si-chuan-zhong-yi-yao-gao-deng-zhuan-ke-xue-xiao.md)
+
 [四川交通职业技术学院](./docs/universities/si-chuan-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md)
 
 [四川传媒学院](./docs/universities/si-chuan-chuan-mei-xue-yuan.md)
@@ -2039,6 +2041,8 @@
 [山西医科大学汾阳学院](./docs/universities/shan-xi-yi-ke-da-xue-fen-yang-xue-yuan.md)
 
 [山西华澳商贸职业学院](./docs/universities/shan-xi-hua-ao-shang-mao-zhi-ye-xue-yuan.md)
+
+[山西卫生健康职业学院](./docs/universities/shan-xi-wei-sheng-jian-kang-zhi-ye-xue-yuan.md)
 
 [山西大同大学](./docs/universities/shan-xi-da-tong-da-xue.md)
 
