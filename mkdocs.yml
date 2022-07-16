@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-15 10:08:53
+copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-16 13:18:13
 
 # Navigation
 nav:
@@ -782,6 +782,7 @@ nav:
       - 苏州工业园区服务外包职业学院: universities/su-zhou-gong-ye-yuan-qu-fu-wu-wai-bao-zhi-ye-xue-yuan.md
       - 苏州工业职业技术学院: universities/su-zhou-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 苏州工艺美术职业技术学院: universities/su-zhou-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md
+      - 苏州幼儿师范高等专科学校: universities/su-zhou-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 苏州托普信息职业技术学院: universities/su-zhou-tuo-pu-xin-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 苏州百年职业学院: universities/su-zhou-bai-nian-zhi-ye-xue-yuan.md
       - 苏州科技大学: universities/su-zhou-ke-ji-da-xue.md
@@ -1366,6 +1367,7 @@ nav:
       - 南阳理工学院: universities/nan-yang-li-gong-xue-yuan.md
       - 南阳职业学院: universities/nan-yang-zhi-ye-xue-yuan.md
       - 周口师范学院: universities/zhou-kou-shi-fan-xue-yuan.md
+      - 商丘医学高等专科学校: universities/shang-qiu-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
       - 商丘学院: universities/shang-qiu-xue-yuan.md
       - 商丘学院应用科技学院: universities/shang-qiu-xue-yuan-ying-yong-ke-ji-xue-yuan.md
       - 商丘工学院: universities/shang-qiu-gong-xue-yuan.md
@@ -2548,6 +2550,7 @@ nav:
       - 浙江财经学院东方学院: universities/zhe-jiang-cai-jing-xue-yuan-dong-fang-xue-yuan.md
       - 海洋工业大学: universities/hai-yang-gong-ye-da-xue.md
       - 海盐县商贸学校: universities/hai-yan-xian-shang-mao-xue-xiao.md
+      - 深圳职业技术大学: universities/shen-zhen-zhi-ye-ji-zhu-da-xue.md
       - 清水湾 香港科技大学: universities/qing-shui-wan-xiang-gang-ke-ji-da-xue.md
       - 渥太华大学: universities/wo-tai-hua-da-xue.md
       - 温州市第二外国语学校: universities/wen-zhou-shi-di-er-wai-guo-yu-xue-xiao.md
@@ -2567,6 +2570,7 @@ nav:
       - 珠海市卫生学校: universities/zhu-hai-shi-wei-sheng-xue-xiao.md
       - 番禺职业技术学院: universities/fan-yu-zhi-ye-ji-zhu-xue-yuan.md
       - 白云工商技师学院: universities/bai-yun-gong-shang-ji-shi-xue-yuan.md
+      - 盐城技师学院: universities/yan-cheng-ji-shi-xue-yuan.md
       - 石家庄科技信息职业技术学院: universities/shi-jia-zhuang-ke-ji-xin-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 福州医科大: universities/fu-zhou-yi-ke-da.md
       - 福建中华技师学院福清校区: universities/fu-jian-zhong-hua-ji-shi-xue-yuan-fu-qing-xiao-qu.md
@@ -2582,6 +2586,7 @@ nav:
       - 英属哥伦比亚大学: universities/ying-shu-ge-lun-bi-ya-da-xue.md
       - 蓝山县博爱学校: universities/lan-shan-xian-bo-ai-xue-xiao.md
       - 衡阳技师学院: universities/heng-yang-ji-shi-xue-yuan.md
+      - 西交利物浦: universities/xi-jiao-li-wu-pu.md
       - 西交大城市学院: universities/xi-jiao-da-cheng-shi-xue-yuan.md
       - 西南航空职业学院: universities/xi-nan-hang-kong-zhi-ye-xue-yuan.md
       - 西安交通利物浦大学: universities/xi-an-jiao-tong-li-wu-pu-da-xue.md

@@ -1328,6 +1328,8 @@
 
 [唐山职业技术学院](./docs/universities/tang-shan-zhi-ye-ji-zhu-xue-yuan.md)
 
+[商丘医学高等专科学校](./docs/universities/shang-qiu-yi-xue-gao-deng-zhuan-ke-xue-xiao.md)
+
 [商丘学院](./docs/universities/shang-qiu-xue-yuan.md)
 
 [商丘学院应用科技学院](./docs/universities/shang-qiu-xue-yuan-ying-yong-ke-ji-xue-yuan.md)
@@ -3570,6 +3572,8 @@
 
 [深圳技术大学](./docs/universities/shen-zhen-ji-zhu-da-xue.md)
 
+[深圳职业技术大学](./docs/universities/shen-zhen-zhi-ye-ji-zhu-da-xue.md)
+
 [深圳职业技术学院](./docs/universities/shen-zhen-zhi-ye-ji-zhu-xue-yuan.md)
 
 [清华大学](./docs/universities/qing-hua-da-xue.md)
@@ -3984,6 +3988,8 @@
 
 [盐城师范学院](./docs/universities/yan-cheng-shi-fan-xue-yuan.md)
 
+[盐城技师学院](./docs/universities/yan-cheng-ji-shi-xue-yuan.md)
+
 [石嘴山工贸职业技术学院](./docs/universities/shi-zui-shan-gong-mao-zhi-ye-ji-zhu-xue-yuan.md)
 
 [石家庄信息工程职业学院](./docs/universities/shi-jia-zhuang-xin-xi-gong-cheng-zhi-ye-xue-yuan.md)
@@ -4166,6 +4172,8 @@
 
 [苏州市职业大学](./docs/universities/su-zhou-shi-zhi-ye-da-xue.md)
 
+[苏州幼儿师范高等专科学校](./docs/universities/su-zhou-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
+
 [苏州托普信息职业技术学院](./docs/universities/su-zhou-tuo-pu-xin-xi-zhi-ye-ji-zhu-xue-yuan.md)
 
 [苏州百年职业学院](./docs/universities/su-zhou-bai-nian-zhi-ye-xue-yuan.md)
@@ -4233,6 +4241,8 @@
 [襄阳职业技术学院](./docs/universities/xiang-yang-zhi-ye-ji-zhu-xue-yuan.md)
 
 [襄阳职业技术学院医学院](./docs/universities/xiang-yang-zhi-ye-ji-zhu-xue-yuan-yi-xue-yuan.md)
+
+[西交利物浦](./docs/universities/xi-jiao-li-wu-pu.md)
 
 [西交利物浦大学](./docs/universities/xi-jiao-li-wu-pu-da-xue.md)
 
