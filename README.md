@@ -2104,6 +2104,8 @@
 
 [工程大学](./docs/universities/gong-cheng-da-xue.md)
 
+[巩义市第二职业学校](./docs/universities/gong-yi-shi-di-er-zhi-ye-xue-xiao.md)
+
 [常州信息职业技术学院](./docs/universities/chang-zhou-xin-xi-zhi-ye-ji-zhu-xue-yuan.md)
 
 [常州大学](./docs/universities/chang-zhou-da-xue.md)
@@ -2511,6 +2513,8 @@
 [德州科技职业学院青岛校区](./docs/universities/de-zhou-ke-ji-zhi-ye-xue-yuan-qing-dao-xiao-qu.md)
 
 [德阳科贸职业学院](./docs/universities/de-yang-ke-mao-zhi-ye-xue-yuan.md)
+
+[徽商职业学院](./docs/universities/hui-shang-zhi-ye-xue-yuan.md)
 
 [忻州市第一中学校](./docs/universities/xin-zhou-shi-di-yi-zhong-xue-xiao.md)
 
@@ -4315,6 +4319,8 @@
 [西安交通大学西五路校区](./docs/universities/xi-an-jiao-tong-da-xue-xi-wu-lu-xiao-qu.md)
 
 [西安交通工程学院](./docs/universities/xi-an-jiao-tong-gong-cheng-xue-yuan.md)
+
+[西安体育学院本部](./docs/universities/xi-an-ti-yu-xue-yuan-ben-bu.md)
 
 [西安信息职业大学](./docs/universities/xi-an-xin-xi-zhi-ye-da-xue.md)
 

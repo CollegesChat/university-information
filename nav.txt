@@ -959,6 +959,7 @@
       - 宿州学院: universities/su-zhou-xue-yuan.md
       - 宿州航空职业学院: universities/su-zhou-hang-kong-zhi-ye-xue-yuan.md
       - 巢湖学院: universities/chao-hu-xue-yuan.md
+      - 徽商职业学院: universities/hui-shang-zhi-ye-xue-yuan.md
       - 池州学院: universities/chi-zhou-xue-yuan.md
       - 淮北师范大学: universities/huai-bei-shi-fan-da-xue.md
       - 淮北职业技术学院: universities/huai-bei-zhi-ye-ji-zhu-xue-yuan.md
@@ -2273,6 +2274,7 @@
       - 西安交通大学城市学院: universities/xi-an-jiao-tong-da-xue-cheng-shi-xue-yuan.md
       - 西安交通大学西五路校区: universities/xi-an-jiao-tong-da-xue-xi-wu-lu-xiao-qu.md
       - 西安交通工程学院: universities/xi-an-jiao-tong-gong-cheng-xue-yuan.md
+      - 西安体育学院本部: universities/xi-an-ti-yu-xue-yuan-ben-bu.md
       - 西安信息职业大学: universities/xi-an-xin-xi-zhi-ye-da-xue.md
       - 西安医学院: universities/xi-an-yi-xue-yuan.md
       - 西安医学高等专科学校: universities/xi-an-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
@@ -2481,6 +2483,7 @@
       - 山东电子职业学院: universities/shan-dong-dian-zi-zhi-ye-xue-yuan.md
       - 山东省深泉外国语学校: universities/shan-dong-sheng-shen-quan-wai-guo-yu-xue-xiao.md
       - 工程大学: universities/gong-cheng-da-xue.md
+      - 巩义市第二职业学校: universities/gong-yi-shi-di-er-zhi-ye-xue-xiao.md
       - 常州技师学院: universities/chang-zhou-ji-shi-xue-yuan.md
       - 常德职业技术职业学院: universities/chang-de-zhi-ye-ji-zhu-zhi-ye-xue-yuan.md
       - 平凉信息工程学校: universities/ping-liang-xin-xi-gong-cheng-xue-xiao.md
