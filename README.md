@@ -6,8 +6,6 @@
 
 ## 大学列表（以 Python 默认排列方式为排列顺序）
 
-[City University of Hong Kong](./docs/universities/city-university-of-hong-kong.md)
-
 [Duke University](./docs/universities/duke-university.md)
 
 [Iowa state university](./docs/universities/iowa-state-university.md)
@@ -44,8 +42,6 @@
 
 [University of Illinois at Urbana-Champaign](./docs/universities/university-of-illinois-at-urbana-champaign.md)
 
-[University of Macao](./docs/universities/university-of-macao.md)
-
 [University of Manchester/ 曼彻斯特大学](./docs/universities/university-of-manchester-man-che-si-te-da-xue.md)
 
 [University of Melbourne](./docs/universities/university-of-melbourne.md)
@@ -54,13 +50,11 @@
 
 [University of Technology Malaysia](./docs/universities/university-of-technology-malaysia.md)
 
-[University of Toronto](./docs/universities/university-of-toronto-2.md)
+[University of Toronto](./docs/universities/university-of-toronto.md)
 
 [University of Washington华盛顿大学](./docs/universities/university-of-washingtonhua-sheng-dun-da-xue.md)
 
 [Università degli Studi di Trento](./docs/universities/universita-degli-studi-di-trento.md)
-
-[university of Toronto](./docs/universities/university-of-toronto.md)
 
 [university of liverpool](./docs/universities/university-of-liverpool.md)
 
