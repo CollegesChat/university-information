@@ -222,9 +222,10 @@ def main():
                 
     middle_school_names = []
     for name in universities:
-        if name.endswith('中') or name.endswith('中学'):
+        if (name.endswith('中') or '中学' in name or name.endswith('高') or name.endswith('实验')) and name not in colleges:
             middle_school_names.append(name)
     for name in middle_school_names:
+        print(f'[info] \033[0;36m{name}\033[0m is removed')
         del universities[name]
     
     whitelist = set()
