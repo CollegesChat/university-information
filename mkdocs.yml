@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-19 22:59:06
+copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-20 08:53:33
 
 # Navigation
 nav:
@@ -849,6 +849,7 @@ nav:
       - 浙江传媒学院下沙校区: universities/zhe-jiang-chuan-mei-xue-yuan-xia-sha-xiao-qu.md
       - 浙江农业商贸职业学院: universities/zhe-jiang-nong-ye-shang-mao-zhi-ye-xue-yuan.md
       - 浙江农林大学: universities/zhe-jiang-nong-lin-da-xue.md
+      - 浙江农林大学暨阳学院: universities/zhe-jiang-nong-lin-da-xue-ji-yang-xue-yuan.md
       - 浙江同济科技职业学院: universities/zhe-jiang-tong-ji-ke-ji-zhi-ye-xue-yuan.md
       - 浙江国际海运职业技术学院: universities/zhe-jiang-guo-ji-hai-yun-zhi-ye-ji-zhu-xue-yuan.md
       - 浙江外国语学院: universities/zhe-jiang-wai-guo-yu-xue-yuan.md
@@ -2315,6 +2316,7 @@ nav:
       - 西安建筑科技大学雁塔校区: universities/xi-an-jian-zhu-ke-ji-da-xue-yan-ta-xiao-qu.md
       - 西安思源学院: universities/xi-an-si-yuan-xue-yuan.md
       - 西安文理学院: universities/xi-an-wen-li-xue-yuan.md
+      - 西安明德理工学院: universities/xi-an-ming-de-li-gong-xue-yuan.md
       - 西安欧亚学院: universities/xi-an-ou-ya-xue-yuan.md
       - 西安汽车职业大学: universities/xi-an-qi-che-zhi-ye-da-xue.md
       - 西安理工大学: universities/xi-an-li-gong-da-xue.md
@@ -2524,6 +2526,7 @@ nav:
       - 无锡卫生高等职业技术学校: universities/wu-xi-wei-sheng-gao-deng-zhi-ye-ji-zhu-xue-xiao.md
       - 曾子学校: universities/ceng-zi-xue-xiao.md
       - 朝阳大学: universities/zhao-yang-da-xue.md
+      - 梁平职教中心: universities/liang-ping-zhi-jiao-zhong-xin.md
       - 武汉凡谷电子职业技术学校: universities/wu-yi-fan-gu-dian-zi-zhi-ye-ji-zhu-xue-xiao.md
       - 武汉软件工程学院: universities/wu-yi-ruan-jian-gong-cheng-xue-yuan.md
       - 武汉铁路桥梁学院: universities/wu-yi-tie-lu-qiao-liang-xue-yuan.md

@@ -2808,6 +2808,8 @@
 
 [桂林航天工业学院](./docs/universities/gui-lin-hang-tian-gong-ye-xue-yuan.md)
 
+[梁平职教中心](./docs/universities/liang-ping-zhi-jiao-zhong-xin.md)
+
 [梧州学院](./docs/universities/wu-zhou-xue-yuan.md)
 
 [楚雄师范学院](./docs/universities/chu-xiong-shi-fan-xue-yuan.md)
@@ -3403,6 +3405,8 @@
 [浙江农业商贸职业学院](./docs/universities/zhe-jiang-nong-ye-shang-mao-zhi-ye-xue-yuan.md)
 
 [浙江农林大学](./docs/universities/zhe-jiang-nong-lin-da-xue.md)
+
+[浙江农林大学暨阳学院](./docs/universities/zhe-jiang-nong-lin-da-xue-ji-yang-xue-yuan.md)
 
 [浙江医药高等专科学校](./docs/universities/zhe-jiang-yi-yao-gao-deng-zhuan-ke-xue-xiao.md)
 
@@ -4331,6 +4335,8 @@
 [西安思源学院](./docs/universities/xi-an-si-yuan-xue-yuan.md)
 
 [西安文理学院](./docs/universities/xi-an-wen-li-xue-yuan.md)
+
+[西安明德理工学院](./docs/universities/xi-an-ming-de-li-gong-xue-yuan.md)
 
 [西安欧亚学院](./docs/universities/xi-an-ou-ya-xue-yuan.md)
 
