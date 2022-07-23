@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-22 09:37:39
+copyright: CC BY-NC-SA 4.0 | Generated on 2022-07-23 10:21:53
 
 # Navigation
 nav:
@@ -266,6 +266,7 @@ nav:
       - 石家庄经济职业学院: universities/shi-jia-zhuang-jing-ji-zhi-ye-xue-yuan.md
       - 石家庄职业技术学院: universities/shi-jia-zhuang-zhi-ye-ji-zhu-xue-yuan.md
       - 石家庄财经职业学院: universities/shi-jia-zhuang-cai-jing-zhi-ye-xue-yuan.md
+      - 石家庄铁路职业技术学院: universities/shi-jia-zhuang-tie-lu-zhi-ye-ji-zhu-xue-yuan.md
       - 石家庄铁道大学: universities/shi-jia-zhuang-tie-dao-da-xue.md
       - 石家庄铁道大学四方学院: universities/shi-jia-zhuang-tie-dao-da-xue-si-fang-xue-yuan.md
       - 秦皇岛职业技术学院: universities/qin-huang-dao-zhi-ye-ji-zhu-xue-yuan.md
@@ -1990,6 +1991,7 @@ nav:
       - 广西职业师范学院: universities/yan-xi-zhi-ye-shi-fan-xue-yuan.md
       - 广西职业技术学院: universities/yan-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 广西艺术学院: universities/yan-xi-yi-zhu-xue-yuan.md
+      - 广西蓝天航空职业学院: universities/yan-xi-lan-tian-hang-kong-zhi-ye-xue-yuan.md
       - 广西警察学院: universities/yan-xi-jing-cha-xue-yuan.md
       - 广西财经学院: universities/yan-xi-cai-jing-xue-yuan.md
       - 广西金融职业技术学院: universities/yan-xi-jin-rong-zhi-ye-ji-zhu-xue-yuan.md
@@ -2182,6 +2184,7 @@ nav:
       - 成都银杏酒店管理学院: universities/cheng-du-yin-xing-jiu-dian-guan-li-xue-yuan.md
       - 成都锦城学院: universities/cheng-du-jin-cheng-xue-yuan.md
       - 攀枝花学院: universities/pan-zhi-hua-xue-yuan.md
+      - 武警警官学院: universities/wu-jing-jing-guan-xue-yuan.md
       - 电子科技大学: universities/dian-zi-ke-ji-da-xue.md
       - 电子科技大学成都学院: universities/dian-zi-ke-ji-da-xue-cheng-du-xue-yuan.md
       - 电子科技大学沙河校区: universities/dian-zi-ke-ji-da-xue-sha-he-xiao-qu.md
@@ -2270,6 +2273,7 @@ nav:
       - 云南财经大学: universities/yun-nan-cai-jing-da-xue.md
       - 保山学院: universities/bao-shan-xue-yuan.md
       - 大理大学: universities/da-li-da-xue.md
+      - 昆明冶金高等专科学校: universities/kun-ming-ye-jin-gao-deng-zhuan-ke-xue-xiao.md
       - 昆明医科大学: universities/kun-ming-yi-ke-da-xue.md
       - 昆明医科大学海源学院: universities/kun-ming-yi-ke-da-xue-hai-yuan-xue-yuan.md
       - 昆明卫生职业学院: universities/kun-ming-wei-sheng-zhi-ye-xue-yuan.md
@@ -2475,6 +2479,7 @@ nav:
       - 上海市立达学院: universities/shang-hai-shi-li-da-xue-yuan.md
       - 上海市视觉艺术学院: universities/shang-hai-shi-shi-jue-yi-zhu-xue-yuan.md
       - 上海西南职业技术学院: universities/shang-hai-xi-nan-zhi-ye-ji-zhu-xue-yuan.md
+      - 下北泽野兽学院: universities/xia-bei-ze-ye-shou-xue-yuan.md
       - 东京大学: universities/dong-jing-da-xue.md
       - 东国大学: universities/dong-guo-da-xue.md
       - 中原大学: universities/zhong-yuan-da-xue.md

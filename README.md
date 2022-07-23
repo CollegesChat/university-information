@@ -224,6 +224,8 @@
 
 [上饶职业技术学院](./docs/universities/shang-rao-zhi-ye-ji-zhu-xue-yuan.md)
 
+[下北泽野兽学院](./docs/universities/xia-bei-ze-ye-shou-xue-yuan.md)
+
 [东京大学](./docs/universities/dong-jing-da-xue.md)
 
 [东北农业大学](./docs/universities/dong-bei-nong-ye-da-xue.md)
@@ -2478,6 +2480,8 @@
 
 [广西艺术学院](./docs/universities/yan-xi-yi-zhu-xue-yuan.md)
 
+[广西蓝天航空职业学院](./docs/universities/yan-xi-lan-tian-hang-kong-zhi-ye-xue-yuan.md)
+
 [广西警察学院](./docs/universities/yan-xi-jing-cha-xue-yuan.md)
 
 [广西财经学院](./docs/universities/yan-xi-cai-jing-xue-yuan.md)
@@ -2705,6 +2709,8 @@
 [日照职业技术学院](./docs/universities/ri-zhao-zhi-ye-ji-zhu-xue-yuan.md)
 
 [昆山杜克大学](./docs/universities/kun-shan-du-ke-da-xue.md)
+
+[昆明冶金高等专科学校](./docs/universities/kun-ming-ye-jin-gao-deng-zhuan-ke-xue-xiao.md)
 
 [昆明医科大学](./docs/universities/kun-ming-yi-ke-da-xue.md)
 
@@ -2951,6 +2957,8 @@
 [武汉音乐学院](./docs/universities/wu-yi-yin-le-xue-yuan.md)
 
 [武穴市职业技术教育中心](./docs/universities/wu-xue-shi-zhi-ye-ji-zhu-jiao-yu-zhong-xin.md)
+
+[武警警官学院](./docs/universities/wu-jing-jing-guan-xue-yuan.md)
 
 [永城市致远实验学校](./docs/universities/yong-cheng-shi-zhi-yuan-shi-yan-xue-xiao.md)
 
@@ -4031,6 +4039,8 @@
 [石家庄职业技术学院](./docs/universities/shi-jia-zhuang-zhi-ye-ji-zhu-xue-yuan.md)
 
 [石家庄财经职业学院](./docs/universities/shi-jia-zhuang-cai-jing-zhi-ye-xue-yuan.md)
+
+[石家庄铁路职业技术学院](./docs/universities/shi-jia-zhuang-tie-lu-zhi-ye-ji-zhu-xue-yuan.md)
 
 [石家庄铁道大学](./docs/universities/shi-jia-zhuang-tie-dao-da-xue.md)
 
