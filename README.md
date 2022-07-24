@@ -458,6 +458,8 @@
 
 [云南中医药大学](./docs/universities/yun-nan-zhong-yi-yao-da-xue.md)
 
+[云南交通职业技术学院](./docs/universities/yun-nan-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md)
+
 [云南农业大学](./docs/universities/yun-nan-nong-ye-da-xue.md)
 
 [云南医药健康职业学院](./docs/universities/yun-nan-yi-yao-jian-kang-zhi-ye-xue-yuan.md)
@@ -1570,6 +1572,8 @@
 
 [大连财经学院](./docs/universities/da-lian-cai-jing-xue-yuan.md)
 
+[天府新区航空旅游职业学院](./docs/universities/tian-fu-xin-qu-hang-kong-lu-you-zhi-ye-xue-yuan.md)
+
 [天水师范学院](./docs/universities/tian-shui-shi-fan-xue-yuan.md)
 
 [天津中医药大学](./docs/universities/tian-jin-zhong-yi-yao-da-xue.md)
@@ -1661,6 +1665,8 @@
 [天门职业学院](./docs/universities/tian-men-zhi-ye-xue-yuan.md)
 
 [天门职业技术学院](./docs/universities/tian-men-zhi-ye-ji-zhu-xue-yuan.md)
+
+[天门职校](./docs/universities/tian-men-zhi-xiao.md)
 
 [太原学院](./docs/universities/tai-yuan-xue-yuan.md)
 
@@ -3233,6 +3239,8 @@
 [河北师范大学](./docs/universities/he-bei-shi-fan-da-xue.md)
 
 [河北师范大学汇华学院](./docs/universities/he-bei-shi-fan-da-xue-hui-hua-xue-yuan.md)
+
+[河北建材职业技术学院](./docs/universities/he-bei-jian-cai-zhi-ye-ji-zhu-xue-yuan.md)
 
 [河北建筑工程学院](./docs/universities/he-bei-jian-zhu-gong-cheng-xue-yuan.md)
 
