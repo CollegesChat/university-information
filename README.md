@@ -568,6 +568,8 @@
 
 [兰州大学](./docs/universities/lan-zhou-da-xue.md)
 
+[兰州大学医学校区](./docs/universities/lan-zhou-da-xue-yi-xue-xiao-qu.md)
+
 [兰州大学榆中校区](./docs/universities/lan-zhou-da-xue-yu-zhong-xiao-qu.md)
 
 [兰州现代职业学院](./docs/universities/lan-zhou-xian-dai-zhi-ye-xue-yuan.md)
@@ -2772,6 +2774,8 @@
 
 [暨南大学番禺校区](./docs/universities/ji-nan-da-xue-fan-yu-xiao-qu.md)
 
+[曲阜市职业中专](./docs/universities/qu-fu-shi-zhi-ye-zhong-zhuan.md)
+
 [曲阜师范大学](./docs/universities/qu-fu-shi-fan-da-xue.md)
 
 [曲阜师范大学日照校区](./docs/universities/qu-fu-shi-fan-da-xue-ri-zhao-xiao-qu.md)
@@ -3805,6 +3809,8 @@
 [湖南机电职业技术学院](./docs/universities/hu-nan-ji-dian-zhi-ye-ji-zhu-xue-yuan.md)
 
 [湖南民族职业学院](./docs/universities/hu-nan-min-zu-zhi-ye-xue-yuan.md)
+
+[湖南水利水电职业技术学院](./docs/universities/hu-nan-shui-li-shui-dian-zhi-ye-ji-zhu-xue-yuan.md)
 
 [湖南涉外经济学院](./docs/universities/hu-nan-she-wai-jing-ji-xue-yuan.md)
 

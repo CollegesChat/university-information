@@ -1674,6 +1674,7 @@
       - 湖南有色金属职业技术学院: universities/hu-nan-you-se-jin-shu-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南机电职业技术学院: universities/hu-nan-ji-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南民族职业学院: universities/hu-nan-min-zu-zhi-ye-xue-yuan.md
+      - 湖南水利水电职业技术学院: universities/hu-nan-shui-li-shui-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南涉外经济学院: universities/hu-nan-she-wai-jing-ji-xue-yuan.md
       - 湖南环境生物职业技术学院: universities/hu-nan-huan-jing-sheng-wu-zhi-ye-ji-zhu-xue-yuan.md
       - 湖南现代物流职业技术学院: universities/hu-nan-xian-dai-wu-liu-zhi-ye-ji-zhu-xue-yuan.md
@@ -2360,6 +2361,7 @@
       - 兰州交通大学: universities/lan-zhou-jiao-tong-da-xue.md
       - 兰州城市学院: universities/lan-zhou-cheng-shi-xue-yuan.md
       - 兰州大学: universities/lan-zhou-da-xue.md
+      - 兰州大学医学校区: universities/lan-zhou-da-xue-yi-xue-xiao-qu.md
       - 兰州大学榆中校区: universities/lan-zhou-da-xue-yu-zhong-xiao-qu.md
       - 兰州现代职业学院: universities/lan-zhou-xian-dai-zhi-ye-xue-yuan.md
       - 兰州理工大学: universities/lan-zhou-li-gong-da-xue.md
@@ -2534,6 +2536,7 @@
       - 攀枝花市成都外国语学校: universities/pan-zhi-hua-shi-cheng-du-wai-guo-yu-xue-xiao.md
       - 新昌技师学院: universities/xin-chang-ji-shi-xue-yuan.md
       - 无锡卫生高等职业技术学校: universities/wu-xi-wei-sheng-gao-deng-zhi-ye-ji-zhu-xue-xiao.md
+      - 曲阜市职业中专: universities/qu-fu-shi-zhi-ye-zhong-zhuan.md
       - 曾子学校: universities/ceng-zi-xue-xiao.md
       - 朝阳大学: universities/zhao-yang-da-xue.md
       - 梁平职教中心: universities/liang-ping-zhi-jiao-zhong-xin.md
