@@ -436,6 +436,8 @@
 
 [临沂大学](./docs/universities/lin-yi-da-xue.md)
 
+[临沂大学沂水校区](./docs/universities/lin-yi-da-xue-yi-shui-xiao-qu.md)
+
 [丽水学院](./docs/universities/li-shui-xue-yuan.md)
 
 [丽水职业技术学院](./docs/universities/li-shui-zhi-ye-ji-zhu-xue-yuan.md)
@@ -1336,6 +1338,8 @@
 
 [唐山师范学院](./docs/universities/tang-shan-shi-fan-xue-yuan.md)
 
+[唐山科技职业技术学院](./docs/universities/tang-shan-ke-ji-zhi-ye-ji-zhu-xue-yuan.md)
+
 [唐山职业技术学院](./docs/universities/tang-shan-zhi-ye-ji-zhu-xue-yuan.md)
 
 [商丘医学高等专科学校](./docs/universities/shang-qiu-yi-xue-gao-deng-zhuan-ke-xue-xiao.md)
@@ -1497,6 +1501,8 @@
 [四川音乐学院学院](./docs/universities/si-chuan-yin-le-xue-yuan-xue-yuan.md)
 
 [四川音乐学院新都校区](./docs/universities/si-chuan-yin-le-xue-yuan-xin-du-xiao-qu.md)
+
+[四平职业大学](./docs/universities/si-ping-zhi-ye-da-xue.md)
 
 [国家网络安全学院](./docs/universities/guo-jia-wang-luo-an-quan-xue-yuan.md)
 

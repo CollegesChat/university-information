@@ -186,6 +186,7 @@
       - 唐山学院: universities/tang-shan-xue-yuan.md
       - 唐山工业职业技术学院: universities/tang-shan-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 唐山师范学院: universities/tang-shan-shi-fan-xue-yuan.md
+      - 唐山科技职业技术学院: universities/tang-shan-ke-ji-zhi-ye-ji-zhu-xue-yuan.md
       - 唐山职业技术学院: universities/tang-shan-zhi-ye-ji-zhu-xue-yuan.md
       - 廊坊师范学院: universities/lang-fang-shi-fan-xue-yuan.md
       - 张家口学院: universities/zhang-jia-kou-xue-yuan.md
@@ -470,6 +471,7 @@
       - 吉林警察学院: universities/ji-lin-jing-cha-xue-yuan.md
       - 吉林财经大学: universities/ji-lin-cai-jing-da-xue.md
       - 吉林铁道职业技术学院: universities/ji-lin-tie-dao-zhi-ye-ji-zhu-xue-yuan.md
+      - 四平职业大学: universities/si-ping-zhi-ye-da-xue.md
       - 延边大学: universities/yan-bian-da-xue.md
       - 延边大学珲春校区: universities/yan-bian-da-xue-hun-chun-xiao-qu.md
       - 白城师范学院: universities/bai-cheng-shi-fan-xue-yuan.md
@@ -1183,6 +1185,7 @@
       - 中国海洋大学崂山校区: universities/zhong-guo-hai-yang-da-xue-lao-shan-xiao-qu.md
       - 中国石油大学华东: universities/zhong-guo-shi-you-da-xue-hua-dong.md
       - 临沂大学: universities/lin-yi-da-xue.md
+      - 临沂大学沂水校区: universities/lin-yi-da-xue-yi-shui-xiao-qu.md
       - 北京交通大学威海校区: universities/bei-jing-jiao-tong-da-xue-wei-hai-xiao-qu.md
       - 哈尔滨工业大学威海: universities/ha-er-bin-gong-ye-da-xue-wei-hai.md
       - 威海海洋职业学院: universities/wei-hai-hai-yang-zhi-ye-xue-yuan.md
