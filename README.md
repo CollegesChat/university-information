@@ -1986,6 +1986,8 @@
 
 [山东政法学院](./docs/universities/shan-dong-zheng-fa-xue-yuan.md)
 
+[山东旅游职业学院](./docs/universities/shan-dong-lu-you-zhi-ye-xue-yuan.md)
+
 [山东服装职业学院](./docs/universities/shan-dong-fu-zhuang-zhi-ye-xue-yuan.md)
 
 [山东水利职业学院](./docs/universities/shan-dong-shui-li-zhi-ye-xue-yuan.md)
@@ -2668,6 +2670,8 @@
 
 [新余学院](./docs/universities/xin-yu-xue-yuan.md)
 
+[新加坡南洋理工大学](./docs/universities/xin-jia-po-nan-yang-li-gong-da-xue.md)
+
 [新昌技师学院](./docs/universities/xin-chang-ji-shi-xue-yuan.md)
 
 [新疆农业大学](./docs/universities/xin-jiang-nong-ye-da-xue.md)
@@ -2769,6 +2773,8 @@
 [普洱学院](./docs/universities/pu-er-xue-yuan.md)
 
 [景德镇学院](./docs/universities/jing-de-zhen-xue-yuan.md)
+
+[景德镇艺术职业大学](./docs/universities/jing-de-zhen-yi-zhu-zhi-ye-da-xue.md)
 
 [景德镇陶瓷大学](./docs/universities/jing-de-zhen-tao-ci-da-xue.md)
 
