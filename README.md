@@ -366,8 +366,6 @@
 
 [中国矿业大学北京](./docs/universities/zhong-guo-kuang-ye-da-xue-bei-jing.md)
 
-[中国矿业大学徐州](./docs/universities/zhong-guo-kuang-ye-da-xue-xu-zhou.md)
-
 [中国矿业大学徐海学院](./docs/universities/zhong-guo-kuang-ye-da-xue-xu-hai-xue-yuan.md)
 
 [中国社会科学院大学](./docs/universities/zhong-guo-she-hui-ke-xue-yuan-da-xue.md)
@@ -1035,8 +1033,6 @@
 [南宁理工学院](./docs/universities/nan-zhu-li-gong-xue-yuan.md)
 
 [南宁职业技术学院](./docs/universities/nan-zhu-zhi-ye-ji-zhu-xue-yuan.md)
-
-[南师大](./docs/universities/nan-shi-da.md)
 
 [南开大学](./docs/universities/nan-kai-da-xue.md)
 
@@ -3560,6 +3556,8 @@
 
 [浙江纺织服装职业技术学院](./docs/universities/zhe-jiang-fang-zhi-fu-zhuang-zhi-ye-ji-zhu-xue-yuan.md)
 
+[浙江经济职业技术学院](./docs/universities/zhe-jiang-jing-ji-zhi-ye-ji-zhu-xue-yuan.md)
+
 [浙江育英职业技术学院](./docs/universities/zhe-jiang-yu-ying-zhi-ye-ji-zhu-xue-yuan.md)
 
 [浙江艺术职业学院](./docs/universities/zhe-jiang-yi-zhu-zhi-ye-xue-yuan.md)
@@ -3601,6 +3599,8 @@
 [海南政法职业学院](./docs/universities/hai-nan-zheng-fa-zhi-ye-xue-yuan.md)
 
 [海南热带海洋学院](./docs/universities/hai-nan-re-dai-hai-yang-xue-yuan.md)
+
+[海南省外国语职业学院](./docs/universities/hai-nan-sheng-wai-guo-yu-zhi-ye-xue-yuan.md)
 
 [海南科技职业大学](./docs/universities/hai-nan-ke-ji-zhi-ye-da-xue.md)
 
@@ -4005,6 +4005,8 @@
 [牡丹江医学院](./docs/universities/mu-dan-jiang-yi-xue-yuan.md)
 
 [牡丹江师范学院](./docs/universities/mu-dan-jiang-shi-fan-xue-yuan.md)
+
+[牡丹江职业技术学院](./docs/universities/mu-dan-jiang-zhi-ye-ji-zhu-xue-yuan.md)
 
 [玉林师范学院](./docs/universities/yu-lin-shi-fan-xue-yuan.md)
 
