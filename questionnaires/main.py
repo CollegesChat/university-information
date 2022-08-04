@@ -255,10 +255,10 @@ def main():
             f.write(f'# {name}\n\n')
             f.write('> [免责声明](https://colleges.chat/#_3)：本页面内容均来源于问卷收集，仅供参考，请自行确定信息准确性和真实性！\n\n')
             f.write('> 若您发现回答中存在答非所问或胡言乱语，欢迎记录对应的问卷 ID，前往页面对应的 GitHub 页面，通过 issue 或邮件等方式提交反馈！\n\n')
-            output_credits = '> 数据来源：'
+            output_credits = '> 数据来源：\n\n<details><summary>点击展开</summary>\n<ul>\n'
             for credit in university.credits:
-                output_credits += f'A{credit.answer_id}: {credit.content} + '
-            f.write(output_credits[:-3] + '\n\n')
+                output_credits += f'<li>A{credit.answer_id}: {credit.content}</li>\n'
+            f.write(output_credits + '</ul>\n</details>\n\n')
 
             # write answers
             assert len(questionnaire) == len(university.answers)
