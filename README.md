@@ -224,10 +224,6 @@
 
 [上饶职业技术学院](./docs/universities/shang-rao-zhi-ye-ji-zhu-xue-yuan.md)
 
-[下北泽会员制大学](./docs/universities/xia-bei-ze-hui-yuan-zhi-da-xue.md)
-
-[下北泽野兽学院](./docs/universities/xia-bei-ze-ye-shou-xue-yuan.md)
-
 [东京大学](./docs/universities/dong-jing-da-xue.md)
 
 [东北农业大学](./docs/universities/dong-bei-nong-ye-da-xue.md)
@@ -491,8 +487,6 @@
 [云南师范大学商学院](./docs/universities/yun-nan-shi-fan-da-xue-shang-xue-yuan.md)
 
 [云南新兴职业学院](./docs/universities/yun-nan-xin-xing-zhi-ye-xue-yuan.md)
-
-[云南曲靖一中清源学校](./docs/universities/yun-nan-qu-jing-yi-zhong-qing-yuan-xue-xiao.md)
 
 [云南机电职业技术学院](./docs/universities/yun-nan-ji-dian-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -1274,8 +1268,6 @@
 
 [吕梁学院](./docs/universities/lu-liang-xue-yuan.md)
 
-[呋噫大学](./docs/universities/fu-yi-da-xue.md)
-
 [周口师范学院](./docs/universities/zhou-kou-shi-fan-xue-yuan.md)
 
 [周口文理职业技术学院](./docs/universities/zhou-kou-wen-li-zhi-ye-ji-zhu-xue-yuan.md)
@@ -1291,8 +1283,6 @@
 [咸阳师范学院](./docs/universities/xian-yang-shi-fan-xue-yuan.md)
 
 [咸阳职业技术学院](./docs/universities/xian-yang-zhi-ye-ji-zhu-xue-yuan.md)
-
-[哈哈大学](./docs/universities/ha-ha-da-xue.md)
 
 [哈尔滨体育学院](./docs/universities/ha-er-bin-ti-yu-xue-yuan.md)
 
@@ -1535,8 +1525,6 @@
 [塔里木大学](./docs/universities/ta-li-mu-da-xue.md)
 
 [塔里木职业技术学院](./docs/universities/ta-li-mu-zhi-ye-ji-zhu-xue-yuan.md)
-
-[声学院](./docs/universities/sheng-xue-yuan.md)
 
 [复旦大学](./docs/universities/fu-dan-da-xue.md)
 
@@ -2165,8 +2153,6 @@
 [川北幼儿师范高等专科学校](./docs/universities/chuan-bei-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
 
 [巢湖学院](./docs/universities/chao-hu-xue-yuan.md)
-
-[工程大学](./docs/universities/gong-cheng-da-xue.md)
 
 [巩义市第二职业学校](./docs/universities/gong-yi-shi-di-er-zhi-ye-xue-xiao.md)
 
@@ -2837,8 +2823,6 @@
 [曲阜师范大学日照校区](./docs/universities/qu-fu-shi-fan-da-xue-ri-zhao-xiao-qu.md)
 
 [曲靖医学高等专科学校](./docs/universities/qu-jing-yi-xue-gao-deng-zhuan-ke-xue-xiao.md)
-
-[曾子学校](./docs/universities/ceng-zi-xue-xiao.md)
 
 [朝阳大学](./docs/universities/zhao-yang-da-xue.md)
 
