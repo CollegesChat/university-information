@@ -20,6 +20,8 @@ nav:
     - 如何正义劝退？: choose-a-college/如何正义劝退？.md
   - 问卷数据:
 [universities_nav]
+  - 已归档数据:
+[universities_nav_archived]
 # Configuration
 theme:
   name: material
