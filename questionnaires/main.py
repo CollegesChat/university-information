@@ -239,6 +239,8 @@ def process_universities(universities: dict, colleges: dict):
 def write_to_markdown(universities: dict, filename_map: FilenameMap, archived: bool):
     for name, university in universities.items():
         filename = generate_markdown_path(filename_map[name], False, archived)
+        if archived:
+            name += ' (已归档)'
         folder_name = join_path('dist', 'docs')
         with open(join_path(folder_name, filename), 'w', encoding='utf-8') as f:
             # write header
@@ -276,10 +278,13 @@ def write_to_readme(universities: dict, filename_map: FilenameMap, readme_file_n
         readme_file.write('\n\n')
 
         # write university links
+        suffix = ''
+        if suffix:
+            appendix = ' (已归档)'
         university_names = list(universities.keys())
         university_names.sort()
         # here `in_readme` should be opposite from `archived` to avoid generating redundant 'docs' for archived
-        university_links = [ '[{}]({})'.format(name, generate_markdown_path(filename_map[name], not archived, False)) for name in university_names ]
+        university_links = [ '[{}]({})'.format(name + suffix, generate_markdown_path(filename_map[name], not archived, False)) for name in university_names ]
         readme_file.write('\n\n'.join(university_links))
 
         sorted_colleges_keys = sorted(colleges.keys())
@@ -306,7 +311,7 @@ def write_to_readme(universities: dict, filename_map: FilenameMap, readme_file_n
             nav_file.write(f'    - {province}:\n')
             college.sort()
             for name in college:
-                nav_file.write('      - {}: {}\n'.format(name, generate_markdown_path(filename_map[name], False, archived)))
+                nav_file.write('      - {}: {}\n'.format(name + suffix, generate_markdown_path(filename_map[name], False, archived)))
 
 
 def main():
