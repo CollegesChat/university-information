@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2023-06-19 20:55:15
+copyright: CC BY-NC-SA 4.0 | Generated on 2023-06-20 14:26:33
 
 # Navigation
 nav:
@@ -383,6 +383,7 @@ nav:
       - 内蒙古科技大学包头师范学院: universities/nei-meng-gu-ke-ji-da-xue-bao-tou-shi-fan-xue-yuan.md
       - 内蒙古科技大学非包头医学院，包头师范学院: universities/nei-meng-gu-ke-ji-da-xue-fei-bao-tou-yi-xue-yuan-bao-tou-shi-fan-xue-yuan.md
       - 内蒙古艺术学院: universities/nei-meng-gu-yi-zhu-xue-yuan.md
+      - 内蒙古警察职业学院: universities/nei-meng-gu-jing-cha-zhi-ye-xue-yuan.md
       - 内蒙古财经大学: universities/nei-meng-gu-cai-jing-da-xue.md
       - 内蒙古财经大学西校区: universities/nei-meng-gu-cai-jing-da-xue-xi-xiao-qu.md
       - 内蒙古鸿德文理学院: universities/nei-meng-gu-hong-de-wen-li-xue-yuan.md
@@ -811,6 +812,7 @@ nav:
       - 扬州大学瘦西湖校区: universities/yang-zhou-da-xue-shou-xi-hu-xiao-qu.md
       - 扬州工业职业技术学院: universities/yang-zhou-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 扬州市职业大学: universities/yang-zhou-shi-zhi-ye-da-xue.md
+      - 无锡南洋职业技术学院: universities/wu-xi-nan-yang-zhi-ye-ji-zhu-xue-yuan.md
       - 无锡商业职业技术学院: universities/wu-xi-shang-ye-zhi-ye-ji-zhu-xue-yuan.md
       - 无锡城市职业技术学院: universities/wu-xi-cheng-shi-zhi-ye-ji-zhu-xue-yuan.md
       - 无锡太湖学院: universities/wu-xi-tai-hu-xue-yuan.md

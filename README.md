@@ -680,6 +680,8 @@
 
 [内蒙古艺术学院](./docs/universities/nei-meng-gu-yi-zhu-xue-yuan.md)
 
+[内蒙古警察职业学院](./docs/universities/nei-meng-gu-jing-cha-zhi-ye-xue-yuan.md)
+
 [内蒙古财经大学](./docs/universities/nei-meng-gu-cai-jing-da-xue.md)
 
 [内蒙古财经大学西校区](./docs/universities/nei-meng-gu-cai-jing-da-xue-xi-xiao-qu.md)
@@ -2955,6 +2957,8 @@
 [新疆财经大学](./docs/universities/xin-jiang-cai-jing-da-xue.md)
 
 [新疆轻工职业技术学院](./docs/universities/xin-jiang-qing-gong-zhi-ye-ji-zhu-xue-yuan.md)
+
+[无锡南洋职业技术学院](./docs/universities/wu-xi-nan-yang-zhi-ye-ji-zhu-xue-yuan.md)
 
 [无锡卫生高等职业技术学校](./docs/universities/wu-xi-wei-sheng-gao-deng-zhi-ye-ji-zhu-xue-xiao.md)
 
