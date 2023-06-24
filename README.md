@@ -1228,8 +1228,6 @@
 
 [桐城师范高等专科学校](./docs/universities/tong-cheng-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
 
-[梁家河大学](./docs/universities/liang-jia-he-da-xue.md)
-
 [梧州学院](./docs/universities/wu-zhou-xue-yuan.md)
 
 [榆林学院](./docs/universities/yu-lin-xue-yuan.md)

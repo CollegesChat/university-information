@@ -1156,7 +1156,6 @@
       - 广州华立科技职业技术学院: universities/yan-zhou-hua-li-ke-ji-zhi-ye-ji-zhu-xue-yuan.md
       - 广州市财经商贸职业技术学校: universities/yan-zhou-shi-cai-jing-shang-mao-zhi-ye-ji-zhu-xue-xiao.md
       - 应急管理大学: universities/ying-ji-guan-li-da-xue.md
-      - 梁家河大学: universities/liang-jia-he-da-xue.md
       - 武汉光谷职业技术学院: universities/wu-yi-guang-gu-zhi-ye-ji-zhu-xue-yuan.md
       - 江苏省交通技师学院: universities/jiang-su-sheng-jiao-tong-ji-shi-xue-yuan.md
       - 河北中医药大学: universities/he-bei-zhong-yi-yao-da-xue.md
