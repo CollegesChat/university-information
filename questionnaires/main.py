@@ -279,8 +279,8 @@ def write_to_readme(universities: dict, filename_map: FilenameMap, readme_file_n
 
         # write university links
         suffix = ''
-        if suffix:
-            appendix = ' (已归档)'
+        if archived:
+            suffix = ' (已归档)'
         university_names = list(universities.keys())
         university_names.sort()
         # here `in_readme` should be opposite from `archived` to avoid generating redundant 'docs' for archived
