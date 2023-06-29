@@ -26,8 +26,8 @@ nav:
 theme:
   name: material
   language: zh
-  logo: assets/images/favicon.png
-  favicon: assets/images/favicon.png
+  logo: assets/images/favicon.webp
+  favicon: assets/images/favicon.webp
   palette:
     primary: blue
     accent: blue
