@@ -2318,7 +2318,6 @@
       - 黔南民族职业技术学院 (已归档): archived/universities/qian-nan-min-zu-zhi-ye-ji-zhu-xue-yuan.md
     - 云南:
       - 中国云南大学 (已归档): archived/universities/zhong-guo-yun-nan-da-xue.md
-      - 丽江师范高等专科学校 (已归档): archived/universities/li-jiang-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 丽江文化旅游学院 (已归档): archived/universities/li-jiang-wen-hua-lu-you-xue-yuan.md
       - 云南中医药大学 (已归档): archived/universities/yun-nan-zhong-yi-yao-da-xue.md
       - 云南交通职业技术学院 (已归档): archived/universities/yun-nan-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md

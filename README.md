@@ -14,10 +14,6 @@
 
 [University of Wisconsin, Madison](./docs/universities/university-of-wisconsin-madison.md)
 
-[wffw](./docs/universities/wffw.md)
-
-[x x w](./docs/universities/x-x-w.md)
-
 [三峡大学](./docs/universities/san-xia-da-xue.md)
 
 [三峡大学科技学院](./docs/universities/san-xia-da-xue-ke-ji-xue-yuan.md)
@@ -1458,8 +1454,6 @@
 
 [新疆财经大学](./docs/universities/xin-jiang-cai-jing-da-xue.md)
 
-[无](./docs/universities/wu.md)
-
 [无锡南洋职业技术学院](./docs/universities/wu-xi-nan-yang-zhi-ye-ji-zhu-xue-yuan.md)
 
 [无锡商业职业技术学院](./docs/universities/wu-xi-shang-ye-zhi-ye-ji-zhu-xue-yuan.md)
@@ -1489,8 +1483,6 @@
 [曲阜师范大学](./docs/universities/qu-fu-shi-fan-da-xue.md)
 
 [曲阜师范大学日照校区](./docs/universities/qu-fu-shi-fan-da-xue-ri-zhao-xiao-qu.md)
-
-[未被录取](./docs/universities/wei-bei-lu-qu.md)
 
 [杨凌职业技术学院](./docs/universities/yang-ling-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -2608,8 +2600,6 @@
 
 [运城学院](./docs/universities/yun-cheng-xue-yuan.md)
 
-[还没上](./docs/universities/huan-mei-shang.md)
-
 [连云港师范高等专科学校](./docs/universities/lian-yun-gang-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
 
 [通化师范学院](./docs/universities/tong-hua-shi-fan-xue-yuan.md)
@@ -2821,8 +2811,6 @@
 [阳光学院](./docs/universities/yang-guang-xue-yuan.md)
 
 [阿坝师范学院](./docs/universities/a-ba-shi-fan-xue-yuan.md)
-
-[阿巴阿巴](./docs/universities/a-ba-a-ba.md)
 
 [陇东学院](./docs/universities/long-dong-xue-yuan.md)
 

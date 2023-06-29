@@ -456,8 +456,6 @@
 
 [丽水职业技术学院 (已归档)](universities/li-shui-zhi-ye-ji-zhu-xue-yuan.md)
 
-[丽江师范高等专科学校 (已归档)](universities/li-jiang-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
-
 [丽江文化旅游学院 (已归档)](universities/li-jiang-wen-hua-lu-you-xue-yuan.md)
 
 [义乌工商职业技术学院 (已归档)](universities/yi-wu-gong-shang-zhi-ye-ji-zhu-xue-yuan.md)
