@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2023-06-29 14:01:29
+copyright: CC BY-NC-SA 4.0 | Generated on 2023-06-29 14:06:44
 
 # Navigation
 nav:
@@ -4272,8 +4272,8 @@ nav:
 theme:
   name: material
   language: zh
-  logo: assets/images/favicon.png
-  favicon: assets/images/favicon.png
+  logo: assets/images/favicon.webp
+  favicon: assets/images/favicon.webp
   palette:
     primary: blue
     accent: blue
