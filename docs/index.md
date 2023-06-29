@@ -26,12 +26,14 @@
 | [CollegesChat/university-information](https://github.com/CollegesChat/university-information/graphs/contributors) |
 | [CollegesChat/colleges.chat](https://github.com/CollegesChat/colleges.chat/graphs/contributors) |
 
-感谢以下赞助者为本项目提供资金支持，您的帮助将让我们走得更远。  
+感谢以下赞助者为本项目提供支持，您的帮助将让我们走得更远。  
 
-| 赞助者 | 金额 | 用途 |
+| 赞助者 | 赞助金额或物品 | 用途 |
 | :----: | :----: | :----:|
 | 131 | 11.35 USD | 域名注册 |
 | Yang | 22 USD (实际使用 21.68 USD) | 域名续费 |
+| Yang | 服务器 | 优化网站访问速度 |
+| Monad | 166.66 CNY (实际使用 23.18 USD) | 域名续费 |
 
 ## LICENSE
 
