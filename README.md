@@ -1118,6 +1118,8 @@
 
 [山东大学青岛](./docs/universities/shan-dong-da-xue-qing-dao.md)
 
+[山东大学青岛校区](./docs/universities/shan-dong-da-xue-qing-dao-xiao-qu.md)
+
 [山东工商学院](./docs/universities/shan-dong-gong-shang-xue-yuan.md)
 
 [山东工程职业技术大学](./docs/universities/shan-dong-gong-cheng-zhi-ye-ji-zhu-da-xue.md)
@@ -1672,8 +1674,6 @@
 
 [江海职业技术学院](./docs/universities/jiang-hai-zhi-ye-ji-zhu-xue-yuan.md)
 
-[江湖大学](./docs/universities/jiang-hu-da-xue.md)
-
 [江苏农林职业技术学院](./docs/universities/jiang-su-nong-lin-zhi-ye-ji-zhu-xue-yuan.md)
 
 [江苏医药职业学院](./docs/universities/jiang-su-yi-yao-zhi-ye-xue-yuan.md)
@@ -2170,6 +2170,8 @@
 
 [湖北民族大学](./docs/universities/hu-bei-min-zu-da-xue.md)
 
+[湖北汽车工业学院](./docs/universities/hu-bei-qi-che-gong-ye-xue-yuan.md)
+
 [湖北理工大学](./docs/universities/hu-bei-li-gong-da-xue.md)
 
 [湖北理工学院](./docs/universities/hu-bei-li-gong-xue-yuan.md)
@@ -2287,8 +2289,6 @@
 [滨州学院](./docs/universities/bin-zhou-xue-yuan.md)
 
 [漯河医学高等专科学校](./docs/universities/lei-he-yi-xue-gao-deng-zhuan-ke-xue-xiao.md)
-
-[漯河职业技术学院](./docs/universities/lei-he-zhi-ye-ji-zhu-xue-yuan.md)
 
 [漳州卫生职业学院](./docs/universities/zhang-zhou-wei-sheng-zhi-ye-xue-yuan.md)
 
@@ -2780,6 +2780,8 @@
 
 [重庆理工职业学院](./docs/universities/zhong-qing-li-gong-zhi-ye-xue-yuan.md)
 
+[重庆电力高等专科学校](./docs/universities/zhong-qing-dian-li-gao-deng-zhuan-ke-xue-xiao.md)
+
 [重庆科技学院](./docs/universities/zhong-qing-ke-ji-xue-yuan.md)
 
 [重庆第二师范学院](./docs/universities/zhong-qing-di-er-shi-fan-xue-yuan.md)
@@ -3001,6 +3003,8 @@
 [黑龙江外国语学院](./docs/universities/hei-long-jiang-wai-guo-yu-xue-yuan.md)
 
 [黑龙江大学](./docs/universities/hei-long-jiang-da-xue.md)
+
+[黑龙江工业学院](./docs/universities/hei-long-jiang-gong-ye-xue-yuan.md)
 
 [黑龙江工商学院](./docs/universities/hei-long-jiang-gong-shang-xue-yuan.md)
 
