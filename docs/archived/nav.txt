@@ -536,7 +536,6 @@
       - 哈尔滨商业大学 (已归档): archived/universities/ha-er-bin-shang-ye-da-xue.md
       - 哈尔滨学院 (已归档): archived/universities/ha-er-bin-xue-yuan.md
       - 哈尔滨工业大学 (已归档): archived/universities/ha-er-bin-gong-ye-da-xue.md
-      - 哈尔滨工业大学二小区 (已归档): archived/universities/ha-er-bin-gong-ye-da-xue-er-xiao-qu-2.md
       - 哈尔滨工业大学二校区 (已归档): archived/universities/ha-er-bin-gong-ye-da-xue-er-xiao-qu.md
       - 哈尔滨工业大学二校区校本部 (已归档): archived/universities/ha-er-bin-gong-ye-da-xue-er-xiao-qu-xiao-ben-bu.md
       - 哈尔滨工业大学土木楼 (已归档): archived/universities/ha-er-bin-gong-ye-da-xue-tu-mu-lou.md
@@ -1179,7 +1178,6 @@
       - 江西农业大学南昌商学院 (已归档): archived/universities/jiang-xi-nong-ye-da-xue-nan-chang-shang-xue-yuan.md
       - 江西农业工程职业学院 (已归档): archived/universities/jiang-xi-nong-ye-gong-cheng-zhi-ye-xue-yuan.md
       - 江西冶金职业技术学院 (已归档): archived/universities/jiang-xi-ye-jin-zhi-ye-ji-zhu-xue-yuan.md
-      - 江西制造职业技术学院 (已归档): archived/universities/jiang-xi-zhi-zao-zhi-ye-ji-zhu-xue-yuan.md
       - 江西医学高等专科学校 (已归档): archived/universities/jiang-xi-yi-xue-gao-deng-zhuan-ke-xue-xiao.md
       - 江西司法警官职业学院 (已归档): archived/universities/jiang-xi-si-fa-jing-guan-zhi-ye-xue-yuan.md
       - 江西外语外贸职业学院 (已归档): archived/universities/jiang-xi-wai-yu-wai-mao-zhi-ye-xue-yuan.md
@@ -1825,7 +1823,7 @@
       - 南方医科大学 (已归档): archived/universities/nan-fang-yi-ke-da-xue.md
       - 南方医科大学顺德校区 (已归档): archived/universities/nan-fang-yi-ke-da-xue-shun-de-xiao-qu.md
       - 南方科技大学 (已归档): archived/universities/nan-fang-ke-ji-da-xue.md
-      - 哈尔滨工业大学深圳 (已归档): archived/universities/ha-er-bin-gong-ye-da-xue-shen-zhen.md
+      - 哈尔滨工业大学深圳校区 (已归档): archived/universities/ha-er-bin-gong-ye-da-xue-shen-zhen-xiao-qu.md
       - 嘉应学院 (已归档): archived/universities/jia-ying-xue-yuan.md
       - 嘉应学院医学院 (已归档): archived/universities/jia-ying-xue-yuan-yi-xue-yuan.md
       - 岭南师范学院 (已归档): archived/universities/ling-nan-shi-fan-xue-yuan.md
@@ -2649,7 +2647,6 @@
       - 江苏省徐州财经高等职业技术学校 (已归档): archived/universities/jiang-su-sheng-xu-zhou-cai-jing-gao-deng-zhi-ye-ji-zhu-xue-xiao.md
       - 江苏省戏剧学校 (已归档): archived/universities/jiang-su-sheng-xi-ju-xue-xiao.md
       - 河北工业职业技术学院大学 (已归档): archived/universities/he-bei-gong-ye-zhi-ye-ji-zhu-xue-yuan-da-xue.md
-      - 河北机电职业学院 (已归档): archived/universities/he-bei-ji-dian-zhi-ye-xue-yuan.md
       - 河北武邑宏达东方学校 (已归档): archived/universities/he-bei-wu-yi-hong-da-dong-fang-xue-xiao.md
       - 河南省医药卫生学校 (已归档): archived/universities/he-nan-sheng-yi-yao-wei-sheng-xue-xiao.md
       - 泉州职业大学 (已归档): archived/universities/quan-zhou-zhi-ye-da-xue.md
@@ -2698,7 +2695,6 @@
       - 衡阳技师学院 (已归档): archived/universities/heng-yang-ji-shi-xue-yuan.md
       - 西交大城市学院 (已归档): archived/universities/xi-jiao-da-cheng-shi-xue-yuan.md
       - 西南航空职业学院 (已归档): archived/universities/xi-nan-hang-kong-zhi-ye-xue-yuan.md
-      - 西安交通利物浦大学 (已归档): archived/universities/xi-an-jiao-tong-li-wu-pu-da-xue.md
       - 西安市财经大学行知学院 (已归档): archived/universities/xi-an-shi-cai-jing-da-xue-xing-zhi-xue-yuan.md
       - 贵州交通运输学校 (已归档): archived/universities/gui-zhou-jiao-tong-yun-shu-xue-xiao.md
       - 贵州应用技术技师学院 (已归档): archived/universities/gui-zhou-ying-yong-ji-zhu-ji-shi-xue-yuan.md

@@ -1324,8 +1324,6 @@
 
 [哈尔滨工业大学 (已归档)](universities/ha-er-bin-gong-ye-da-xue.md)
 
-[哈尔滨工业大学二小区 (已归档)](universities/ha-er-bin-gong-ye-da-xue-er-xiao-qu-2.md)
-
 [哈尔滨工业大学二校区 (已归档)](universities/ha-er-bin-gong-ye-da-xue-er-xiao-qu.md)
 
 [哈尔滨工业大学二校区校本部 (已归档)](universities/ha-er-bin-gong-ye-da-xue-er-xiao-qu-xiao-ben-bu.md)
@@ -1334,7 +1332,7 @@
 
 [哈尔滨工业大学威海 (已归档)](universities/ha-er-bin-gong-ye-da-xue-wei-hai.md)
 
-[哈尔滨工业大学深圳 (已归档)](universities/ha-er-bin-gong-ye-da-xue-shen-zhen.md)
+[哈尔滨工业大学深圳校区 (已归档)](universities/ha-er-bin-gong-ye-da-xue-shen-zhen-xiao-qu.md)
 
 [哈尔滨工程大学 (已归档)](universities/ha-er-bin-gong-cheng-da-xue.md)
 
@@ -3194,8 +3192,6 @@
 
 [江西冶金职业技术学院 (已归档)](universities/jiang-xi-ye-jin-zhi-ye-ji-zhu-xue-yuan.md)
 
-[江西制造职业技术学院 (已归档)](universities/jiang-xi-zhi-zao-zhi-ye-ji-zhu-xue-yuan.md)
-
 [江西医学高等专科学校 (已归档)](universities/jiang-xi-yi-xue-gao-deng-zhuan-ke-xue-xiao.md)
 
 [江西司法警官职业学院 (已归档)](universities/jiang-xi-si-fa-jing-guan-zhi-ye-xue-yuan.md)
@@ -3373,8 +3369,6 @@
 [河北建筑工程学院 (已归档)](universities/he-bei-jian-zhu-gong-cheng-xue-yuan.md)
 
 [河北旅游职业学院 (已归档)](universities/he-bei-lu-you-zhi-ye-xue-yuan.md)
-
-[河北机电职业学院 (已归档)](universities/he-bei-ji-dian-zhi-ye-xue-yuan.md)
 
 [河北武邑宏达东方学校 (已归档)](universities/he-bei-wu-yi-hong-da-dong-fang-xue-xiao.md)
 
@@ -4527,8 +4521,6 @@
 [西南财经大学天府学院 (已归档)](universities/xi-nan-cai-jing-da-xue-tian-fu-xue-yuan.md)
 
 [西南财经大学柳林校区 (已归档)](universities/xi-nan-cai-jing-da-xue-liu-lin-xiao-qu.md)
-
-[西安交通利物浦大学 (已归档)](universities/xi-an-jiao-tong-li-wu-pu-da-xue.md)
 
 [西安交通大学 (已归档)](universities/xi-an-jiao-tong-da-xue.md)
 
