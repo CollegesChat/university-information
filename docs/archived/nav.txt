@@ -1155,7 +1155,7 @@
       - 南昌工学院 (已归档): archived/universities/nan-chang-gong-xue-yuan.md
       - 南昌工程学院 (已归档): archived/universities/nan-chang-gong-cheng-xue-yuan.md
       - 南昌师范学院 (已归档): archived/universities/nan-chang-shi-fan-xue-yuan.md
-      - 南昌应用技术师范学院/江西科技师范大学理工学院 (已归档): archived/universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan-jiang-xi-ke-ji-shi-fan-da-xue-li-gong-xue-yuan.md
+      - 南昌应用技术师范学院 (已归档): archived/universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan.md
       - 南昌影视传播职业学院 (已归档): archived/universities/nan-chang-ying-shi-chuan-bo-zhi-ye-xue-yuan.md
       - 南昌理工学院 (已归档): archived/universities/nan-chang-li-gong-xue-yuan.md
       - 南昌职业大学 (已归档): archived/universities/nan-chang-zhi-ye-da-xue.md

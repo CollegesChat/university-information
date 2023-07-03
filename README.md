@@ -256,6 +256,8 @@
 
 [九江学院](./docs/universities/jiu-jiang-xue-yuan.md)
 
+[九江职业大学](./docs/universities/jiu-jiang-zhi-ye-da-xue.md)
+
 [九江职业技术学院](./docs/universities/jiu-jiang-zhi-ye-ji-zhu-xue-yuan.md)
 
 [云南中医药大学](./docs/universities/yun-nan-zhong-yi-yao-da-xue.md)
@@ -283,6 +285,8 @@
 [亳州学院](./docs/universities/bo-zhou-xue-yuan.md)
 
 [仙桃职业学院](./docs/universities/xian-tao-zhi-ye-xue-yuan.md)
+
+[仰恩大学](./docs/universities/yang-en-da-xue.md)
 
 [仲恺农业工程学院](./docs/universities/zhong-kai-nong-ye-gong-cheng-xue-yuan.md)
 
@@ -606,7 +610,7 @@
 
 [南京邮电大学](./docs/universities/nan-jing-you-dian-da-xue.md)
 
-[南京邮电大学仙林校区，但是我住的宿舍是全校条件最好的青教，但是相对的最偏僻，离除了学科楼之外的地方都很远](./docs/universities/nan-jing-you-dian-da-xue-xian-lin-xiao-qu-dan-shi-wo-zhu-de-su-she-shi-quan-xiao-tiao-jian-zui-hao-de-qing-jiao-dan-shi-xiang-dui-de-zui-pian-pi-chi-chu-liao-xue-ke-lou-zhi-wai-de-di-fang-du-hen-yuan.md)
+[南京邮电大学仙林校区](./docs/universities/nan-jing-you-dian-da-xue-xian-lin-xiao-qu.md)
 
 [南京邮电大学通达学院](./docs/universities/nan-jing-you-dian-da-xue-tong-da-xue-yuan.md)
 
@@ -619,6 +623,8 @@
 [南宁学院](./docs/universities/nan-zhu-xue-yuan.md)
 
 [南宁师范大学](./docs/universities/nan-zhu-shi-fan-da-xue.md)
+
+[南宁师范大学师园学院](./docs/universities/nan-zhu-shi-fan-da-xue-shi-yuan-xue-yuan.md)
 
 [南宁理工学院](./docs/universities/nan-zhu-li-gong-xue-yuan.md)
 
@@ -651,8 +657,6 @@
 [南昌师范学院](./docs/universities/nan-chang-shi-fan-xue-yuan.md)
 
 [南昌应用技术师范学院](./docs/universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan.md)
-
-[南昌应用技术师范学院/江西科技师范大学理工学院](./docs/universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan-jiang-xi-ke-ji-shi-fan-da-xue-li-gong-xue-yuan.md)
 
 [南昌理工学院](./docs/universities/nan-chang-li-gong-xue-yuan.md)
 
@@ -2506,6 +2510,8 @@
 
 [菏泽学院](./docs/universities/he-ze-xue-yuan.md)
 
+[菏泽职业学院](./docs/universities/he-ze-zhi-ye-xue-yuan.md)
+
 [萍乡卫生职业学院](./docs/universities/ping-xiang-wei-sheng-zhi-ye-xue-yuan.md)
 
 [萍乡学院](./docs/universities/ping-xiang-xue-yuan.md)
@@ -2682,6 +2688,8 @@
 
 [辽宁大学蒲河校区](./docs/universities/liao-zhu-da-xue-pu-he-xiao-qu.md)
 
+[辽宁对外经贸学院](./docs/universities/liao-zhu-dui-wai-jing-mao-xue-yuan.md)
+
 [辽宁工程技术大学](./docs/universities/liao-zhu-gong-cheng-ji-zhu-da-xue.md)
 
 [辽宁师范大学](./docs/universities/liao-zhu-shi-fan-da-xue.md)
@@ -2801,8 +2809,6 @@
 [重庆理工大学](./docs/universities/zhong-qing-li-gong-da-xue.md)
 
 [重庆理工职业学院](./docs/universities/zhong-qing-li-gong-zhi-ye-xue-yuan.md)
-
-[重庆电力高等专科学校](./docs/universities/zhong-qing-dian-li-gao-deng-zhuan-ke-xue-xiao.md)
 
 [重庆科技学院](./docs/universities/zhong-qing-ke-ji-xue-yuan.md)
 
@@ -3025,8 +3031,6 @@
 [黑龙江外国语学院](./docs/universities/hei-long-jiang-wai-guo-yu-xue-yuan.md)
 
 [黑龙江大学](./docs/universities/hei-long-jiang-da-xue.md)
-
-[黑龙江工业学院](./docs/universities/hei-long-jiang-gong-ye-xue-yuan.md)
 
 [黑龙江工商学院](./docs/universities/hei-long-jiang-gong-shang-xue-yuan.md)
 

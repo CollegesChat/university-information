@@ -1090,7 +1090,7 @@
 
 [南昌师范学院 (已归档)](universities/nan-chang-shi-fan-xue-yuan.md)
 
-[南昌应用技术师范学院/江西科技师范大学理工学院 (已归档)](universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan-jiang-xi-ke-ji-shi-fan-da-xue-li-gong-xue-yuan.md)
+[南昌应用技术师范学院 (已归档)](universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan.md)
 
 [南昌影视传播职业学院 (已归档)](universities/nan-chang-ying-shi-chuan-bo-zhi-ye-xue-yuan.md)
 
