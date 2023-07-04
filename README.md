@@ -10,9 +10,13 @@
 
 [Mcmaster University](./docs/universities/mcmaster-university.md)
 
+[Ritsumeikan University Osaka-Ibaraki Campus](./docs/universities/ritsumeikan-university-osaka-ibaraki-campus.md)
+
 [Santa Clara University](./docs/universities/santa-clara-university.md)
 
 [University of Alberta](./docs/universities/university-of-alberta.md)
+
+[University of California, Davis](./docs/universities/university-of-california-davis.md)
 
 [University of Wisconsin, Madison](./docs/universities/university-of-wisconsin-madison.md)
 
@@ -496,6 +500,8 @@
 
 [华侨大学](./docs/universities/hua-qiao-da-xue.md)
 
+[华侨大学厦门校区](./docs/universities/hua-qiao-da-xue-sha-men-xiao-qu.md)
+
 [华北水利水电大学](./docs/universities/hua-bei-shui-li-shui-dian-da-xue.md)
 
 [华北水利水电大学龙子湖校区](./docs/universities/hua-bei-shui-li-shui-dian-da-xue-long-zi-hu-xiao-qu.md)
@@ -869,6 +875,8 @@
 [四川美术学院](./docs/universities/si-chuan-mei-zhu-xue-yuan.md)
 
 [四川西南航空职业学院](./docs/universities/si-chuan-xi-nan-hang-kong-zhi-ye-xue-yuan.md)
+
+[四川警察学院](./docs/universities/si-chuan-jing-cha-xue-yuan.md)
 
 [四川轻化工大学](./docs/universities/si-chuan-qing-hua-gong-da-xue.md)
 
@@ -1275,6 +1283,8 @@
 [广东工贸职业技术学院](./docs/universities/yan-dong-gong-mao-zhi-ye-ji-zhu-xue-yuan.md)
 
 [广东建设职业技术学院](./docs/universities/yan-dong-jian-she-zhi-ye-ji-zhu-xue-yuan.md)
+
+[广东技术师范大学东校区](./docs/universities/yan-dong-ji-zhu-shi-fan-da-xue-dong-xiao-qu.md)
 
 [广东技术师范大学白云校区](./docs/universities/yan-dong-ji-zhu-shi-fan-da-xue-bai-yun-xiao-qu.md)
 
@@ -2038,6 +2048,8 @@
 
 [浙江工商大学](./docs/universities/zhe-jiang-gong-shang-da-xue.md)
 
+[浙江工商大学杭州商学院](./docs/universities/zhe-jiang-gong-shang-da-xue-hang-zhou-shang-xue-yuan.md)
+
 [浙江工商大学杭州商学院桐庐校区](./docs/universities/zhe-jiang-gong-shang-da-xue-hang-zhou-shang-xue-yuan-tong-lu-xiao-qu.md)
 
 [浙江工商职业技术学院](./docs/universities/zhe-jiang-gong-shang-zhi-ye-ji-zhu-xue-yuan.md)
@@ -2419,6 +2431,8 @@
 [福建华南女子职业学院](./docs/universities/fu-jian-hua-nan-nu-zi-zhi-ye-xue-yuan.md)
 
 [福建卫生职业技术学院](./docs/universities/fu-jian-wei-sheng-zhi-ye-ji-zhu-xue-yuan.md)
+
+[福建商学院](./docs/universities/fu-jian-shang-xue-yuan.md)
 
 [福建工程学院](./docs/universities/fu-jian-gong-cheng-xue-yuan.md)
 
@@ -2940,6 +2954,8 @@
 
 [陕西建筑科技大学](./docs/universities/shan-xi-jian-zhu-ke-ji-da-xue.md)
 
+[陕西理工大学](./docs/universities/shan-xi-li-gong-da-xue.md)
+
 [陕西科技大学](./docs/universities/shan-xi-ke-ji-da-xue.md)
 
 [集宁师范学院](./docs/universities/ji-zhu-shi-fan-xue-yuan.md)
@@ -2951,6 +2967,8 @@
 [青岛农业大学](./docs/universities/qing-dao-nong-ye-da-xue.md)
 
 [青岛农业大学海都学院](./docs/universities/qing-dao-nong-ye-da-xue-hai-du-xue-yuan.md)
+
+[青岛城市学院](./docs/universities/qing-dao-cheng-shi-xue-yuan.md)
 
 [青岛大学](./docs/universities/qing-dao-da-xue.md)
 
@@ -2985,6 +3003,8 @@
 [香港中文大学深圳](./docs/universities/xiang-gang-zhong-wen-da-xue-shen-zhen.md)
 
 [香港大学](./docs/universities/xiang-gang-da-xue.md)
+
+[香港珠海学院](./docs/universities/xiang-gang-zhu-hai-xue-yuan.md)
 
 [香港理工大学](./docs/universities/xiang-gang-li-gong-da-xue.md)
 
