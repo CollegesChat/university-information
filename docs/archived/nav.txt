@@ -1974,7 +1974,6 @@
       - 深圳大学 (已归档): archived/universities/shen-zhen-da-xue.md
       - 深圳大学丽湖校区 (已归档): archived/universities/shen-zhen-da-xue-li-hu-xiao-qu.md
       - 深圳技术大学 (已归档): archived/universities/shen-zhen-ji-zhu-da-xue.md
-      - 深圳职业技术学院 (已归档): archived/universities/shen-zhen-zhi-ye-ji-zhu-xue-yuan.md
       - 清远职业技术学院 (已归档): archived/universities/qing-yuan-zhi-ye-ji-zhu-xue-yuan.md
       - 湛江幼儿师范专科学校 (已归档): archived/universities/zhan-jiang-you-er-shi-fan-zhuan-ke-xue-xiao.md
       - 湛江科技学院 (已归档): archived/universities/zhan-jiang-ke-ji-xue-yuan.md

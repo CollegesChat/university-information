@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2023-07-15 10:42:52
+copyright: CC BY-NC-SA 4.0 | Generated on 2023-08-20 12:52:08
 
 # Navigation
 nav:
@@ -1232,7 +1232,6 @@ nav:
       - 深圳大学: universities/shen-zhen-da-xue.md
       - 深圳大学丽湖校区: universities/shen-zhen-da-xue-li-hu-xiao-qu.md
       - 深圳技术大学: universities/shen-zhen-ji-zhu-da-xue.md
-      - 深圳职业技术学院: universities/shen-zhen-zhi-ye-ji-zhu-xue-yuan.md
       - 清远职业技术学院: universities/qing-yuan-zhi-ye-ji-zhu-xue-yuan.md
       - 湛江科技学院: universities/zhan-jiang-ke-ji-xue-yuan.md
       - 潮汕职业技术学院: universities/chao-shan-zhi-ye-ji-zhu-xue-yuan.md
@@ -1577,6 +1576,7 @@ nav:
       - 海亮外国语学校: universities/hai-liang-wai-guo-yu-xue-xiao.md
       - 淄博职业学校: universities/zi-bo-zhi-ye-xue-xiao.md
       - 深圳技师学院: universities/shen-zhen-ji-shi-xue-yuan.md
+      - 深圳职业技术大学: universities/shen-zhen-zhi-ye-ji-zhu-da-xue.md
       - 深圳鹏城技师学院: universities/shen-zhen-peng-cheng-ji-shi-xue-yuan.md
       - 澳门大学: universities/ao-men-da-xue.md
       - 澳门理工大学: universities/ao-men-li-gong-da-xue.md
@@ -3589,7 +3589,6 @@ nav:
       - 深圳大学 (已归档): archived/universities/shen-zhen-da-xue.md
       - 深圳大学丽湖校区 (已归档): archived/universities/shen-zhen-da-xue-li-hu-xiao-qu.md
       - 深圳技术大学 (已归档): archived/universities/shen-zhen-ji-zhu-da-xue.md
-      - 深圳职业技术学院 (已归档): archived/universities/shen-zhen-zhi-ye-ji-zhu-xue-yuan.md
       - 清远职业技术学院 (已归档): archived/universities/qing-yuan-zhi-ye-ji-zhu-xue-yuan.md
       - 湛江幼儿师范专科学校 (已归档): archived/universities/zhan-jiang-you-er-shi-fan-zhuan-ke-xue-xiao.md
       - 湛江科技学院 (已归档): archived/universities/zhan-jiang-ke-ji-xue-yuan.md

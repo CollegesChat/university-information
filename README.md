@@ -2180,7 +2180,7 @@
 
 [深圳技术大学](./docs/universities/shen-zhen-ji-zhu-da-xue.md)
 
-[深圳职业技术学院](./docs/universities/shen-zhen-zhi-ye-ji-zhu-xue-yuan.md)
+[深圳职业技术大学](./docs/universities/shen-zhen-zhi-ye-ji-zhu-da-xue.md)
 
 [深圳鹏城技师学院](./docs/universities/shen-zhen-peng-cheng-ji-shi-xue-yuan.md)
 

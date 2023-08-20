@@ -3746,8 +3746,6 @@
 
 [深圳职业技术大学 (已归档)](universities/shen-zhen-zhi-ye-ji-zhu-da-xue.md)
 
-[深圳职业技术学院 (已归档)](universities/shen-zhen-zhi-ye-ji-zhu-xue-yuan.md)
-
 [清华大学 (已归档)](universities/qing-hua-da-xue.md)
 
 [清水湾 香港科技大学 (已归档)](universities/qing-shui-wan-xiang-gang-ke-ji-da-xue.md)
