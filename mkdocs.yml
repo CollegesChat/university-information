@@ -4359,8 +4359,20 @@ theme:
   logo: assets/images/favicon.webp
   favicon: assets/images/favicon.webp
   palette:
-    primary: blue
-    accent: blue
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   icon:
     repo: fontawesome/brands/github
   font:
