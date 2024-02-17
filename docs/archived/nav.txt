@@ -2546,7 +2546,7 @@
       - University of Washington华盛顿大学 (已归档): archived/universities/university-of-washingtonhua-sheng-dun-da-xue.md
       - Università degli Studi di Trento (已归档): archived/universities/universita-degli-studi-di-trento.md
       - university of liverpool (已归档): archived/universities/university-of-liverpool.md
-      - デジタルハリウッド大学 (已归档): archived/universities/dezitaruhariutudoda-xue.md
+      - デジタルハリウッド大学 (已归档): archived/universities/tesitaruhariututoda-xue.md
       - 上海中侨职业技术学校 (已归档): archived/universities/shang-hai-zhong-qiao-zhi-ye-ji-zhu-xue-xiao.md
       - 上海外国语贤达经济人文学院虹口校区 (已归档): archived/universities/shang-hai-wai-guo-yu-xian-da-jing-ji-ren-wen-xue-yuan-hong-kou-xiao-qu.md
       - 上海对外政策大学 (已归档): archived/universities/shang-hai-dui-wai-zheng-ce-da-xue.md

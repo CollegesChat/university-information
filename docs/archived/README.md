@@ -62,7 +62,7 @@
 
 [university of liverpool (已归档)](universities/university-of-liverpool.md)
 
-[デジタルハリウッド大学 (已归档)](universities/dezitaruhariutudoda-xue.md)
+[デジタルハリウッド大学 (已归档)](universities/tesitaruhariututoda-xue.md)
 
 [七台河职业学院 (已归档)](universities/qi-tai-he-zhi-ye-xue-yuan.md)
 
