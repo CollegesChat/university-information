@@ -165,7 +165,7 @@ def load_colleges():
 
 
 def load_to_universities(universities: dict, row: list):
-    # unpack row into different parts, and ignore 7 items in the end.
+    # unpack row into different parts, and ignore 9 items in the end.
     # `anonymous`: `2` means anonymous, and `1` not.
     # if `anonymous` is True, `email` is empty.
     aid, _, anonymous, email, show_email, name, *answers = row[:-9]
