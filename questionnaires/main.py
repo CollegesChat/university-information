@@ -339,7 +339,7 @@ def main():
                 load_to_universities(universities, row)
 
     process_universities(universities, colleges)
-    process_universities(universities_archived, colleges)
+    process_universities(universities_archived, colleges_archived)
 
     # ===== write results =====
     if os.path.exists(join_path('dist', '.git')):
