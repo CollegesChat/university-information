@@ -1974,6 +1974,7 @@
       - 深圳大学 (已归档): archived/universities/shen-zhen-da-xue.md
       - 深圳大学丽湖校区 (已归档): archived/universities/shen-zhen-da-xue-li-hu-xiao-qu.md
       - 深圳技术大学 (已归档): archived/universities/shen-zhen-ji-zhu-da-xue.md
+      - 深圳职业技术大学 (已归档): archived/universities/shen-zhen-zhi-ye-ji-zhu-da-xue.md
       - 清远职业技术学院 (已归档): archived/universities/qing-yuan-zhi-ye-ji-zhu-xue-yuan.md
       - 湛江幼儿师范专科学校 (已归档): archived/universities/zhan-jiang-you-er-shi-fan-zhuan-ke-xue-xiao.md
       - 湛江科技学院 (已归档): archived/universities/zhan-jiang-ke-ji-xue-yuan.md
@@ -2659,7 +2660,6 @@
       - 海南省外国语职业学院 (已归档): archived/universities/hai-nan-sheng-wai-guo-yu-zhi-ye-xue-yuan.md
       - 海洋工业大学 (已归档): archived/universities/hai-yang-gong-ye-da-xue.md
       - 海盐县商贸学校 (已归档): archived/universities/hai-yan-xian-shang-mao-xue-xiao.md
-      - 深圳职业技术大学 (已归档): archived/universities/shen-zhen-zhi-ye-ji-zhu-da-xue.md
       - 清水湾 香港科技大学 (已归档): archived/universities/qing-shui-wan-xiang-gang-ke-ji-da-xue.md
       - 渥太华大学 (已归档): archived/universities/wo-tai-hua-da-xue.md
       - 温州市第二外国语学校 (已归档): archived/universities/wen-zhou-shi-di-er-wai-guo-yu-xue-xiao.md
