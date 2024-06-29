@@ -42,7 +42,6 @@ questionnaire = [
     '现阶段学校的门禁情况如何？',
     '宿舍晚上查寝吗，封寝吗，晚归能回去吗？']
 
-
 NAME_PREPROCESS = re.compile(r'[\(\)（）【】#]')
 FILENAME_PREPROCESS = re.compile(r'[/>|:&]')
 NORMAL_NAME_MATCHER = re.compile(r'大学|学院|学校')
@@ -138,7 +137,7 @@ def join_path(*paths):
 
 
 def generate_markdown_path(name: str, in_readme: bool, archived: bool):
-    paths = [ 'universities', name ]
+    paths = ['universities', name]
     if archived and not in_readme:
         paths = ['archived'] + paths
     if in_readme and not archived:
@@ -154,14 +153,14 @@ def load_colleges():
 
         for row in csv_reader:
             province, college = row
-            colleges[NAME_PREPROCESS.sub('', college).replace(' ','')] = province
+            colleges[NAME_PREPROCESS.sub('', college).replace(' ', '')] = province
             if province not in provinces:
                 provinces[province] = []
         provinces['其他'] = []
 
     # `provinces`: an dict whose keys are provinces and values are empty
     # `colleges`: dict, college name => province
-    return provinces, colleges  
+    return provinces, colleges
 
 
 def load_to_universities(universities: dict, row: list):
@@ -215,21 +214,22 @@ def process_universities(universities: dict, colleges: dict):
             name = line.rstrip('\n')
             if name in universities:
                 del universities[name]
-                
+
     middle_school_names = []
     for name in universities:
-        if (name.endswith('中') or '中学' in name or name.endswith('高') or name.endswith('实验')) and name not in colleges:
+        if (name.endswith('中') or '中学' in name or name.endswith('高') or name.endswith(
+                '实验')) and name not in colleges:
             middle_school_names.append(name)
     for name in middle_school_names:
         print(f'[info] \033[0;36m{name}\033[0m is removed')
         del universities[name]
-    
+
     whitelist = set()
     with open('whitelist.txt', 'r', encoding='utf-8') as f:
         for line in f:
             tmp_name = line.rstrip('\n')
             whitelist.add(tmp_name)
-            
+
     for name in universities.keys():
         if NORMAL_NAME_MATCHER.search(name) is None:
             if not name in whitelist:
@@ -242,11 +242,18 @@ def write_to_markdown(universities: dict, filename_map: FilenameMap, archived: b
         if archived:
             name += ' (已归档)'
         folder_name = join_path('dist', 'docs')
+
+        # Ignored samples with excessively long names
+        if len(filename) > 150:
+            continue
+
         with open(join_path(folder_name, filename), 'w', encoding='utf-8') as f:
             # write header
             f.write(f'# {name}\n\n')
-            f.write('> [免责声明](https://colleges.chat/#_3)：本页面内容均来源于问卷收集，仅供参考，请自行确定信息准确性和真实性！\n\n')
-            f.write('> 若您发现回答中存在答非所问或胡言乱语，欢迎记录对应的问卷 ID，前往页面对应的 GitHub 页面，通过 issue 或邮件等方式提交反馈！\n\n')
+            f.write(
+                '> [免责声明](https://colleges.chat/#_3)：本页面内容均来源于问卷收集，仅供参考，请自行确定信息准确性和真实性！\n\n')
+            f.write(
+                '> 若您发现回答中存在答非所问或胡言乱语，欢迎记录对应的问卷 ID，前往页面对应的 GitHub 页面，通过 issue 或邮件等方式提交反馈！\n\n')
             output_credits = '> 数据来源：\n\n<details><summary>点击展开</summary>\n<ul>\n'
             for credit in university.credits:
                 output_credits += f'<li>A{credit.answer_id}: {credit.content}</li>\n'
@@ -261,16 +268,17 @@ def write_to_markdown(universities: dict, filename_map: FilenameMap, archived: b
 
             # write additional answers
             additional_answers = [markdown_escape(answer.__str__()).replace('\n', '\n\n')
-                                   for answer in university.additional_answers if len(answer.content) > 0]
+                                  for answer in university.additional_answers if len(answer.content) > 0]
             if len(additional_answers) > 0:
                 f.write('## 自由补充部分\n\n')
                 f.write('\n\n***\n\n'.join(additional_answers))
 
 
-def write_to_readme(universities: dict, filename_map: FilenameMap, readme_file_name: str, readme_template_name: str, nav_file_name: str, provinces: dict, colleges: dict, archived=False):  
-    with open(readme_file_name, 'w', encoding='utf-8') as readme_file,\
-         open(readme_template_name, 'r', encoding='utf-8') as template_file,\
-         open(nav_file_name, 'w', encoding='utf-8') as nav_file:
+def write_to_readme(universities: dict, filename_map: FilenameMap, readme_file_name: str, readme_template_name: str,
+                    nav_file_name: str, provinces: dict, colleges: dict, archived=False):
+    with open(readme_file_name, 'w', encoding='utf-8') as readme_file, \
+            open(readme_template_name, 'r', encoding='utf-8') as template_file, \
+            open(nav_file_name, 'w', encoding='utf-8') as nav_file:
 
         # first, copy template
         template = template_file.read()
@@ -284,7 +292,9 @@ def write_to_readme(universities: dict, filename_map: FilenameMap, readme_file_n
         university_names = list(universities.keys())
         university_names.sort()
         # here `in_readme` should be opposite from `archived` to avoid generating redundant 'docs' for archived
-        university_links = [ '[{}]({})'.format(name + suffix, generate_markdown_path(filename_map[name], not archived, False)) for name in university_names ]
+        university_links = [
+            '[{}]({})'.format(name + suffix, generate_markdown_path(filename_map[name], not archived, False)) for name
+            in university_names]
         readme_file.write('\n\n'.join(university_links))
 
         sorted_colleges_keys = sorted(colleges.keys())
@@ -305,19 +315,22 @@ def write_to_readme(universities: dict, filename_map: FilenameMap, readme_file_n
             for history in f:
                 name, *originals = history.rstrip('\n').split('⬅')
                 for original in originals:
-                    readme_file.write('{} → [{}]({})\n\n'.format(original, name, generate_markdown_path(filename_map[name], True, archived)))
+                    readme_file.write('{} → [{}]({})\n\n'.format(original, name,
+                                                                 generate_markdown_path(filename_map[name], True,
+                                                                                        archived)))
 
         for province, college in provinces.items():
             nav_file.write(f'    - {province}:\n')
             college.sort()
             for name in college:
-                nav_file.write('      - {}: {}\n'.format(name + suffix, generate_markdown_path(filename_map[name], False, archived)))
+                nav_file.write('      - {}: {}\n'.format(name + suffix,
+                                                         generate_markdown_path(filename_map[name], False, archived)))
 
 
 def main():
     provinces, colleges = load_colleges()
     provinces_archived, colleges_archived = load_colleges()
-    
+
     archive_date = datetime.strptime(archive_time, '%Y-%m-%d %H:%M:%S')
 
     # ===== read from csv =====
@@ -355,16 +368,23 @@ def main():
     write_to_markdown(universities_archived, filename_map_archived, True)
 
     # write README.md and nav file
-    write_to_readme(universities, filename_map, join_path('dist', 'README.md'), 'README_template.md', join_path('dist', 'nav.txt'), provinces, colleges)
-    write_to_readme(universities_archived, filename_map_archived, join_path('dist', 'docs', 'archived', 'README.md'), 'README_archived_template.md', join_path('dist', 'docs', 'archived', 'nav.txt'), provinces_archived, colleges_archived, archived=True)
+    write_to_readme(universities, filename_map, join_path('dist', 'README.md'), 'README_template.md',
+                    join_path('dist', 'nav.txt'), provinces, colleges)
+    write_to_readme(universities_archived, filename_map_archived, join_path('dist', 'docs', 'archived', 'README.md'),
+                    'README_archived_template.md', join_path('dist', 'docs', 'archived', 'nav.txt'), provinces_archived,
+                    colleges_archived, archived=True)
 
     # TODO: add archive to mkdocs
-    with open(join_path('dist', 'nav.txt'), 'r', encoding='utf-8') as nav_f,\
-         open(join_path('dist', 'docs', 'archived', 'nav.txt'), 'r', encoding='utf-8') as nav_archived_f,\
-         open('mkdocs_template.yml', 'r', encoding='utf-8') as mkdocs_template_f,\
-         open(join_path('dist', 'mkdocs.yml'), 'w', encoding='utf-8') as mkdocs_f:
-        
-        mkdocs_f.write(mkdocs_template_f.read().replace('[universities_nav]',nav_f.read()).replace('[universities_nav_archived]',nav_archived_f.read()).replace('[current_time]',time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+    with open(join_path('dist', 'nav.txt'), 'r', encoding='utf-8') as nav_f, \
+            open(join_path('dist', 'docs', 'archived', 'nav.txt'), 'r', encoding='utf-8') as nav_archived_f, \
+            open('mkdocs_template.yml', 'r', encoding='utf-8') as mkdocs_template_f, \
+            open(join_path('dist', 'mkdocs.yml'), 'w', encoding='utf-8') as mkdocs_f:
+
+        mkdocs_f.write(
+            mkdocs_template_f.read().replace('[universities_nav]', nav_f.read()).replace('[universities_nav_archived]',
+                                                                                         nav_archived_f.read()).replace(
+                '[current_time]', time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+
 
 if __name__ == '__main__':
     main()
