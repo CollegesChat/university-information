@@ -23,11 +23,11 @@
       - 中央民族大学丰台校区 (已归档): archived/universities/zhong-yang-min-zu-da-xue-feng-tai-xiao-qu.md
       - 中央民族大学新校区 (已归档): archived/universities/zhong-yang-min-zu-da-xue-xin-xiao-qu.md
       - 中央民族大学海淀校区 (已归档): archived/universities/zhong-yang-min-zu-da-xue-hai-dian-xiao-qu.md
-      - 中央美术学院 (已归档): archived/universities/zhong-yang-mei-zhu-xue-yuan.md
-      - 中央美术学院上海校区 (已归档): archived/universities/zhong-yang-mei-zhu-xue-yuan-shang-hai-xiao-qu.md
-      - 中央美术学院中法艺术与设计管理学院 (已归档): archived/universities/zhong-yang-mei-zhu-xue-yuan-zhong-fa-yi-zhu-yu-she-ji-guan-li-xue-yuan.md
-      - 中央美术学院望京校区 (已归档): archived/universities/zhong-yang-mei-zhu-xue-yuan-wang-jing-xiao-qu.md
-      - 中央美术学院燕郊校区 (已归档): archived/universities/zhong-yang-mei-zhu-xue-yuan-yan-jiao-xiao-qu.md
+      - 中央美术学院 (已归档): archived/universities/zhong-yang-mei-shu-xue-yuan.md
+      - 中央美术学院上海校区 (已归档): archived/universities/zhong-yang-mei-shu-xue-yuan-shang-hai-xiao-qu.md
+      - 中央美术学院中法艺术与设计管理学院 (已归档): archived/universities/zhong-yang-mei-shu-xue-yuan-zhong-fa-yi-zhu-yu-she-ji-guan-li-xue-yuan.md
+      - 中央美术学院望京校区 (已归档): archived/universities/zhong-yang-mei-shu-xue-yuan-wang-jing-xiao-qu.md
+      - 中央美术学院燕郊校区 (已归档): archived/universities/zhong-yang-mei-shu-xue-yuan-yan-jiao-xiao-qu.md
       - 中央财经大学 (已归档): archived/universities/zhong-yang-cai-jing-da-xue.md
       - 中央财经大学沙河校区 (已归档): archived/universities/zhong-yang-cai-jing-da-xue-sha-he-xiao-qu.md
       - 北京中医药大学 (已归档): archived/universities/bei-jing-zhong-yi-yao-da-xue.md
@@ -159,9 +159,9 @@
       - 天津电子信息职业技术学院 (已归档): archived/universities/tian-jin-dian-zi-xin-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 天津科技大学 (已归档): archived/universities/tian-jin-ke-ji-da-xue.md
       - 天津科技大学滨海校区中院 (已归档): archived/universities/tian-jin-ke-ji-da-xue-bin-hai-xiao-qu-zhong-yuan.md
-      - 天津美术学院 (已归档): archived/universities/tian-jin-mei-zhu-xue-yuan.md
-      - 天津美术学院北校区 (已归档): archived/universities/tian-jin-mei-zhu-xue-yuan-bei-xiao-qu.md
-      - 天津美术学院志成路校区 (已归档): archived/universities/tian-jin-mei-zhu-xue-yuan-zhi-cheng-lu-xiao-qu.md
+      - 天津美术学院 (已归档): archived/universities/tian-jin-mei-shu-xue-yuan.md
+      - 天津美术学院北校区 (已归档): archived/universities/tian-jin-mei-shu-xue-yuan-bei-xiao-qu.md
+      - 天津美术学院志成路校区 (已归档): archived/universities/tian-jin-mei-shu-xue-yuan-zhi-cheng-lu-xiao-qu.md
       - 天津职业技术师范大学 (已归档): archived/universities/tian-jin-zhi-ye-ji-zhu-shi-fan-da-xue.md
       - 天津艺术职业学院 (已归档): archived/universities/tian-jin-yi-zhu-zhi-ye-xue-yuan.md
       - 天津财经大学 (已归档): archived/universities/tian-jin-cai-jing-da-xue.md
@@ -240,7 +240,7 @@
       - 河北科技师范学院 (已归档): archived/universities/he-bei-ke-ji-shi-fan-xue-yuan.md
       - 河北经贸大学 (已归档): archived/universities/he-bei-jing-mao-da-xue.md
       - 河北经贸大学经济管理学院 (已归档): archived/universities/he-bei-jing-mao-da-xue-jing-ji-guan-li-xue-yuan.md
-      - 河北美术学院 (已归档): archived/universities/he-bei-mei-zhu-xue-yuan.md
+      - 河北美术学院 (已归档): archived/universities/he-bei-mei-shu-xue-yuan.md
       - 河北能源职业技术学院 (已归档): archived/universities/he-bei-neng-yuan-zhi-ye-ji-zhu-xue-yuan.md
       - 河北艺术职业学院 (已归档): archived/universities/he-bei-yi-zhu-zhi-ye-xue-yuan.md
       - 河北软件职业技术学院 (已归档): archived/universities/he-bei-ruan-jian-zhi-ye-ji-zhu-xue-yuan.md
@@ -451,9 +451,9 @@
       - 锦州师范高等专科学校 (已归档): archived/universities/jin-zhou-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 鞍山师范学院 (已归档): archived/universities/an-shan-shi-fan-xue-yuan.md
       - 鞍山职业技术学院 (已归档): archived/universities/an-shan-zhi-ye-ji-zhu-xue-yuan.md
-      - 鲁迅美术学院 (已归档): archived/universities/lu-xun-mei-zhu-xue-yuan.md
-      - 鲁迅美术学院大连校区 (已归档): archived/universities/lu-xun-mei-zhu-xue-yuan-da-lian-xiao-qu.md
-      - 鲁迅美术学院沈阳校区 (已归档): archived/universities/lu-xun-mei-zhu-xue-yuan-chen-yang-xiao-qu.md
+      - 鲁迅美术学院 (已归档): archived/universities/lu-xun-mei-shu-xue-yuan.md
+      - 鲁迅美术学院大连校区 (已归档): archived/universities/lu-xun-mei-shu-xue-yuan-da-lian-xiao-qu.md
+      - 鲁迅美术学院沈阳校区 (已归档): archived/universities/lu-xun-mei-shu-xue-yuan-chen-yang-xiao-qu.md
     - 吉林:
       - 东北师范大学 (已归档): archived/universities/dong-bei-shi-fan-da-xue.md
       - 东北师范大学净月校区 (已归档): archived/universities/dong-bei-shi-fan-da-xue-jing-yue-xiao-qu.md
@@ -607,7 +607,7 @@
       - 上海工商外国语职业学院 (已归档): archived/universities/shang-hai-gong-shang-wai-guo-yu-zhi-ye-xue-yuan.md
       - 上海工商职业技术学院 (已归档): archived/universities/shang-hai-gong-shang-zhi-ye-ji-zhu-xue-yuan.md
       - 上海工程技术大学 (已归档): archived/universities/shang-hai-gong-cheng-ji-zhu-da-xue.md
-      - 上海工艺美术职业学院 (已归档): archived/universities/shang-hai-gong-yi-mei-zhu-zhi-ye-xue-yuan.md
+      - 上海工艺美术职业学院 (已归档): archived/universities/shang-hai-gong-yi-mei-shu-zhi-ye-xue-yuan.md
       - 上海师范大学 (已归档): archived/universities/shang-hai-shi-fan-da-xue.md
       - 上海师范大学附属天华学院 (已归档): archived/universities/shang-hai-shi-fan-da-xue-fu-shu-tian-hua-xue-yuan.md
       - 上海应用技术大学 (已归档): archived/universities/shang-hai-ying-yong-ji-zhu-da-xue.md
@@ -809,7 +809,7 @@
       - 苏州大学独墅湖校区 (已归档): archived/universities/su-zhou-da-xue-du-shu-hu-xiao-qu.md
       - 苏州工业园区服务外包职业学院 (已归档): archived/universities/su-zhou-gong-ye-yuan-qu-fu-wu-wai-bao-zhi-ye-xue-yuan.md
       - 苏州工业职业技术学院 (已归档): archived/universities/su-zhou-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
-      - 苏州工艺美术职业技术学院 (已归档): archived/universities/su-zhou-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md
+      - 苏州工艺美术职业技术学院 (已归档): archived/universities/su-zhou-gong-yi-mei-shu-zhi-ye-ji-zhu-xue-yuan.md
       - 苏州幼儿师范高等专科学校 (已归档): archived/universities/su-zhou-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 苏州托普信息职业技术学院 (已归档): archived/universities/su-zhou-tuo-pu-xin-xi-zhi-ye-ji-zhu-xue-yuan.md
       - 苏州百年职业学院 (已归档): archived/universities/su-zhou-bai-nian-zhi-ye-xue-yuan.md
@@ -826,10 +826,10 @@
       - 钟山职业技术学院 (已归档): archived/universities/zhong-shan-zhi-ye-ji-zhu-xue-yuan.md
     - 浙江:
       - 上海财经大学浙江学院 (已归档): archived/universities/shang-hai-cai-jing-da-xue-zhe-jiang-xue-yuan.md
-      - 中国美术学院 (已归档): archived/universities/zhong-guo-mei-zhu-xue-yuan.md
-      - 中国美术学院梦圆教学区 (已归档): archived/universities/zhong-guo-mei-zhu-xue-yuan-meng-yuan-jiao-xue-qu.md
-      - 中国美术学院良渚校区 (已归档): archived/universities/zhong-guo-mei-zhu-xue-yuan-liang-zhu-xiao-qu.md
-      - 中国美术学院象山校区 (已归档): archived/universities/zhong-guo-mei-zhu-xue-yuan-xiang-shan-xiao-qu.md
+      - 中国美术学院 (已归档): archived/universities/zhong-guo-mei-shu-xue-yuan.md
+      - 中国美术学院梦圆教学区 (已归档): archived/universities/zhong-guo-mei-shu-xue-yuan-meng-yuan-jiao-xue-qu.md
+      - 中国美术学院良渚校区 (已归档): archived/universities/zhong-guo-mei-shu-xue-yuan-liang-zhu-xiao-qu.md
+      - 中国美术学院象山校区 (已归档): archived/universities/zhong-guo-mei-shu-xue-yuan-xiang-shan-xiao-qu.md
       - 中国计量大学 (已归档): archived/universities/zhong-guo-ji-liang-da-xue.md
       - 丽水学院 (已归档): archived/universities/li-shui-xue-yuan.md
       - 丽水职业技术学院 (已归档): archived/universities/li-shui-zhi-ye-ji-zhu-xue-yuan.md
@@ -1075,7 +1075,7 @@
       - 漳州职业技术学院 (已归档): archived/universities/zhang-zhou-zhi-ye-ji-zhu-xue-yuan.md
       - 福州外语外贸学院 (已归档): archived/universities/fu-zhou-wai-yu-wai-mao-xue-yuan.md
       - 福州大学 (已归档): archived/universities/fu-zhou-da-xue.md
-      - 福州大学厦门工艺美术学院 (已归档): archived/universities/fu-zhou-da-xue-sha-men-gong-yi-mei-zhu-xue-yuan.md
+      - 福州大学厦门工艺美术学院 (已归档): archived/universities/fu-zhou-da-xue-sha-men-gong-yi-mei-shu-xue-yuan.md
       - 福州大学旗山校区 (已归档): archived/universities/fu-zhou-da-xue-qi-shan-xiao-qu.md
       - 福州大学晋江校区 (已归档): archived/universities/fu-zhou-da-xue-jin-jiang-xiao-qu.md
       - 福州大学至诚学院 (已归档): archived/universities/fu-zhou-da-xue-zhi-cheng-xue-yuan.md
@@ -1212,7 +1212,7 @@
       - 江西财经大学麦庐校区、蛟桥校区都住过 (已归档): archived/universities/jiang-xi-cai-jing-da-xue-mai-lu-xiao-qu-jiao-qiao-xiao-qu-du-zhu-guo.md
       - 江西财经职业学院 (已归档): archived/universities/jiang-xi-cai-jing-zhi-ye-xue-yuan.md
       - 江西软件职业技术大学 (已归档): archived/universities/jiang-xi-ruan-jian-zhi-ye-ji-zhu-da-xue.md
-      - 江西陶瓷工艺美术职业技术学院 (已归档): archived/universities/jiang-xi-tao-ci-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md
+      - 江西陶瓷工艺美术职业技术学院 (已归档): archived/universities/jiang-xi-tao-ci-gong-yi-mei-shu-zhi-ye-ji-zhu-xue-yuan.md
       - 萍乡学院 (已归档): archived/universities/ping-xiang-xue-yuan.md
       - 豫章师范学院 (已归档): archived/universities/yu-zhang-shi-fan-xue-yuan.md
       - 赣东学院 (已归档): archived/universities/gan-dong-xue-yuan.md
@@ -1279,7 +1279,7 @@
       - 山东工业职业学院 (已归档): archived/universities/shan-dong-gong-ye-zhi-ye-xue-yuan.md
       - 山东工商学院 (已归档): archived/universities/shan-dong-gong-shang-xue-yuan.md
       - 山东工程职业技术大学 (已归档): archived/universities/shan-dong-gong-cheng-zhi-ye-ji-zhu-da-xue.md
-      - 山东工艺美术学院 (已归档): archived/universities/shan-dong-gong-yi-mei-zhu-xue-yuan.md
+      - 山东工艺美术学院 (已归档): archived/universities/shan-dong-gong-yi-mei-shu-xue-yuan.md
       - 山东师范大学 (已归档): archived/universities/shan-dong-shi-fan-da-xue.md
       - 山东师范大学千佛山校区 (已归档): archived/universities/shan-dong-shi-fan-da-xue-qian-fo-shan-xiao-qu.md
       - 山东师范大学长清校区 (已归档): archived/universities/shan-dong-shi-fan-da-xue-chang-qing-xiao-qu.md
@@ -1531,7 +1531,7 @@
       - 郑州财经学院 (已归档): archived/universities/zheng-zhou-cai-jing-xue-yuan.md
       - 郑州轻工业大学 (已归档): archived/universities/zheng-zhou-qing-gong-ye-da-xue.md
       - 郑州轻工业大学东风校区 (已归档): archived/universities/zheng-zhou-qing-gong-ye-da-xue-dong-feng-xiao-qu.md
-      - 郑州轻工业大学易斯顿美术学院 (已归档): archived/universities/zheng-zhou-qing-gong-ye-da-xue-yi-si-dun-mei-zhu-xue-yuan.md
+      - 郑州轻工业大学易斯顿美术学院 (已归档): archived/universities/zheng-zhou-qing-gong-ye-da-xue-yi-si-dun-mei-shu-xue-yuan.md
       - 郑州铁路职业技术学院 (已归档): archived/universities/zheng-zhou-tie-lu-zhi-ye-ji-zhu-xue-yuan.md
       - 铁道警察学院 (已归档): archived/universities/tie-dao-jing-cha-xue-yuan.md
       - 长垣烹饪职业技术学院 (已归档): archived/universities/chang-yuan-peng-ren-zhi-ye-ji-zhu-xue-yuan.md
@@ -1653,7 +1653,7 @@
       - 湖北第二师范学院 (已归档): archived/universities/hu-bei-di-er-shi-fan-xue-yuan.md
       - 湖北经济学院 (已归档): archived/universities/hu-bei-jing-ji-xue-yuan.md
       - 湖北经济学院法商学院 (已归档): archived/universities/hu-bei-jing-ji-xue-yuan-fa-shang-xue-yuan.md
-      - 湖北美术学院 (已归档): archived/universities/hu-bei-mei-zhu-xue-yuan.md
+      - 湖北美术学院 (已归档): archived/universities/hu-bei-mei-shu-xue-yuan.md
       - 湖北艺术职业学院 (已归档): archived/universities/hu-bei-yi-zhu-zhi-ye-xue-yuan.md
       - 湖北警官学院 (已归档): archived/universities/hu-bei-jing-guan-xue-yuan.md
       - 湖北财税职业学院 (已归档): archived/universities/hu-bei-cai-shui-zhi-ye-xue-yuan.md
@@ -1728,8 +1728,8 @@
       - 湖南工学院 (已归档): archived/universities/hu-nan-gong-xue-yuan.md
       - 湖南工程学院 (已归档): archived/universities/hu-nan-gong-cheng-xue-yuan.md
       - 湖南工程职业技术学院 (已归档): archived/universities/hu-nan-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
-      - 湖南工艺美术职业学院 (已归档): archived/universities/hu-nan-gong-yi-mei-zhu-zhi-ye-xue-yuan.md
-      - 湖南工艺美术职业学院长沙基地 (已归档): archived/universities/hu-nan-gong-yi-mei-zhu-zhi-ye-xue-yuan-chang-sha-ji-di.md
+      - 湖南工艺美术职业学院 (已归档): archived/universities/hu-nan-gong-yi-mei-shu-zhi-ye-xue-yuan.md
+      - 湖南工艺美术职业学院长沙基地 (已归档): archived/universities/hu-nan-gong-yi-mei-shu-zhi-ye-xue-yuan-chang-sha-ji-di.md
       - 湖南师范大学 (已归档): archived/universities/hu-nan-shi-fan-da-xue.md
       - 湖南幼儿师范高等专科学校 (已归档): archived/universities/hu-nan-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 湖南应用技术学院 (已归档): archived/universities/hu-nan-ying-yong-ji-zhu-xue-yuan.md
@@ -1948,7 +1948,7 @@
       - 广州番禺职业技术学院 (已归档): archived/universities/yan-zhou-fan-yu-zhi-ye-ji-zhu-xue-yuan.md
       - 广州科技职业技术大学 (已归档): archived/universities/yan-zhou-ke-ji-zhi-ye-ji-zhu-da-xue.md
       - 广州科技贸易职业学院 (已归档): archived/universities/yan-zhou-ke-ji-mao-yi-zhi-ye-xue-yuan.md
-      - 广州美术学院 (已归档): archived/universities/yan-zhou-mei-zhu-xue-yuan.md
+      - 广州美术学院 (已归档): archived/universities/yan-zhou-mei-shu-xue-yuan.md
       - 广州航海学院 (已归档): archived/universities/yan-zhou-hang-hai-xue-yuan.md
       - 广州软件学院 (已归档): archived/universities/yan-zhou-ruan-jian-xue-yuan.md
       - 广州铁路职业技术学院 (已归档): archived/universities/yan-zhou-tie-lu-zhi-ye-ji-zhu-xue-yuan.md
@@ -2095,8 +2095,8 @@
       - 琼台师范学院 (已归档): archived/universities/qiong-tai-shi-fan-xue-yuan.md
     - 重庆:
       - 四川外国语大学 (已归档): archived/universities/si-chuan-wai-guo-yu-da-xue.md
-      - 四川美术学院 (已归档): archived/universities/si-chuan-mei-zhu-xue-yuan.md
-      - 四川美术学院虎溪校区 (已归档): archived/universities/si-chuan-mei-zhu-xue-yuan-hu-xi-xiao-qu.md
+      - 四川美术学院 (已归档): archived/universities/si-chuan-mei-shu-xue-yuan.md
+      - 四川美术学院虎溪校区 (已归档): archived/universities/si-chuan-mei-shu-xue-yuan-hu-xi-xiao-qu.md
       - 西南大学 (已归档): archived/universities/xi-nan-da-xue.md
       - 西南大学北碚校区 (已归档): archived/universities/xi-nan-da-xue-bei-pei-xiao-qu.md
       - 西南大学荣昌校区 (已归档): archived/universities/xi-nan-da-xue-rong-chang-xiao-qu.md
@@ -2418,8 +2418,8 @@
       - 西安石油大学鄠邑校区 (已归档): archived/universities/xi-an-shi-you-da-xue-hu-yi-xiao-qu.md
       - 西安科技大学 (已归档): archived/universities/xi-an-ke-ji-da-xue.md
       - 西安科技大学高新学院 (已归档): archived/universities/xi-an-ke-ji-da-xue-gao-xin-xue-yuan.md
-      - 西安美术学院 (已归档): archived/universities/xi-an-mei-zhu-xue-yuan.md
-      - 西安美术学院雁塔校区 (已归档): archived/universities/xi-an-mei-zhu-xue-yuan-yan-ta-xiao-qu.md
+      - 西安美术学院 (已归档): archived/universities/xi-an-mei-shu-xue-yuan.md
+      - 西安美术学院雁塔校区 (已归档): archived/universities/xi-an-mei-shu-xue-yuan-yan-ta-xiao-qu.md
       - 西安翻译学院 (已归档): archived/universities/xi-an-fan-yi-xue-yuan.md
       - 西安职业技术学院 (已归档): archived/universities/xi-an-zhi-ye-ji-zhu-xue-yuan.md
       - 西安航空学院 (已归档): archived/universities/xi-an-hang-kong-xue-yuan.md
@@ -2561,7 +2561,7 @@
       - 东国大学 (已归档): archived/universities/dong-guo-da-xue.md
       - 中原大学 (已归档): archived/universities/zhong-yuan-da-xue.md
       - 中国地质大学 (已归档): archived/universities/zhong-guo-di-zhi-da-xue.md
-      - 中国美术学校 (已归档): archived/universities/zhong-guo-mei-zhu-xue-xiao.md
+      - 中国美术学校 (已归档): archived/universities/zhong-guo-mei-shu-xue-xiao.md
       - 中山市中等专业学校 (已归档): archived/universities/zhong-shan-shi-zhong-deng-zhuan-ye-xue-xiao.md
       - 九州大学 (已归档): archived/universities/jiu-zhou-da-xue.md
       - 云南省高等学校少数民族预科教育基地 (已归档): archived/universities/yun-nan-sheng-gao-deng-xue-xiao-shao-shu-min-zu-yu-ke-jiao-yu-ji-di.md

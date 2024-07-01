@@ -274,7 +274,7 @@
 
 [中国科学院大学](./docs/universities/zhong-guo-ke-xue-yuan-da-xue.md)
 
-[中国美术学院](./docs/universities/zhong-guo-mei-zhu-xue-yuan.md)
+[中国美术学院](./docs/universities/zhong-guo-mei-shu-xue-yuan.md)
 
 [中国药科大学](./docs/universities/zhong-guo-yao-ke-da-xue.md)
 
@@ -1156,7 +1156,7 @@
 
 [四川科技职业学院](./docs/universities/si-chuan-ke-ji-zhi-ye-xue-yuan.md)
 
-[四川美术学院](./docs/universities/si-chuan-mei-zhu-xue-yuan.md)
+[四川美术学院](./docs/universities/si-chuan-mei-shu-xue-yuan.md)
 
 [四川职业技术学院](./docs/universities/si-chuan-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -1302,7 +1302,7 @@
 
 [天津科技大学泰达校区：就是滨海校区](./docs/universities/tian-jin-ke-ji-da-xue-tai-da-xiao-qu-jiu-shi-bin-hai-xiao-qu.md)
 
-[天津美术学院北院](./docs/universities/tian-jin-mei-zhu-xue-yuan-bei-yuan.md)
+[天津美术学院北院](./docs/universities/tian-jin-mei-shu-xue-yuan-bei-yuan.md)
 
 [天津职业技术师范大学](./docs/universities/tian-jin-zhi-ye-ji-zhu-shi-fan-da-xue.md)
 
@@ -1560,9 +1560,9 @@
 
 [山东工程职业技术大学](./docs/universities/shan-dong-gong-cheng-zhi-ye-ji-zhu-da-xue.md)
 
-[山东工艺美术学院](./docs/universities/shan-dong-gong-yi-mei-zhu-xue-yuan.md)
+[山东工艺美术学院](./docs/universities/shan-dong-gong-yi-mei-shu-xue-yuan.md)
 
-[山东工艺美术学院长清校区](./docs/universities/shan-dong-gong-yi-mei-zhu-xue-yuan-chang-qing-xiao-qu.md)
+[山东工艺美术学院长清校区](./docs/universities/shan-dong-gong-yi-mei-shu-xue-yuan-chang-qing-xiao-qu.md)
 
 [山东师范大学](./docs/universities/shan-dong-shi-fan-da-xue.md)
 
@@ -1904,7 +1904,7 @@
 
 [广州科技职业技术大学](./docs/universities/yan-zhou-ke-ji-zhi-ye-ji-zhu-da-xue.md)
 
-[广州美术学院](./docs/universities/yan-zhou-mei-zhu-xue-yuan.md)
+[广州美术学院](./docs/universities/yan-zhou-mei-shu-xue-yuan.md)
 
 [广州航海学院](./docs/universities/yan-zhou-hang-hai-xue-yuan.md)
 
@@ -2528,7 +2528,7 @@
 
 [江西软件职业技术大学](./docs/universities/jiang-xi-ruan-jian-zhi-ye-ji-zhu-da-xue.md)
 
-[江西陶瓷工艺美术职业技术学院](./docs/universities/jiang-xi-tao-ci-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md)
+[江西陶瓷工艺美术职业技术学院](./docs/universities/jiang-xi-tao-ci-gong-yi-mei-shu-zhi-ye-ji-zhu-xue-yuan.md)
 
 [江门职业技术学院](./docs/universities/jiang-men-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -2626,7 +2626,7 @@
 
 [河北工程技术学院](./docs/universities/he-bei-gong-cheng-ji-zhu-xue-yuan.md)
 
-[河北工艺美术职业学院](./docs/universities/he-bei-gong-yi-mei-zhu-zhi-ye-xue-yuan.md)
+[河北工艺美术职业学院](./docs/universities/he-bei-gong-yi-mei-shu-zhi-ye-xue-yuan.md)
 
 [河北师范大学](./docs/universities/he-bei-shi-fan-da-xue.md)
 
@@ -2666,7 +2666,7 @@
 
 [河北经贸大学经济管理学院](./docs/universities/he-bei-jing-mao-da-xue-jing-ji-guan-li-xue-yuan.md)
 
-[河北美术学院](./docs/universities/he-bei-mei-zhu-xue-yuan.md)
+[河北美术学院](./docs/universities/he-bei-mei-shu-xue-yuan.md)
 
 [河北资源环境职业技术学院](./docs/universities/he-bei-zi-yuan-huan-jing-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -3114,7 +3114,7 @@
 
 [湖北经济学院法商学院](./docs/universities/hu-bei-jing-ji-xue-yuan-fa-shang-xue-yuan.md)
 
-[湖北美术学院](./docs/universities/hu-bei-mei-zhu-xue-yuan.md)
+[湖北美术学院](./docs/universities/hu-bei-mei-shu-xue-yuan.md)
 
 [湖北轻工职业技术学院](./docs/universities/hu-bei-qing-gong-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -3170,7 +3170,7 @@
 
 [湖南工程职业技术学院](./docs/universities/hu-nan-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md)
 
-[湖南工艺美术职业学院](./docs/universities/hu-nan-gong-yi-mei-zhu-zhi-ye-xue-yuan.md)
+[湖南工艺美术职业学院](./docs/universities/hu-nan-gong-yi-mei-shu-zhi-ye-xue-yuan.md)
 
 [湖南师范大学](./docs/universities/hu-nan-shi-fan-da-xue.md)
 
@@ -3420,7 +3420,7 @@
 
 [福州大学](./docs/universities/fu-zhou-da-xue.md)
 
-[福州大学厦门工艺美术学院](./docs/universities/fu-zhou-da-xue-sha-men-gong-yi-mei-zhu-xue-yuan.md)
+[福州大学厦门工艺美术学院](./docs/universities/fu-zhou-da-xue-sha-men-gong-yi-mei-shu-xue-yuan.md)
 
 [福州大学晋江校区](./docs/universities/fu-zhou-da-xue-jin-jiang-xiao-qu.md)
 
@@ -3556,7 +3556,7 @@
 
 [苏州工业职业技术学院](./docs/universities/su-zhou-gong-ye-zhi-ye-ji-zhu-xue-yuan.md)
 
-[苏州工艺美术职业技术学院](./docs/universities/su-zhou-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md)
+[苏州工艺美术职业技术学院](./docs/universities/su-zhou-gong-yi-mei-shu-zhi-ye-ji-zhu-xue-yuan.md)
 
 [苏州市职业大学](./docs/universities/su-zhou-shi-zhi-ye-da-xue.md)
 
@@ -3722,7 +3722,7 @@
 
 [西安科技大学高新学院](./docs/universities/xi-an-ke-ji-da-xue-gao-xin-xue-yuan.md)
 
-[西安美术学院](./docs/universities/xi-an-mei-zhu-xue-yuan.md)
+[西安美术学院](./docs/universities/xi-an-mei-shu-xue-yuan.md)
 
 [西安翻译学院](./docs/universities/xi-an-fan-yi-xue-yuan.md)
 
@@ -4322,7 +4322,7 @@
 
 [鲁东大学](./docs/universities/lu-dong-da-xue.md)
 
-[鲁迅美术学院大连校区](./docs/universities/lu-xun-mei-zhu-xue-yuan-da-lian-xiao-qu.md)
+[鲁迅美术学院大连校区](./docs/universities/lu-xun-mei-shu-xue-yuan-da-lian-xiao-qu.md)
 
 [鹤壁工程技术学院](./docs/universities/he-bi-gong-cheng-ji-zhu-xue-yuan.md)
 
@@ -4350,7 +4350,7 @@
 
 [黑河学院](./docs/universities/hei-he-xue-yuan.md)
 
-[黑龙江三江美术职业学院](./docs/universities/hei-long-jiang-san-jiang-mei-zhu-zhi-ye-xue-yuan.md)
+[黑龙江三江美术职业学院](./docs/universities/hei-long-jiang-san-jiang-mei-shu-zhi-ye-xue-yuan.md)
 
 [黑龙江东方学院](./docs/universities/hei-long-jiang-dong-fang-xue-yuan.md)
 
