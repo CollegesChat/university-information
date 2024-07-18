@@ -38,6 +38,7 @@ theme:
     code: Roboto Mono
   features:
     - instant
+  custom_dir: overrides
 
 extra:
   social:
@@ -59,7 +60,10 @@ markdown_extensions:
 
 plugins:
   - search:
-      lang: ja
-      indexing: titles
+      lang: 
+        - ja
+        - en
+      indexing: 'titles'
       min_search_length: 2
+      separator: '[\s\-\.]+'
   - awesome-pages
