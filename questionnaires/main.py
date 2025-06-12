@@ -242,6 +242,11 @@ def write_to_markdown(universities: dict, filename_map: FilenameMap, archived: b
         if archived:
             name += ' (已归档)'
         folder_name = join_path('dist', 'docs')
+
+        # Ignored samples with excessively long names
+        if len(filename) > 150:
+            continue
+
         with open(join_path(folder_name, filename), 'w', encoding='utf-8') as f:
             # write header
             f.write(f'# {name}\n\n')
