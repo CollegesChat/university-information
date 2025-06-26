@@ -214,8 +214,6 @@
 
 [东北大学秦皇岛分校](./docs/universities/dong-bei-da-xue-qin-huang-dao-fen-xiao.md)
 
-[东北师范](./docs/universities/dong-bei-shi-fan.md)
-
 [东北师范大学](./docs/universities/dong-bei-shi-fan-da-xue.md)
 
 [东北师范大学净月校区](./docs/universities/dong-bei-shi-fan-da-xue-jing-yue-xiao-qu.md)
@@ -509,8 +507,6 @@
 [佛山大学仙溪校区](./docs/universities/fo-shan-da-xue-xian-xi-xiao-qu.md)
 
 [佛山大学江湾校区](./docs/universities/fo-shan-da-xue-jiang-wan-xiao-qu.md)
-
-[佛山科学技术学院](./docs/universities/fo-shan-ke-xue-ji-zhu-xue-yuan.md)
 
 [佛山职业技术学院](./docs/universities/fo-shan-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -2226,8 +2222,6 @@
 
 [常德职业技术学院](./docs/universities/chang-de-zhi-ye-ji-zhu-xue-yuan.md)
 
-[常熟理工学院](./docs/universities/chang-shou-li-gong-xue-yuan.md)
-
 [平顶山学院](./docs/universities/ping-ding-shan-xue-yuan.md)
 
 [平顶山学院崇文校区](./docs/universities/ping-ding-shan-xue-yuan-chong-wen-xiao-qu.md)
@@ -3055,8 +3049,6 @@
 [武汉外语外事职业学院](./docs/universities/wu-yi-wai-yu-wai-shi-zhi-ye-xue-yuan.md)
 
 [武汉大学](./docs/universities/wu-yi-da-xue.md)
-
-[武汉大学信息学部](./docs/universities/wu-yi-da-xue-xin-xi-xue-bu.md)
 
 [武汉学院](./docs/universities/wu-yi-xue-yuan-2.md)
 
@@ -4289,8 +4281,6 @@
 [滨州医学院](./docs/universities/bin-zhou-yi-xue-yuan.md)
 
 [滨州医学院烟台校区](./docs/universities/bin-zhou-yi-xue-yuan-yan-tai-xiao-qu.md)
-
-[滨州学院](./docs/universities/bin-zhou-xue-yuan.md)
 
 [滨州科技职业学院](./docs/universities/bin-zhou-ke-ji-zhi-ye-xue-yuan.md)
 

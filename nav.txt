@@ -746,7 +746,6 @@
       - 常州工程职业技术学院: universities/chang-zhou-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
       - 常州机电职业技术学院: universities/chang-zhou-ji-dian-zhi-ye-ji-zhu-xue-yuan.md
       - 常州纺织服装职业技术学院: universities/chang-zhou-fang-zhi-fu-zhuang-zhi-ye-ji-zhu-xue-yuan.md
-      - 常熟理工学院: universities/chang-shou-li-gong-xue-yuan.md
       - 徐州医科大学: universities/xu-zhou-yi-ke-da-xue.md
       - 徐州工程学院: universities/xu-zhou-gong-cheng-xue-yuan.md
       - 徐州生物工程职业技术学院: universities/xu-zhou-sheng-wu-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
@@ -1412,7 +1411,6 @@
       - 淄博职业学院西校区: universities/zi-bo-zhi-ye-xue-yuan-xi-xiao-qu.md
       - 滨州医学院: universities/bin-zhou-yi-xue-yuan.md
       - 滨州医学院烟台校区: universities/bin-zhou-yi-xue-yuan-yan-tai-xiao-qu.md
-      - 滨州学院: universities/bin-zhou-xue-yuan.md
       - 滨州科技职业学院: universities/bin-zhou-ke-ji-zhi-ye-xue-yuan.md
       - 滨州职业学院: universities/bin-zhou-zhi-ye-xue-yuan.md
       - 潍坊医学院: universities/wei-fang-yi-xue-yuan.md
@@ -1673,7 +1671,6 @@
       - 武汉城市职业学院: universities/wu-yi-cheng-shi-zhi-ye-xue-yuan.md
       - 武汉外语外事职业学院: universities/wu-yi-wai-yu-wai-shi-zhi-ye-xue-yuan.md
       - 武汉大学: universities/wu-yi-da-xue.md
-      - 武汉大学信息学部: universities/wu-yi-da-xue-xin-xi-xue-bu.md
       - 武汉学院: universities/wu-yi-xue-yuan-2.md
       - 武汉工商学院: universities/wu-yi-gong-shang-xue-yuan.md
       - 武汉工程大学: universities/wu-yi-gong-cheng-da-xue.md
@@ -1904,7 +1901,6 @@
       - 佛山大学: universities/fo-shan-da-xue.md
       - 佛山大学仙溪校区: universities/fo-shan-da-xue-xian-xi-xiao-qu.md
       - 佛山大学江湾校区: universities/fo-shan-da-xue-jiang-wan-xiao-qu.md
-      - 佛山科学技术学院: universities/fo-shan-ke-xue-ji-zhu-xue-yuan.md
       - 佛山职业技术学院: universities/fo-shan-zhi-ye-ji-zhu-xue-yuan.md
       - 北京师范大学-香港浸会大学联合国际学院: universities/bei-jing-shi-fan-da-xue-xiang-gang-jin-hui-da-xue-lian-he-guo-ji-xue-yuan.md
       - 北京师范大学珠海校区: universities/bei-jing-shi-fan-da-xue-zhu-hai-xiao-qu.md
@@ -2672,7 +2668,6 @@
       - 上海济光职业学校: universities/shang-hai-ji-guang-zhi-ye-xue-xiao.md
       - 上饶卫生健康职业学院: universities/shang-rao-wei-sheng-jian-kang-zhi-ye-xue-yuan.md
       - 东京大学: universities/dong-jing-da-xue.md
-      - 东北师范: universities/dong-bei-shi-fan.md
       - 中南林业科技涉外学院: universities/zhong-nan-lin-ye-ke-ji-she-wai-xue-yuan.md
       - 乌市职教中心: universities/wu-shi-zhi-jiao-zhong-xin.md
       - 九江市理工职业技术学校: universities/jiu-jiang-shi-li-gong-zhi-ye-ji-zhu-xue-xiao.md

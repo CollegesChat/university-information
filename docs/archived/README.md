@@ -542,7 +542,7 @@
 
 [余干职教中心 (已归档)](universities/yu-gan-zhi-jiao-zhong-xin.md)
 
-[佛山科学技术学院 (已归档)](universities/fo-shan-ke-xue-ji-zhu-xue-yuan.md)
+[佛山大学 (已归档)](universities/fo-shan-da-xue.md)
 
 [佛山科学技术学院仙溪校区 (已归档)](universities/fo-shan-ke-xue-ji-zhu-xue-yuan-xian-xi-xiao-qu.md)
 
@@ -2084,6 +2084,8 @@
 
 [山东职业学院 (已归档)](universities/shan-dong-zhi-ye-xue-yuan.md)
 
+[山东航空学院 (已归档)](universities/shan-dong-hang-kong-xue-yuan.md)
+
 [山东艺术学院 (已归档)](universities/shan-dong-yi-zhu-xue-yuan.md)
 
 [山东艺术学院长清校区 (已归档)](universities/shan-dong-yi-zhu-xue-yuan-chang-qing-xiao-qu.md)
@@ -2213,8 +2215,6 @@
 [常德职业技术学院 (已归档)](universities/chang-de-zhi-ye-ji-zhu-xue-yuan.md)
 
 [常德职业技术职业学院 (已归档)](universities/chang-de-zhi-ye-ji-zhu-zhi-ye-xue-yuan.md)
-
-[常熟理工学院 (已归档)](universities/chang-shou-li-gong-xue-yuan.md)
 
 [平凉信息工程学校 (已归档)](universities/ping-liang-xin-xi-gong-cheng-xue-xiao.md)
 
@@ -3005,8 +3005,6 @@
 [武汉城市职业学院南校区 (已归档)](universities/wu-yi-cheng-shi-zhi-ye-xue-yuan-nan-xiao-qu.md)
 
 [武汉大学 (已归档)](universities/wu-yi-da-xue-2.md)
-
-[武汉大学信息学部 (已归档)](universities/wu-yi-da-xue-xin-xi-xue-bu.md)
 
 [武汉大学国家网络安全学院校区 (已归档)](universities/wu-yi-da-xue-guo-jia-wang-luo-an-quan-xue-yuan-xiao-qu.md)
 
@@ -4036,8 +4034,6 @@
 
 [滨州医学院烟台校区 (已归档)](universities/bin-zhou-yi-xue-yuan-yan-tai-xiao-qu.md)
 
-[滨州学院 (已归档)](universities/bin-zhou-xue-yuan.md)
-
 [滨州职业学院 (已归档)](universities/bin-zhou-zhi-ye-xue-yuan.md)
 
 [漯河职业技术学院 (已归档)](universities/lei-he-zhi-ye-ji-zhu-xue-yuan.md)
@@ -4367,6 +4363,8 @@
 [苏州工业园区服务外包职业学院 (已归档)](universities/su-zhou-gong-ye-yuan-qu-fu-wu-wai-bao-zhi-ye-xue-yuan.md)
 
 [苏州工业职业技术学院 (已归档)](universities/su-zhou-gong-ye-zhi-ye-ji-zhu-xue-yuan.md)
+
+[苏州工学院 (已归档)](universities/su-zhou-gong-xue-yuan.md)
 
 [苏州工艺美术职业技术学院 (已归档)](universities/su-zhou-gong-yi-mei-zhu-zhi-ye-ji-zhu-xue-yuan.md)
 
