@@ -1721,25 +1721,25 @@
 
 [宁德师范学院](./docs/universities/zhu-de-shi-fan-xue-yuan.md)
 
-[宁波卫生职业技术学院](./docs/universities/zhu-bo-wei-sheng-zhi-ye-ji-zhu-xue-yuan.md)
+[宁波卫生职业技术学院](./docs/universities/ning-bo-wei-sheng-zhi-ye-ji-zhu-xue-yuan.md)
 
-[宁波城市职业技术学院](./docs/universities/zhu-bo-cheng-shi-zhi-ye-ji-zhu-xue-yuan.md)
+[宁波城市职业技术学院](./docs/universities/ning-bo-cheng-shi-zhi-ye-ji-zhu-xue-yuan.md)
 
-[宁波大学](./docs/universities/zhu-bo-da-xue.md)
+[宁波大学](./docs/universities/ning-bo-da-xue.md)
 
-[宁波大学科学技术学院](./docs/universities/zhu-bo-da-xue-ke-xue-ji-zhu-xue-yuan.md)
+[宁波大学科学技术学院](./docs/universities/ning-bo-da-xue-ke-xue-ji-zhu-xue-yuan.md)
 
-[宁波工程学院](./docs/universities/zhu-bo-gong-cheng-xue-yuan.md)
+[宁波工程学院](./docs/universities/ning-bo-gong-cheng-xue-yuan.md)
 
-[宁波幼儿师范高等专科学校](./docs/universities/zhu-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
+[宁波幼儿师范高等专科学校](./docs/universities/ning-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
 
-[宁波职业技术学院](./docs/universities/zhu-bo-zhi-ye-ji-zhu-xue-yuan.md)
+[宁波职业技术学院](./docs/universities/ning-bo-zhi-ye-ji-zhu-xue-yuan.md)
 
-[宁波诺丁汉大学](./docs/universities/zhu-bo-nuo-ding-yi-da-xue.md)
+[宁波诺丁汉大学](./docs/universities/ning-bo-nuo-ding-yi-da-xue.md)
 
-[宁波诺丁汉大学 university of Nottingham Ningbo China](./docs/universities/zhu-bo-nuo-ding-yi-da-xue-university-of-nottingham-ningbo-china.md)
+[宁波诺丁汉大学 university of Nottingham Ningbo China](./docs/universities/ning-bo-nuo-ding-yi-da-xue-university-of-nottingham-ningbo-china.md)
 
-[宁波财经学院](./docs/universities/zhu-bo-cai-jing-xue-yuan.md)
+[宁波财经学院](./docs/universities/ning-bo-cai-jing-xue-yuan.md)
 
 [宁都私立英才](./docs/universities/zhu-du-si-li-ying-cai.md)
 
@@ -3749,7 +3749,7 @@
 
 [浙大城市学院](./docs/universities/zhe-da-cheng-shi-xue-yuan.md)
 
-[浙大宁波理工学院](./docs/universities/zhe-da-zhu-bo-li-gong-xue-yuan.md)
+[浙大宁波理工学院](./docs/universities/zhe-da-ning-bo-li-gong-xue-yuan.md)
 
 [浙江万里学院](./docs/universities/zhe-jiang-mo-li-xue-yuan.md)
 
@@ -3781,7 +3781,7 @@
 
 [浙江大学](./docs/universities/zhe-jiang-da-xue.md)
 
-[浙江大学宁波理工学院](./docs/universities/zhe-jiang-da-xue-zhu-bo-li-gong-xue-yuan.md)
+[浙江大学宁波理工学院](./docs/universities/zhe-jiang-da-xue-ning-bo-li-gong-xue-yuan.md)
 
 [浙江大学海宁国际校区](./docs/universities/zhe-jiang-da-xue-hai-zhu-guo-ji-xiao-qu.md)
 
@@ -4609,7 +4609,7 @@
 
 [空军航空大学](./docs/universities/kong-jun-hang-kong-da-xue.md)
 
-[筑波大学](./docs/universities/zhu-bo-da-xue-2.md)
+[筑波大学](./docs/universities/ning-bo-da-xue-2.md)
 
 [红河卫生职业学院](./docs/universities/hong-he-wei-sheng-zhi-ye-xue-yuan.md)
 
