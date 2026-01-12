@@ -868,16 +868,16 @@
       - 嘉兴南洋职业技术学院: universities/jia-xing-nan-yang-zhi-ye-ji-zhu-xue-yuan.md
       - 嘉兴南湖学院: universities/jia-xing-nan-hu-xue-yuan.md
       - 嘉兴学院: universities/jia-xing-xue-yuan.md
-      - 宁波卫生职业技术学院: universities/zhu-bo-wei-sheng-zhi-ye-ji-zhu-xue-yuan.md
-      - 宁波城市职业技术学院: universities/zhu-bo-cheng-shi-zhi-ye-ji-zhu-xue-yuan.md
-      - 宁波大学: universities/zhu-bo-da-xue.md
-      - 宁波大学科学技术学院: universities/zhu-bo-da-xue-ke-xue-ji-zhu-xue-yuan.md
-      - 宁波工程学院: universities/zhu-bo-gong-cheng-xue-yuan.md
-      - 宁波幼儿师范高等专科学校: universities/zhu-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
-      - 宁波职业技术学院: universities/zhu-bo-zhi-ye-ji-zhu-xue-yuan.md
-      - 宁波诺丁汉大学: universities/zhu-bo-nuo-ding-yi-da-xue.md
-      - 宁波诺丁汉大学 university of Nottingham Ningbo China: universities/zhu-bo-nuo-ding-yi-da-xue-university-of-nottingham-ningbo-china.md
-      - 宁波财经学院: universities/zhu-bo-cai-jing-xue-yuan.md
+      - 宁波卫生职业技术学院: universities/ning-bo-wei-sheng-zhi-ye-ji-zhu-xue-yuan.md
+      - 宁波城市职业技术学院: universities/ning-bo-cheng-shi-zhi-ye-ji-zhu-xue-yuan.md
+      - 宁波大学: universities/ning-bo-da-xue.md
+      - 宁波大学科学技术学院: universities/ning-bo-da-xue-ke-xue-ji-zhu-xue-yuan.md
+      - 宁波工程学院: universities/ning-bo-gong-cheng-xue-yuan.md
+      - 宁波幼儿师范高等专科学校: universities/ning-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
+      - 宁波职业技术学院: universities/ning-bo-zhi-ye-ji-zhu-xue-yuan.md
+      - 宁波诺丁汉大学: universities/ning-bo-nuo-ding-yi-da-xue.md
+      - 宁波诺丁汉大学 university of Nottingham Ningbo China: universities/ning-bo-nuo-ding-yi-da-xue-university-of-nottingham-ningbo-china.md
+      - 宁波财经学院: universities/ning-bo-cai-jing-xue-yuan.md
       - 杭州万向职业技术学院: universities/hang-zhou-mo-xiang-zhi-ye-ji-zhu-xue-yuan.md
       - 杭州医学院: universities/hang-zhou-yi-xue-yuan.md
       - 杭州医学院临安校区: universities/hang-zhou-yi-xue-yuan-lin-an-xiao-qu.md
@@ -887,7 +887,7 @@
       - 杭州科技职业技术学院: universities/hang-zhou-ke-ji-zhi-ye-ji-zhu-xue-yuan.md
       - 杭州职业技术学院: universities/hang-zhou-zhi-ye-ji-zhu-xue-yuan.md
       - 浙大城市学院: universities/zhe-da-cheng-shi-xue-yuan.md
-      - 浙大宁波理工学院: universities/zhe-da-zhu-bo-li-gong-xue-yuan.md
+      - 浙大宁波理工学院: universities/zhe-da-ning-bo-li-gong-xue-yuan.md
       - 浙江万里学院: universities/zhe-jiang-mo-li-xue-yuan.md
       - 浙江东方职业技术学院: universities/zhe-jiang-dong-fang-zhi-ye-ji-zhu-xue-yuan.md
       - 浙江中医药大学: universities/zhe-jiang-zhong-yi-yao-da-xue.md
@@ -902,7 +902,7 @@
       - 浙江国际海运职业技术学院: universities/zhe-jiang-guo-ji-hai-yun-zhi-ye-ji-zhu-xue-yuan.md
       - 浙江外国语学院: universities/zhe-jiang-wai-guo-yu-xue-yuan.md
       - 浙江大学: universities/zhe-jiang-da-xue.md
-      - 浙江大学宁波理工学院: universities/zhe-jiang-da-xue-zhu-bo-li-gong-xue-yuan.md
+      - 浙江大学宁波理工学院: universities/zhe-jiang-da-xue-ning-bo-li-gong-xue-yuan.md
       - 浙江大学海宁国际校区: universities/zhe-jiang-da-xue-hai-zhu-guo-ji-xiao-qu.md
       - 浙江大学紫金港校区: universities/zhe-jiang-da-xue-zi-jin-gang-xiao-qu.md
       - 浙江宇翔职业技术学院: universities/zhe-jiang-yu-xiang-zhi-ye-ji-zhu-xue-yuan.md
@@ -2877,7 +2877,7 @@
       - 福建船政交通职业技术学院: universities/fu-jian-chuan-zheng-jiao-tong-zhi-ye-ji-zhu-xue-yuan.md
       - 福清西山学校高中部: universities/fu-qing-xi-shan-xue-xiao-gao-zhong-bu.md
       - 秦皇岛工业职业技术学院: universities/qin-huang-dao-gong-ye-zhi-ye-ji-zhu-xue-yuan.md
-      - 筑波大学: universities/zhu-bo-da-xue-2.md
+      - 筑波大学: universities/ning-bo-da-xue-2.md
       - 耒阳师范: universities/lei-yang-shi-fan.md
       - 航天职业技术学院: universities/hang-tian-zhi-ye-ji-zhu-xue-yuan.md
       - 芜湖学院: universities/wu-hu-xue-yuan.md
