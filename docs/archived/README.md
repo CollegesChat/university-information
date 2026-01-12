@@ -1764,29 +1764,29 @@
 
 [宁德职业技术学院 (已归档)](universities/zhu-de-zhi-ye-ji-zhu-xue-yuan.md)
 
-[宁波卫生职业技术学院 (已归档)](universities/zhu-bo-wei-sheng-zhi-ye-ji-zhu-xue-yuan.md)
+[宁波卫生职业技术学院 (已归档)](universities/ning-bo-wei-sheng-zhi-ye-ji-zhu-xue-yuan.md)
 
-[宁波城市职业技术学院 (已归档)](universities/zhu-bo-cheng-shi-zhi-ye-ji-zhu-xue-yuan.md)
+[宁波城市职业技术学院 (已归档)](universities/ning-bo-cheng-shi-zhi-ye-ji-zhu-xue-yuan.md)
 
-[宁波外国语学校 (已归档)](universities/zhu-bo-wai-guo-yu-xue-xiao.md)
+[宁波外国语学校 (已归档)](universities/ning-bo-wai-guo-yu-xue-xiao.md)
 
-[宁波大学 (已归档)](universities/zhu-bo-da-xue.md)
+[宁波大学 (已归档)](universities/ning-bo-da-xue.md)
 
-[宁波大学梅山校区 (已归档)](universities/zhu-bo-da-xue-mei-shan-xiao-qu.md)
+[宁波大学梅山校区 (已归档)](universities/ning-bo-da-xue-mei-shan-xiao-qu.md)
 
-[宁波大学科学技术学院 (已归档)](universities/zhu-bo-da-xue-ke-xue-ji-zhu-xue-yuan.md)
+[宁波大学科学技术学院 (已归档)](universities/ning-bo-da-xue-ke-xue-ji-zhu-xue-yuan.md)
 
-[宁波工程学院 (已归档)](universities/zhu-bo-gong-cheng-xue-yuan.md)
+[宁波工程学院 (已归档)](universities/ning-bo-gong-cheng-xue-yuan.md)
 
-[宁波幼儿师范高等专科学校 (已归档)](universities/zhu-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
+[宁波幼儿师范高等专科学校 (已归档)](universities/ning-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
 
-[宁波幼儿师范高等专科学校原宁波教育学院 (已归档)](universities/zhu-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao-yuan-zhu-bo-jiao-yu-xue-yuan.md)
+[宁波幼儿师范高等专科学校原宁波教育学院 (已归档)](universities/ning-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao-yuan-ning-bo-jiao-yu-xue-yuan.md)
 
-[宁波职业技术学院 (已归档)](universities/zhu-bo-zhi-ye-ji-zhu-xue-yuan.md)
+[宁波职业技术学院 (已归档)](universities/ning-bo-zhi-ye-ji-zhu-xue-yuan.md)
 
-[宁波诺丁汉大学 (已归档)](universities/zhu-bo-nuo-ding-yi-da-xue.md)
+[宁波诺丁汉大学 (已归档)](universities/ning-bo-nuo-ding-yi-da-xue.md)
 
-[宁波财经学院 (已归档)](universities/zhu-bo-cai-jing-xue-yuan.md)
+[宁波财经学院 (已归档)](universities/ning-bo-cai-jing-xue-yuan.md)
 
 [安庆医药高等专科学校 (已归档)](universities/an-qing-yi-yao-gao-deng-zhuan-ke-xue-xiao.md)
 
@@ -3558,7 +3558,7 @@
 
 [浙大城市学院 (已归档)](universities/zhe-da-cheng-shi-xue-yuan.md)
 
-[浙大宁波理工学院 (已归档)](universities/zhe-da-zhu-bo-li-gong-xue-yuan.md)
+[浙大宁波理工学院 (已归档)](universities/zhe-da-ning-bo-li-gong-xue-yuan.md)
 
 [浙江万里学院 (已归档)](universities/zhe-jiang-mo-li-xue-yuan.md)
 
