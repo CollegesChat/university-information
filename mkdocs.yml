@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2026-03-20 01:32:04
+copyright: CC BY-NC-SA 4.0 | Generated on 2026-03-22 14:54:55
 
 # Navigation
 nav:
@@ -5743,6 +5743,7 @@ theme:
     code: Roboto Mono
   features:
     - instant
+  custom_dir: overrides
 
 extra:
   social:
@@ -5764,7 +5765,10 @@ markdown_extensions:
 
 plugins:
   - search:
-      lang: ja
-      indexing: titles
+      lang: 
+        - ja
+        - en
+      indexing: 'titles'
       min_search_length: 2
+      separator: '[\s\-\.]+'
   - awesome-pages

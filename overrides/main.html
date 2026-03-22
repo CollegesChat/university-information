@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block config %}
+  <script>
+    var search = {
+        transform: function(query) {
+            query = query + ' astopwordflagbylorenzo'; // Trigger stop-word mechanism
+            return query
+                .replace(/(?:^|\s+)[*+-:^~]+(?=\s+|$)/g, "")
+                .trim()
+                .replace(/\s+|\b$/g, "* ")
+        }
+    }
+  </script>
+{% endblock %}
