@@ -1005,8 +1005,6 @@
 
 [南充文化旅游职业学院](./docs/universities/nan-chong-wen-hua-lu-you-zhi-ye-xue-yuan.md)
 
-[南充职业技术学院](./docs/universities/nan-chong-zhi-ye-ji-zhu-xue-yuan.md)
-
 [南加州大学 University of Southern California](./docs/universities/nan-jia-zhou-da-xue-university-of-southern-california.md)
 
 [南华大学](./docs/universities/nan-hua-da-xue.md)
