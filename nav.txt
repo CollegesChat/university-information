@@ -382,7 +382,6 @@
       - 大连航运职业技术学院: universities/da-lian-hang-yun-zhi-ye-ji-zhu-xue-yuan.md
       - 大连艺术学院: universities/da-lian-yi-zhu-xue-yuan.md
       - 抚顺师范高等专科学校: universities/fu-shun-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
-      - 朝阳师范学院原朝阳师范高等专科学校: universities/zhao-yang-shi-fan-xue-yuan-yuan-zhao-yang-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 沈阳体育学院: universities/chen-yang-ti-yu-xue-yuan.md
       - 沈阳农业大学: universities/chen-yang-nong-ye-da-xue.md
       - 沈阳化工大学: universities/chen-yang-hua-gong-da-xue.md

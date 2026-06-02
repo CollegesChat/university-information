@@ -2911,8 +2911,6 @@
 
 [朝阳师范学院](./docs/universities/zhao-yang-shi-fan-xue-yuan.md)
 
-[朝阳师范学院原朝阳师范高等专科学校](./docs/universities/zhao-yang-shi-fan-xue-yuan-yuan-zhao-yang-shi-fan-gao-deng-zhuan-ke-xue-xiao.md)
-
 [杨凌职业技术学院](./docs/universities/yang-ling-zhi-ye-ji-zhu-xue-yuan.md)
 
 [杨凌职业技术学院南校区](./docs/universities/yang-ling-zhi-ye-ji-zhu-xue-yuan-nan-xiao-qu.md)
