@@ -1,0 +1,30 @@
+name: 🏷️ 高校改名 / 信息更新
+description: 反馈高校名称变更或信息更新
+title: "[高校更名] "
+labels: ["institution-renaming"]
+body:
+  - type: input
+    id: current_name
+    attributes:
+      label: 当前名称
+    validations:
+      required: true
+
+  - type: input
+    id: old_name
+    attributes:
+      label: 旧名称
+    validations:
+      required: false
+
+  - type: textarea
+    id: source
+    attributes:
+      label: 依据/来源（官网、新闻链接）
+    validations:
+      required: true
+
+  - type: textarea
+    id: note
+    attributes:
+      label: 补充说明

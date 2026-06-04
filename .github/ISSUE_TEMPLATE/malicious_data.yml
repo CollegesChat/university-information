@@ -1,0 +1,33 @@
+name: 😈 恶意 / 错误数据举报
+description: 举报虚假、恶意或垃圾数据
+title: "[数据举报] "
+labels: ["report-spam"]
+body:
+  - type: input
+    id: target
+    attributes:
+      label: 涉及数据（高校/条目）
+    validations:
+      required: true
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: 问题类型
+      options:
+        - 虚假数据
+        - 垃圾内容
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 证据/说明（截图/链接）
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: 补充信息
