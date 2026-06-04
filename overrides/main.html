@@ -88,7 +88,7 @@
         e.preventDefault();
         const id = el.dataset.id;
         window.open(
-          `https://github.com/CollegesChat/university-information/issues/new?title=${encodeURIComponent(`${id}反馈问题：`)}`,
+          `https://github.com/CollegesChat/university-information/issues/new?template=malicious_data.yml&title=${encodeURIComponent(`[数据举报]：${id}`)}`,
           '_blank'
         );
       });});
