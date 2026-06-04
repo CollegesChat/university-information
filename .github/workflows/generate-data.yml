@@ -4,7 +4,8 @@ on:
   push:
     branches:
     - master
-
+    paths-ignore:
+      - .github/ISSUE_TEMPLATE/**
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -29,7 +30,7 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r requirements.txt
       working-directory: ${{ env.workpath }}
-    
+
     - name: Checkout old dist
       uses: actions/checkout@v2
       with:
@@ -57,7 +58,7 @@ jobs:
       run: |
         ssh-agent -a $SSH_AUTH_SOCK > /dev/null
         ssh-add - <<< "${{ secrets.COLLEGES_CHAT_DEPLOY_KEY }}"
-          
+
     - name: Push generated data to repo colleges.chat
       env:
         SSH_AUTH_SOCK: /tmp/ssh_agent.sock
@@ -75,4 +76,4 @@ jobs:
         mv questionnaires/dist/overrides colleges.chat/
         cd colleges.chat
         git add -A
-        if ! git diff-index --quiet HEAD --; then git commit -m "update: $commit_message" && git push -f ; fi      
+        if ! git diff-index --quiet HEAD --; then git commit -m "update: $commit_message" && git push -f ; fi

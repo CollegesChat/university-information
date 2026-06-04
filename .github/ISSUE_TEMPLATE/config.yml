@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 提问
+    url: https://github.com/CollegesChat/university-information/discussions
+    about: 一般问题请去讨论区
