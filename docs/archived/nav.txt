@@ -1153,7 +1153,6 @@
       - 南昌大学医学院 (已归档): archived/universities/nan-chang-da-xue-yi-xue-yuan.md
       - 南昌大学科学技术学院 (已归档): archived/universities/nan-chang-da-xue-ke-xue-ji-zhu-xue-yuan.md
       - 南昌工学院 (已归档): archived/universities/nan-chang-gong-xue-yuan.md
-      - 南昌工程学院 (已归档): archived/universities/nan-chang-gong-cheng-xue-yuan.md
       - 南昌师范学院 (已归档): archived/universities/nan-chang-shi-fan-xue-yuan.md
       - 南昌应用技术师范学院 (已归档): archived/universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan.md
       - 南昌影视传播职业学院 (已归档): archived/universities/nan-chang-ying-shi-chuan-bo-zhi-ye-xue-yuan.md
@@ -1605,7 +1604,6 @@
       - 武汉纺织大学 (已归档): archived/universities/wu-yi-fang-zhi-da-xue.md
       - 武汉纺织大学南湖校区 (已归档): archived/universities/wu-yi-fang-zhi-da-xue-nan-hu-xiao-qu.md
       - 武汉纺织大学外经贸学院 (已归档): archived/universities/wu-yi-fang-zhi-da-xue-wai-jing-mao-xue-yuan.md
-      - 武汉职业技术学院 (已归档): archived/universities/wu-yi-zhi-ye-ji-zhu-xue-yuan.md
       - 武汉船舶职业技术学院 (已归档): archived/universities/wu-yi-chuan-bo-zhi-ye-ji-zhu-xue-yuan.md
       - 武汉警官职业学院 (已归档): archived/universities/wu-yi-jing-guan-zhi-ye-xue-yuan.md
       - 武汉设计工程学院 (已归档): archived/universities/wu-yi-she-ji-gong-cheng-xue-yuan.md
@@ -2129,7 +2127,6 @@
       - 重庆旅游职业学院 (已归档): archived/universities/zhong-qing-lu-you-zhi-ye-xue-yuan.md
       - 重庆理工大学 (已归档): archived/universities/zhong-qing-li-gong-da-xue.md
       - 重庆电力高等专科学校， (已归档): archived/universities/zhong-qing-dian-li-gao-deng-zhuan-ke-xue-xiao.md
-      - 重庆电子工程职业学院 (已归档): archived/universities/zhong-qing-dian-zi-gong-cheng-zhi-ye-xue-yuan.md
       - 重庆电讯职业学院 (已归档): archived/universities/zhong-qing-dian-xun-zhi-ye-xue-yuan.md
       - 重庆科创职业学院 (已归档): archived/universities/zhong-qing-ke-chuang-zhi-ye-xue-yuan.md
       - 重庆科技学院 (已归档): archived/universities/zhong-qing-ke-ji-xue-yuan.md
@@ -2637,6 +2634,7 @@
       - 梁平职教中心 (已归档): archived/universities/liang-ping-zhi-jiao-zhong-xin.md
       - 武汉凡谷电子职业技术学校 (已归档): archived/universities/wu-yi-fan-gu-dian-zi-zhi-ye-ji-zhu-xue-xiao.md
       - 武汉海事职业技术学院 (已归档): archived/universities/wu-yi-hai-shi-zhi-ye-ji-zhu-xue-yuan.md
+      - 武汉职业技术大学 (已归档): archived/universities/wu-yi-zhi-ye-ji-zhu-da-xue.md
       - 武汉软件工程学院 (已归档): archived/universities/wu-yi-ruan-jian-gong-cheng-xue-yuan.md
       - 武汉铁路桥梁学院 (已归档): archived/universities/wu-yi-tie-lu-qiao-liang-xue-yuan.md
       - 水电八局高级技工学校 (已归档): archived/universities/shui-dian-ba-ju-gao-ji-ji-gong-xue-xiao.md
@@ -2645,6 +2643,7 @@
       - 江苏省交通技师学院 (已归档): archived/universities/jiang-su-sheng-jiao-tong-ji-shi-xue-yuan.md
       - 江苏省徐州财经高等职业技术学校 (已归档): archived/universities/jiang-su-sheng-xu-zhou-cai-jing-gao-deng-zhi-ye-ji-zhu-xue-xiao.md
       - 江苏省戏剧学校 (已归档): archived/universities/jiang-su-sheng-xi-ju-xue-xiao.md
+      - 江西水利电力大学 (已归档): archived/universities/jiang-xi-shui-li-dian-li-da-xue.md
       - 河北工业职业技术学院大学 (已归档): archived/universities/he-bei-gong-ye-zhi-ye-ji-zhu-xue-yuan-da-xue.md
       - 河北武邑宏达东方学校 (已归档): archived/universities/he-bei-wu-yi-hong-da-dong-fang-xue-xiao.md
       - 河南省医药卫生学校 (已归档): archived/universities/he-nan-sheng-yi-yao-wei-sheng-xue-xiao.md
@@ -2710,6 +2709,7 @@
       - 重庆安全技术职业技术学院 (已归档): archived/universities/zhong-qing-an-quan-ji-zhu-zhi-ye-ji-zhu-xue-yuan.md
       - 重庆对外经贸学校 (已归档): archived/universities/zhong-qing-dui-wai-jing-mao-xue-xiao.md
       - 重庆工贸职业学院 (已归档): archived/universities/zhong-qing-gong-mao-zhi-ye-xue-yuan.md
+      - 重庆电子科技职业大学 (已归档): archived/universities/zhong-qing-dian-zi-ke-ji-zhi-ye-da-xue.md
       - 重庆科创职业技术学院 (已归档): archived/universities/zhong-qing-ke-chuang-zhi-ye-ji-zhu-xue-yuan.md
       - 金桥学校 (已归档): archived/universities/jin-qiao-xue-xiao.md
       - 镇江高等专科学院 (已归档): archived/universities/zhen-jiang-gao-deng-zhuan-ke-xue-yuan.md

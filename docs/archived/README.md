@@ -1086,8 +1086,6 @@
 
 [南昌工学院 (已归档)](universities/nan-chang-gong-xue-yuan.md)
 
-[南昌工程学院 (已归档)](universities/nan-chang-gong-cheng-xue-yuan.md)
-
 [南昌师范学院 (已归档)](universities/nan-chang-shi-fan-xue-yuan.md)
 
 [南昌应用技术师范学院 (已归档)](universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan.md)
@@ -3052,7 +3050,7 @@
 
 [武汉纺织大学外经贸学院 (已归档)](universities/wu-yi-fang-zhi-da-xue-wai-jing-mao-xue-yuan.md)
 
-[武汉职业技术学院 (已归档)](universities/wu-yi-zhi-ye-ji-zhu-xue-yuan.md)
+[武汉职业技术大学 (已归档)](universities/wu-yi-zhi-ye-ji-zhu-da-xue.md)
 
 [武汉船舶职业技术学院 (已归档)](universities/wu-yi-chuan-bo-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -3219,6 +3217,8 @@
 [江西旅游商贸职业学院 (已归档)](universities/jiang-xi-lu-you-shang-mao-zhi-ye-xue-yuan.md)
 
 [江西服装学院 (已归档)](universities/jiang-xi-fu-zhuang-xue-yuan.md)
+
+[江西水利电力大学 (已归档)](universities/jiang-xi-shui-li-dian-li-da-xue.md)
 
 [江西水利职业学院 (已归档)](universities/jiang-xi-shui-li-zhi-ye-xue-yuan.md)
 
@@ -4964,7 +4964,7 @@
 
 [重庆电力高等专科学校， (已归档)](universities/zhong-qing-dian-li-gao-deng-zhuan-ke-xue-xiao.md)
 
-[重庆电子工程职业学院 (已归档)](universities/zhong-qing-dian-zi-gong-cheng-zhi-ye-xue-yuan.md)
+[重庆电子科技职业大学 (已归档)](universities/zhong-qing-dian-zi-ke-ji-zhi-ye-da-xue.md)
 
 [重庆电讯职业学院 (已归档)](universities/zhong-qing-dian-xun-zhi-ye-xue-yuan.md)
 

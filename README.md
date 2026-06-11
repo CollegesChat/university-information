@@ -1251,10 +1251,6 @@
 
 [南昌工学院](./docs/universities/nan-chang-gong-xue-yuan.md)
 
-[南昌工程学院](./docs/universities/nan-chang-gong-cheng-xue-yuan.md)
-
-[南昌工程学院瑶湖校区](./docs/universities/nan-chang-gong-cheng-xue-yuan-yao-hu-xiao-qu.md)
-
 [南昌师范学院](./docs/universities/nan-chang-shi-fan-xue-yuan.md)
 
 [南昌应用 技术师范学院](./docs/universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan-2.md)
@@ -2055,8 +2051,6 @@
 [宁波诺丁汉](./docs/universities/zhu-bo-nuo-ding-yi.md)
 
 [宁波诺丁汉大学](./docs/universities/zhu-bo-nuo-ding-yi-da-xue.md)
-
-[宁波诺丁汉大学 university of Nottingham Ningbo China](./docs/universities/zhu-bo-nuo-ding-yi-da-xue-university-of-nottingham-ningbo-china.md)
 
 [宁波财经学院](./docs/universities/zhu-bo-cai-jing-xue-yuan.md)
 
@@ -3663,8 +3657,6 @@
 [武汉纺织大学阳光校区](./docs/universities/wu-yi-fang-zhi-da-xue-yang-guang-xiao-qu.md)
 
 [武汉职业技术大学](./docs/universities/wu-yi-zhi-ye-ji-zhu-da-xue.md)
-
-[武汉职业技术学院](./docs/universities/wu-yi-zhi-ye-ji-zhu-xue-yuan.md)
 
 [武汉航海职业技术学院](./docs/universities/wu-yi-hang-hai-zhi-ye-ji-zhu-xue-yuan.md)
 
@@ -6323,8 +6315,6 @@
 [重庆理工职业学院](./docs/universities/zhong-qing-li-gong-zhi-ye-xue-yuan.md)
 
 [重庆电力高等专科学校](./docs/universities/zhong-qing-dian-li-gao-deng-zhuan-ke-xue-xiao.md)
-
-[重庆电子工程职业学院](./docs/universities/zhong-qing-dian-zi-gong-cheng-zhi-ye-xue-yuan.md)
 
 [重庆电子科技职业大学](./docs/universities/zhong-qing-dian-zi-ke-ji-zhi-ye-da-xue.md)
 

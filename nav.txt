@@ -997,7 +997,6 @@
       - 宁波幼儿师范高等专科学校: universities/zhu-bo-you-er-shi-fan-gao-deng-zhuan-ke-xue-xiao.md
       - 宁波职业技术学院: universities/zhu-bo-zhi-ye-ji-zhu-xue-yuan.md
       - 宁波诺丁汉大学: universities/zhu-bo-nuo-ding-yi-da-xue.md
-      - 宁波诺丁汉大学 university of Nottingham Ningbo China: universities/zhu-bo-nuo-ding-yi-da-xue-university-of-nottingham-ningbo-china.md
       - 宁波财经学院: universities/zhu-bo-cai-jing-xue-yuan.md
       - 宁波财经学院象山校区: universities/zhu-bo-cai-jing-xue-yuan-xiang-shan-xiao-qu.md
       - 杭州万向职业技术学院: universities/hang-zhou-mo-xiang-zhi-ye-ji-zhu-xue-yuan.md
@@ -1361,8 +1360,6 @@
       - 南昌大学科学技术学院: universities/nan-chang-da-xue-ke-xue-ji-zhu-xue-yuan.md
       - 南昌大学科技学院: universities/nan-chang-da-xue-ke-ji-xue-yuan.md
       - 南昌工学院: universities/nan-chang-gong-xue-yuan.md
-      - 南昌工程学院: universities/nan-chang-gong-cheng-xue-yuan.md
-      - 南昌工程学院瑶湖校区: universities/nan-chang-gong-cheng-xue-yuan-yao-hu-xiao-qu.md
       - 南昌师范学院: universities/nan-chang-shi-fan-xue-yuan.md
       - 南昌应用技术师范学院: universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan.md
       - 南昌应用技术师范学院赣新校区: universities/nan-chang-ying-yong-ji-zhu-shi-fan-xue-yuan-gan-xin-xiao-qu.md
@@ -1905,7 +1902,6 @@
       - 武汉纺织大学南湖校区: universities/wu-yi-fang-zhi-da-xue-nan-hu-xiao-qu.md
       - 武汉纺织大学外经贸学院: universities/wu-yi-fang-zhi-da-xue-wai-jing-mao-xue-yuan.md
       - 武汉纺织大学阳光校区: universities/wu-yi-fang-zhi-da-xue-yang-guang-xiao-qu.md
-      - 武汉职业技术学院: universities/wu-yi-zhi-ye-ji-zhu-xue-yuan.md
       - 武汉航海职业技术学院: universities/wu-yi-hang-hai-zhi-ye-ji-zhu-xue-yuan.md
       - 武汉船舶职业技术学院: universities/wu-yi-chuan-bo-zhi-ye-ji-zhu-xue-yuan.md
       - 武汉警官职业学院: universities/wu-yi-jing-guan-zhi-ye-xue-yuan.md
@@ -2521,7 +2517,6 @@
       - 重庆理工大学: universities/zhong-qing-li-gong-da-xue.md
       - 重庆理工职业学院: universities/zhong-qing-li-gong-zhi-ye-xue-yuan.md
       - 重庆电力高等专科学校: universities/zhong-qing-dian-li-gao-deng-zhuan-ke-xue-xiao.md
-      - 重庆电子工程职业学院: universities/zhong-qing-dian-zi-gong-cheng-zhi-ye-xue-yuan.md
       - 重庆电讯职业学院: universities/zhong-qing-dian-xun-zhi-ye-xue-yuan.md
       - 重庆科技学院: universities/zhong-qing-ke-ji-xue-yuan.md
       - 重庆移通学院: universities/zhong-qing-yi-tong-xue-yuan.md
