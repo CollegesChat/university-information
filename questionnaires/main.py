@@ -137,7 +137,7 @@ def join_path(*paths):
 
 
 def generate_markdown_path(name: str, in_readme: bool, archived: bool):
-    paths = [ 'universities', name ]
+    paths = ['universities', name]
     if archived and not in_readme:
         paths = ['archived'] + paths
     if in_readme and not archived:
@@ -153,7 +153,7 @@ def load_colleges():
 
         for row in csv_reader:
             province, college = row
-            colleges[NAME_PREPROCESS.sub('', college).replace(' ','')] = province
+            colleges[NAME_PREPROCESS.sub('', college).replace(' ', '')] = province
             if province not in provinces:
                 provinces[province] = []
         provinces['其他'] = []
@@ -284,7 +284,7 @@ def write_to_readme(universities: dict, filename_map: FilenameMap, readme_file_n
         university_names = list(universities.keys())
         university_names.sort()
         # here `in_readme` should be opposite from `archived` to avoid generating redundant 'docs' for archived
-        university_links = [ '[{}]({})'.format(name + suffix, generate_markdown_path(filename_map[name], not archived, False)) for name in university_names ]
+        university_links = ['[{}]({})'.format(name + suffix, generate_markdown_path(filename_map[name], not archived, False)) for name in university_names]
         readme_file.write('\n\n'.join(university_links))
 
         sorted_colleges_keys = sorted(colleges.keys())
@@ -313,7 +313,7 @@ def write_to_readme(universities: dict, filename_map: FilenameMap, readme_file_n
             nav_file.write(f'    - {province}:\n')
             college.sort()
             for name in college:
-                nav_file.write('      - {}: {}\n'.format(name + suffix, generate_markdown_path(filename_map[name], False, archived)))
+                nav_file.write('      - {}: {}\n'.format(name.replace('\n', '') + suffix, generate_markdown_path(filename_map[name], False, archived)))
 
 
 def main():
@@ -366,7 +366,8 @@ def main():
          open('mkdocs_template.yml', 'r', encoding='utf-8') as mkdocs_template_f,\
          open(join_path('dist', 'mkdocs.yml'), 'w', encoding='utf-8') as mkdocs_f:
 
-        mkdocs_f.write(mkdocs_template_f.read().replace('[universities_nav]',nav_f.read()).replace('[universities_nav_archived]',nav_archived_f.read()).replace('[current_time]',time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+        mkdocs_f.write(mkdocs_template_f.read().replace('[universities_nav]', nav_f.read()).replace('[universities_nav_archived]', nav_archived_f.read()).replace('[current_time]', time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+
 
 if __name__ == '__main__':
     main()
