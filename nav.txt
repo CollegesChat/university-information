@@ -2157,8 +2157,7 @@
       - 华南理工大学广州国际校区: universities/hua-nan-li-gong-da-xue-yan-zhou-guo-ji-xiao-qu.md
       - 南方医科大学: universities/nan-fang-yi-ke-da-xue.md
       - 南方科技大学: universities/nan-fang-ke-ji-da-xue.md
-      - 原校名：广东轻工职业技术学院
-学校升本了，校名改为广东轻工职业技术大学: universities/yuan-xiao-ming-yan-dong-qing-gong-zhi-ye-ji-zhu-xue-yuan-xue-xiao-sheng-ben-liao-xiao-ming-gai-wei-yan-dong-qing-gong-zhi-ye-ji-zhu-da-xue.md
+      - 原校名：广东轻工职业技术学院学校升本了，校名改为广东轻工职业技术大学: universities/yuan-xiao-ming-yan-dong-qing-gong-zhi-ye-ji-zhu-xue-yuan-xue-xiao-sheng-ben-liao-xiao-ming-gai-wei-yan-dong-qing-gong-zhi-ye-ji-zhu-da-xue.md
       - 哈尔滨工业大学深圳校区: universities/ha-er-bin-gong-ye-da-xue-shen-zhen-xiao-qu.md
       - 嘉应学院: universities/jia-ying-xue-yuan.md
       - 嘉应学院医学院: universities/jia-ying-xue-yuan-yi-xue-yuan.md
