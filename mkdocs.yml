@@ -9,7 +9,7 @@ repo_url: https://github.com/CollegesChat/university-information
 edit_uri: edit/master/questionnaires/site/docs
 
 # Copyright
-copyright: CC BY-NC-SA 4.0 | Generated on 2026-06-13 22:20:28
+copyright: CC BY-NC-SA 4.0 | Generated on 2026-06-13 22:23:44
 
 # Navigation
 nav:
@@ -3002,10 +3002,6 @@ nav:
       - 阿勒泰职业技术学院: universities/a-le-tai-zhi-ye-ji-zhu-xue-yuan.md
     - 其他:
       - .山东省德州市庆云县云天职业技术学院: universities/shan-dong-sheng-de-zhou-shi-qing-yun-xian-yun-tian-zhi-ye-ji-zhu-xue-yuan.md
-      - 1: universities/1.md
-      - 13322491139@163.com: universities/13322491139-163-com.md
-      - 2: universities/2.md
-      - 2339535631@qq.com: universities/2339535631-qq-com.md
       - Asia Pacific University of Technology & Innovation APU: universities/asia-pacific-university-of-technology-innovation-apu.md
       - Dalhousie University: universities/dalhousie-university.md
       - Imperial College London: universities/imperial-college-london.md
@@ -3063,7 +3059,6 @@ nav:
       - 九江职业技术大学: universities/jiu-jiang-zhi-ye-ji-zhu-da-xue.md
       - 云南工程职业技术学院: universities/yun-nan-gong-cheng-zhi-ye-ji-zhu-xue-yuan.md
       - 京津冀职教改革示范园区: universities/jing-jin-ji-zhi-jiao-gai-ge-shi-fan-yuan-qu.md
-      - 人大附中深圳学校: universities/ren-da-fu-zhong-shen-zhen-xue-xiao.md
       - 伦敦国王学院: universities/lun-dun-guo-wang-xue-yuan.md
       - 保定市科技中等专业学校: universities/bao-ding-shi-ke-ji-zhong-deng-zhuan-ye-xue-xiao.md
       - 信阳师范大学: universities/xin-yang-shi-fan-da-xue.md
@@ -3073,7 +3068,6 @@ nav:
       - 共青科技职业学校: universities/gong-qing-ke-ji-zhi-ye-xue-xiao.md
       - 内蒙古化工职业技术学院: universities/nei-meng-gu-hua-gong-zhi-ye-ji-zhu-xue-yuan.md
       - 内蒙古建筑职业技术大学: universities/nei-meng-gu-jian-zhu-zhi-ye-ji-zhu-da-xue.md
-      - 准大一: universities/zhun-da-yi.md
       - 加里敦大学: universities/jia-li-dun-da-xue.md
       - 包头医学院: universities/bao-tou-yi-xue-yuan.md
       - 北京电子信息技师学院: universities/bei-jing-dian-zi-xin-xi-ji-shi-xue-yuan.md
@@ -3085,7 +3079,6 @@ nav:
       - 南京铁道车辆技师学院: universities/nan-jing-tie-dao-che-liang-ji-shi-xue-yuan.md
       - 南充职业技术学校: universities/nan-chong-zhi-ye-ji-zhu-xue-xiao.md
       - 南加州大学 University of Southern California: universities/nan-jia-zhou-da-xue-university-of-southern-california.md
-      - 南宁八字: universities/nan-zhu-ba-zi.md
       - 南宁学校: universities/nan-zhu-xue-xiao.md
       - 南岳衡山道院南岳坤道学院: universities/nan-yue-heng-shan-dao-yuan-nan-yue-kun-dao-xue-yuan.md
       - 南方职业学院: universities/nan-fang-zhi-ye-xue-yuan.md
@@ -3112,7 +3105,6 @@ nav:
       - 哈尔滨职业技术大学: universities/ha-er-bin-zhi-ye-ji-zhu-da-xue.md
       - 唐山工业职业技术大学: universities/tang-shan-gong-ye-zhi-ye-ji-zhu-da-xue.md
       - 唐山工业职业职业技术学院: universities/tang-shan-gong-ye-zhi-ye-zhi-ye-ji-zhu-xue-yuan.md
-      - 商丘市一中。: universities/shang-qiu-shi-yi-zhong.md
       - 嘉兴大学: universities/jia-xing-da-xue.md
       - 四川工程职业技术大学: universities/si-chuan-gong-cheng-zhi-ye-ji-zhu-da-xue.md
       - 四川托普信息职业技术学院: universities/si-chuan-tuo-pu-xin-xi-zhi-ye-ji-zhu-xue-yuan.md
@@ -3500,18 +3492,14 @@ nav:
       - 香港科技大学广州: universities/xiang-gang-ke-ji-da-xue-yan-zhou.md
       - 马德里自治大学Universidad Autónoma de Madrid: universities/ma-de-li-zi-zhi-da-xue-universidad-autonoma-de-madrid.md
       - 马鞍山高等师范专科学校: universities/ma-an-shan-gao-deng-shi-fan-zhuan-ke-xue-xiao.md
-      - 高中毕业，无学校: universities/gao-zhong-bi-ye-wu-xue-xiao.md
-      - 高中还没读大学: universities/gao-zhong-huan-mei-du-da-xue.md
       - 鹤壁工程技术学院: universities/he-bi-gong-cheng-ji-zhu-xue-yuan.md
       - 鹤壁市信息工程学院: universities/he-bi-shi-xin-xi-gong-cheng-xue-yuan.md
       - 黄河水利职业学院: universities/huang-he-shui-li-zhi-ye-xue-yuan.md
       - 黄河水利职业技术大学: universities/huang-he-shui-li-zhi-ye-ji-zhu-da-xue.md
-      - 黑大: universities/hei-da.md
       - 黑龙江外国语: universities/hei-long-jiang-wai-guo-yu.md
       - 黑龙江职业技术学院: universities/hei-long-jiang-zhi-ye-ji-zhu-xue-yuan.md
       - 黑龙江能源职业技术学院: universities/hei-long-jiang-neng-yuan-zhi-ye-ji-zhu-xue-yuan.md
       - 齐齐哈尔高等示范专科院校: universities/qi-qi-ha-er-gao-deng-shi-fan-zhuan-ke-yuan-xiao.md
-      - ？: universities/.md
 
   - 已归档数据:
     - 北京:

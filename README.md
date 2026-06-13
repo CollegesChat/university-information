@@ -9,14 +9,6 @@
 
 [.山东省德州市庆云县云天职业技术学院](./docs/universities/shan-dong-sheng-de-zhou-shi-qing-yun-xian-yun-tian-zhi-ye-ji-zhu-xue-yuan.md)
 
-[1](./docs/universities/1.md)
-
-[13322491139@163.com](./docs/universities/13322491139-163-com.md)
-
-[2](./docs/universities/2.md)
-
-[2339535631@qq.com](./docs/universities/2339535631-qq-com.md)
-
 [Asia Pacific University of Technology & Innovation APU](./docs/universities/asia-pacific-university-of-technology-innovation-apu.md)
 
 [Dalhousie University](./docs/universities/dalhousie-university.md)
@@ -591,8 +583,6 @@
 
 [亳州职业技术学院](./docs/universities/bo-zhou-zhi-ye-ji-zhu-xue-yuan.md)
 
-[人大附中深圳学校](./docs/universities/ren-da-fu-zhong-shen-zhen-xue-xiao.md)
-
 [仙桃职业学院](./docs/universities/xian-tao-zhi-ye-xue-yuan.md)
 
 [仰恩大学](./docs/universities/yang-en-da-xue.md)
@@ -760,8 +750,6 @@
 [内蒙古鸿德文理学院](./docs/universities/nei-meng-gu-hong-de-wen-li-xue-yuan.md)
 
 [内蒙古鸿德文理学院本部](./docs/universities/nei-meng-gu-hong-de-wen-li-xue-yuan-ben-bu.md)
-
-[准大一](./docs/universities/zhun-da-yi.md)
 
 [凯里学院](./docs/universities/kai-li-xue-yuan.md)
 
@@ -1195,8 +1183,6 @@
 
 [南华大学雨母校区](./docs/universities/nan-hua-da-xue-yu-mu-xiao-qu.md)
 
-[南宁八字](./docs/universities/nan-zhu-ba-zi.md)
-
 [南宁学校](./docs/universities/nan-zhu-xue-xiao.md)
 
 [南宁学院](./docs/universities/nan-zhu-xue-yuan.md)
@@ -1617,8 +1603,6 @@
 [商丘工学院](./docs/universities/shang-qiu-gong-xue-yuan.md)
 
 [商丘工学院南校区](./docs/universities/shang-qiu-gong-xue-yuan-nan-xiao-qu.md)
-
-[商丘市一中。](./docs/universities/shang-qiu-shi-yi-zhong.md)
 
 [商丘师范学院](./docs/universities/shang-qiu-shi-fan-xue-yuan.md)
 
@@ -6760,10 +6744,6 @@
 
 [驻马店职业技术学院](./docs/universities/zhu-ma-dian-zhi-ye-ji-zhu-xue-yuan.md)
 
-[高中毕业，无学校](./docs/universities/gao-zhong-bi-ye-wu-xue-xiao.md)
-
-[高中还没读大学](./docs/universities/gao-zhong-huan-mei-du-da-xue.md)
-
 [鲁东大学](./docs/universities/lu-dong-da-xue.md)
 
 [鲁迅美术学院](./docs/universities/lu-xun-mei-zhu-xue-yuan.md)
@@ -6811,8 +6791,6 @@
 [黎明职业大学](./docs/universities/li-ming-zhi-ye-da-xue.md)
 
 [黎明职业大学黎明大学](./docs/universities/li-ming-zhi-ye-da-xue-li-ming-da-xue.md)
-
-[黑大](./docs/universities/hei-da.md)
 
 [黑河学院](./docs/universities/hei-he-xue-yuan.md)
 
@@ -6927,8 +6905,6 @@
 [齐齐哈尔高等示范专科院校](./docs/universities/qi-qi-ha-er-gao-deng-shi-fan-zhuan-ke-yuan-xiao.md)
 
 [龙岩学院](./docs/universities/long-yan-xue-yuan.md)
-
-[？](./docs/universities/.md)
 
 ### 更名的大学
 
