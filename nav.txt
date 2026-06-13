@@ -693,7 +693,6 @@
       - 齐齐哈尔工程学院: universities/qi-qi-ha-er-gong-cheng-xue-yuan.md
       - 齐齐哈尔高等师范专科学校: universities/qi-qi-ha-er-gao-deng-shi-fan-zhuan-ke-xue-xiao.md
     - 上海:
-      - -上海健康医学院: universities/shang-hai-jian-kang-yi-xue-yuan-2.md
       - 上海东海职业技术学院: universities/shang-hai-dong-hai-zhi-ye-ji-zhu-xue-yuan.md
       - 上海中侨职业技术大学: universities/shang-hai-zhong-qiao-zhi-ye-ji-zhu-da-xue.md
       - 上海中医药大学: universities/shang-hai-zhong-yi-yao-da-xue.md

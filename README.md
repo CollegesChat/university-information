@@ -7,8 +7,6 @@
 ## 大学列表（以 Python 默认排列方式为排列顺序）
 
 
-[-上海健康医学院](./docs/universities/shang-hai-jian-kang-yi-xue-yuan-2.md)
-
 [.山东省德州市庆云县云天职业技术学院](./docs/universities/shan-dong-sheng-de-zhou-shi-qing-yun-xian-yun-tian-zhi-ye-ji-zhu-xue-yuan.md)
 
 [1](./docs/universities/1.md)
