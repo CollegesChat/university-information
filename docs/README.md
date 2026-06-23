@@ -21,21 +21,21 @@
 感谢大家为本站提出宝贵的建议，您的意见将帮助我们不断改进。
 感谢各位开发者在以下仓库（包括但不限于，内部仓库已略去）的贡献，您的付出将让本站更加完善。
 
-| 仓库 | 贡献者 |
-| :---: | :---: |
+|                                                       仓库                                                        |              贡献者              |
+| :---------------------------------------------------------------------------------------------------------------: | :------------------------------: |
 | [CollegesChat/university-information](https://github.com/CollegesChat/university-information/graphs/contributors) | Mkdocs网站生成器 & 前端 （旧版） |
-| [CollegesChat/colleges.chat](https://github.com/CollegesChat/colleges.chat/graphs/contributors) | 生成的前端源代码（旧版） |
-| [CollegesChat/CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io/graphs/contributors) | Hugo前端模板（新版）  |
-| [CollegesChat/website-generator](https://github.com/CollegesChat/website-generator/graphs/contributors) | Hugo网站生成器（新版）|
+|          [CollegesChat/colleges.chat](https://github.com/CollegesChat/colleges.chat/graphs/contributors)          |     生成的前端源代码（旧版）     |
+| [CollegesChat/CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io/graphs/contributors) |       Hugo前端模板（新版）       |
+|      [CollegesChat/website-generator](https://github.com/CollegesChat/website-generator/graphs/contributors)      |      Hugo网站生成器（新版）      |
 
 感谢以下赞助者为本项目提供支持，您的帮助将让我们走得更远。
 
-| 赞助者 | 赞助金额或物品 | 用途 |
-| :----: | :----: | :----:|
-| 131 | 11.35 USD | 域名注册 |
-| Yang | 22 USD (实际使用 21.68 USD) | 域名续费 |
-| Yang | 服务器 | 优化网站访问速度 |
-| Monad | 166.66 CNY (实际使用 23.18 USD) | 域名续费 |
+| 赞助者 |         赞助金额或物品          |       用途       |
+| :----: | :-----------------------------: | :--------------: |
+|  131   |            11.35 USD            |     域名注册     |
+|  Yang  |   22 USD (实际使用 21.68 USD)   |     域名续费     |
+|  Yang  |             服务器              | 优化网站访问速度 |
+| Monad  | 166.66 CNY (实际使用 23.18 USD) |     域名续费     |
 
 ## LICENSE
 

@@ -1,3 +1,0 @@
-python-slugify
-zhconv
-text-unidecode>=1.3
