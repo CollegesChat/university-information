@@ -21,10 +21,12 @@
 感谢大家为本站提出宝贵的建议，您的意见将帮助我们不断改进。
 感谢各位开发者在以下仓库（包括但不限于，内部仓库已略去）的贡献，您的付出将让本站更加完善。
 
-| 仓库 |
-| :--- |
-| [CollegesChat/university-information](https://github.com/CollegesChat/university-information/graphs/contributors) |
-| [CollegesChat/colleges.chat](https://github.com/CollegesChat/colleges.chat/graphs/contributors) |
+| 仓库 | 贡献者 |
+| :---: | :---: |
+| [CollegesChat/university-information](https://github.com/CollegesChat/university-information/graphs/contributors) | Mkdocs网站生成器 & 前端 （旧版） |
+| [CollegesChat/colleges.chat](https://github.com/CollegesChat/colleges.chat/graphs/contributors) | 生成的前端源代码（旧版） |
+| [CollegesChat/CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io/graphs/contributors) | Hugo前端模板（新版）  |
+| [CollegesChat/website-generator](https://github.com/CollegesChat/website-generator/graphs/contributors) | Hugo网站生成器（新版）|
 
 感谢以下赞助者为本项目提供支持，您的帮助将让我们走得更远。
 
@@ -37,7 +39,7 @@
 
 ## LICENSE
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans) (调查问卷本身及收集到的回答)
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans) ([调查问卷本身](https://github.com/CollegesChat/questionnaire)及[收集到的回答](https://github.com/CollegesChat/university-information/tree/master/questionnaires))
 
 [BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause) (旧版[Mkdocs网站生成器 & 前端](https://github.com/CollegesChat/colleges.chat#license) )
 
