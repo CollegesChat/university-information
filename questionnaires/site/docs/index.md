@@ -38,7 +38,9 @@
 ## LICENSE
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans) (调查问卷本身及收集到的回答)
+
 [BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause) (旧版[Mkdocs网站生成器 & 前端](https://github.com/CollegesChat/colleges.chat#license) )
+
 [AGPL-3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html) (新版[Hugo网站生成器](https://github.com/CollegesChat/website-generatorE) & [前端](https://github.com/CollegesChat/CollegesChat.github.io))
 
 如果有侵权、不实信息请联系进行[删除](https://github.com/CollegesChat/university-information/issues)。
