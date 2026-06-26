@@ -1,0 +1,44 @@
+name: ©️ 侵权行为举报
+description: "发现其他平台或个人未经授权侵权使用本项目的问卷或回答数据（CC BY-NC-SA 4.0）"
+title: "【侵权举报】[简短描述侵权主体或链接]"
+labels: ["infringement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢您协助维护社区生态！本项目数据（问卷及回答）采用 **CC BY-NC-SA 4.0** 协议，代码采用 BSD/AGPL 协议。任何商业化利用、未署名搬运均属于侵权行为。
+
+  - type: input
+    id: infringer-info
+    attributes:
+      label: "1. 侵权方信息"
+      placeholder: "例如：某微信公众号【XX高考志愿】 / 某小红书博主 ID"
+    validations:
+      required: true
+
+  - type: input
+    id: infringement-link
+    attributes:
+      label: "2. 侵权内容具体链接 (URL)"
+      placeholder: "https://example.com/stolen-data"
+    validations:
+      required: true
+
+  - type: input
+    id: source-link
+    attributes:
+      label: "3. 对应本项目的源链接"
+      placeholder: "例如：https://colleges.chat/zh/xxx大学/"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: violation-type
+    attributes:
+      label: "4. 违规行为判定"
+      description: "请勾选对方违反了哪些开源协议条款："
+      options:
+        - label: "违反 CC 协议：对方未注明来源/未署名（Violation of Attribution）"
+        - label: "违反 CC 协议：对方将数据用于商业用途/变现/付费查看（Violation of NonCommercial）"
+        - label: "违反 CC 协议：对方修改了内容但未采用相同协议分发（Violation of ShareAlike）"
+        - label: "代码侵权：违反了项目的 BSD 2-Clause 或 AGPL-3.0 开源协议"
