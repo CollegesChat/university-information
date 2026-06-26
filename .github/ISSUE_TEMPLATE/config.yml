@@ -1,5 +1,11 @@
-blank_issues_enabled: true
+blank_issues_enabled: false
 contact_links:
   - name: 提问
     url: https://github.com/CollegesChat/university-information/discussions
-    about: 一般问题请去讨论区
+    about: ❓ 一般问题请去讨论区
+  - name: 网站
+    url: https://github.com/CollegesChat/CollegesChat.github.io/issues
+    about: 🤔 对于网站的功能请求 / bug 反馈请去此处
+  - name: 问卷
+    url: https://github.com/CollegesChat/questionnaire/issues
+    about: 📄 修改问卷、对问卷的改进建议请去此处
