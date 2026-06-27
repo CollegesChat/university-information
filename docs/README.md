@@ -45,7 +45,9 @@
 
 [AGPL-3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html) (新版[Hugo网站生成器](https://github.com/CollegesChat/website-generatorE) & [前端](https://github.com/CollegesChat/CollegesChat.github.io))
 
-如果有侵权、不实信息请联系进行[删除](https://github.com/CollegesChat/university-information/issues)。
+如果有侵权、不实信息请联系进行[删除](https://github.com/CollegesChat/university-information/issues/new?template=malicious_data.yml)。
+
+如果本项目被侵权请此处提交[举报](https://github.com/CollegesChat/university-information/issues/new?template=copyright_infringement.yml)。
 
 [^1]: <https://t.me/RiNGNiR/3571>
 [^2]: <https://t.me/RiNGNiR/3572>
