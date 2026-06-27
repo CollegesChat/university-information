@@ -1,6 +1,6 @@
 name: 🏷️ 高校改名 / 信息更新
 description: 反馈高校名称变更或信息更新
-title: "[高校更名] "
+title: "【高校更名】<高校名字> "
 labels: ["institution-renaming"]
 body:
   - type: input
@@ -20,7 +20,7 @@ body:
   - type: textarea
     id: source
     attributes:
-      label: 依据/来源（官网、新闻链接）
+      label: 依据/来源（官网、新闻链接，尽量不要截图）
     validations:
       required: true
 
