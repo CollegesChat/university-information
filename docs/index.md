@@ -49,5 +49,7 @@
 
 如果本项目被侵权请此处提交[举报](https://github.com/CollegesChat/university-information/issues/new?template=copyright_infringement.yml)。
 
+发现非答卷的文档部分有错别字、信息过期或遗漏？请[在此提交反馈](https://github.com/CollegesChat/university-information/issues/new?template=document_correction.yml)。
+
 [^1]: <https://t.me/RiNGNiR/3571>
 [^2]: <https://t.me/RiNGNiR/3572>
