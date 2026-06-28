@@ -1,0 +1,34 @@
+name: "📝 文档查漏补缺"
+description: "发现非答卷的文档部分有错别字、信息过期或遗漏？请在此提交反馈。"
+title: "【文档】 <文档标题>"
+labels: ["documentation"]
+
+body:
+  - type: input
+    id: page_url
+    attributes:
+      label: 🗺️ 相关页面或文档链接
+      description: "请提供出现错误或需要补充的页面 URL (例如: https://colleges.chat/choose-a-college/...)"
+      placeholder: "https://colleges.chat/choose-a-college/"
+    validations:
+      required: true
+
+  - type: textarea
+    id: correction_details
+    attributes:
+      label: 🔍 错漏具体描述与修改建议
+      description: "请明确指出哪里有错（错别字、失效链接、陈旧信息等），以及正确的应该是什么。"
+      placeholder: |
+        当前错误内容：
+        修改为/应当补充：
+    validations:
+      required: true
+
+  - type: textarea
+    id: references
+    attributes:
+      label: 🔗 参考资料 / 证明（选填）
+      description: "如有学校官网招生简章通知、截图或其他支持该修改的公开资料，请在此处提供。"
+      placeholder: "例如：高校官网链接"
+    validations:
+      required: false
