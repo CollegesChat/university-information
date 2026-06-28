@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: ❓ 提问
     url: https://github.com/CollegesChat/university-information/discussions
-    about: 一般问题请去讨论区
+    about: 一般大学问题请去讨论区
   - name: 🌐 网站
     url: https://github.com/CollegesChat/CollegesChat.github.io/issues
     about: 对于网站的功能请求 / bug 反馈请去此处
