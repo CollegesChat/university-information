@@ -31,4 +31,4 @@ body:
   - type: textarea
     id: extra
     attributes:
-      label: 补充信息
+      label: 补充信息（若为恶意数据，请不要带截图证明）
