@@ -9,7 +9,7 @@
 
 贡献、提问、部分资料查询请前往 [Discussions](https://github.com/CollegesChat/university-information/discussions)
 
-询问部分高校信息或参与本项目的讨论请加入 [Telegram 群组](https://t.me/joinchat/NPiGbd9ODe0wYjQ1)
+询问部分高校信息或参与本项目的讨论请加入 [Telegram 群组](https://t.me/joinchat/NPiGbd9ODe0wYjQ1k)
 
 ## 免责声明
 本站内容来源于网络和问卷收集，由于数据的准确性无法保证，请您仅将本站内容作为参考，并结合其他来源的资料进行分析。本站列出的学校不一定均是全国高等学校名单中的高校，可能含有国外高校和野鸡大学，请您自行分辨该校是否具备招生资质。如您因本站数据有误而错误择校，本站不承担相应责任。
