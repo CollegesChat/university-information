@@ -3,6 +3,7 @@
 这是一个由 Telegram 频道发起的调查[^1][^2]启发的资料汇总项目，意在收集全世界各高校招生时不会写明但实实在在影响大学生活质量的详尽信息。
 
 ## 查询 & 贡献 & 提问
+
 您可以直接在本站查询问卷收集到的高校资料
 
 填写调查问卷请前往 [调查问卷](https://submit.colleges.chat/)
@@ -11,12 +12,20 @@
 
 询问部分高校信息或参与本项目的讨论请加入 [Telegram 群组](https://t.me/joinchat/NPiGbd9ODe0wYjQ1)
 
+如果有侵权、不实信息请联系进行[删除](https://github.com/CollegesChat/university-information/issues/new?template=malicious_data.yml)。
+
+如果本项目被侵权请此处提交[举报](https://github.com/CollegesChat/university-information/issues/new?template=copyright_infringement.yml)。
+
+发现非答卷的文档部分有错别字、信息过期或遗漏？请[在此提交反馈](https://github.com/CollegesChat/university-information/issues/new?template=document_correction.yml)。
+
 ## 免责声明
+
 本站内容来源于网络和问卷收集，由于数据的准确性无法保证，请您仅将本站内容作为参考，并结合其他来源的资料进行分析。本站列出的学校不一定均是全国高等学校名单中的高校，可能含有国外高校和野鸡大学，请您自行分辨该校是否具备招生资质。如您因本站数据有误而错误择校，本站不承担相应责任。
 
 由于部分数据提交时未规范填写校名，以及数据处理脚本可能存在缺陷，部分国内高校可能未被准确分类到省市目录中，敬请谅解。
 
 ## 感谢
+
 感谢大家用心填写问卷，您的参与将帮助更多人了解您所在的学校。
 感谢大家为本站提出宝贵的建议，您的意见将帮助我们不断改进。
 感谢各位开发者在以下仓库（包括但不限于，内部仓库已略去）的贡献，您的付出将让本站更加完善。
@@ -44,12 +53,6 @@
 [BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause) (旧版[Mkdocs网站生成器 & 前端](https://github.com/CollegesChat/colleges.chat#license) )
 
 [AGPL-3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html) (新版[Hugo网站生成器](https://github.com/CollegesChat/website-generatorE) & [前端](https://github.com/CollegesChat/CollegesChat.github.io))
-
-如果有侵权、不实信息请联系进行[删除](https://github.com/CollegesChat/university-information/issues/new?template=malicious_data.yml)。
-
-如果本项目被侵权请此处提交[举报](https://github.com/CollegesChat/university-information/issues/new?template=copyright_infringement.yml)。
-
-发现非答卷的文档部分有错别字、信息过期或遗漏？请[在此提交反馈](https://github.com/CollegesChat/university-information/issues/new?template=document_correction.yml)。
 
 [^1]: <https://t.me/RiNGNiR/3571>
 [^2]: <https://t.me/RiNGNiR/3572>
