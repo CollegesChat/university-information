@@ -1,3 +1,4 @@
 [submodule "questionnaire"]
 	path = questionnaire
 	url = https://github.com/CollegesChat/questionnaire
+	branch = master
