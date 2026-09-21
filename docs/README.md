@@ -50,7 +50,7 @@
 
 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans) ([调查问卷本身](https://github.com/CollegesChat/questionnaire)及[收集到的回答](https://github.com/CollegesChat/university-information/tree/v2/datas))
 
-[BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause) (旧版[Mkdocs网站生成器 & 前端](https://github.com/CollegesChat/colleges.chat#license) )
+[BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause) (旧版[Mkdocs网站生成器 & 前端](https://github.com/CollegesChat/university-information/tree/7469bf5) )
 
 [AGPL-3.0](https://spdx.org/licenses/AGPL-3.0-or-later.html) (新版[Hugo网站生成器](https://github.com/CollegesChat/website-generator) & [前端](https://github.com/CollegesChat/CollegesChat.github.io))
 
