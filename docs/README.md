@@ -48,7 +48,7 @@
 
 ## LICENSE
 
-[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans) ([调查问卷本身](https://github.com/CollegesChat/questionnaire)及[收集到的回答](https://github.com/CollegesChat/university-information/tree/v2/datas))
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans) ([调查问卷本身](https://github.com/CollegesChat/questionnaire)及[收集到的回答](https://github.com/CollegesChat/university-information/tree/v2/data))
 
 [BSD 2-Clause](https://opensource.org/licenses/BSD-2-Clause) (旧版[Mkdocs网站生成器 & 前端](https://github.com/CollegesChat/university-information/tree/7469bf5) )
 
