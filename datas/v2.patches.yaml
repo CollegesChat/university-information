@@ -1,12 +1,24 @@
-# v2 答卷的脏数据补丁：按「答卷序号 × 题号」整题作废。
-# questions: 要作废的题号；nums: 答卷序号（CSV 的「序号」列）
-# status: empty（默认，置「(空)」）| skipped（置「(跳过)」）
+# v2 答卷的脏数据补丁。
+# 每条规则用 type 区分：
+#   void                 —— 按「答卷序号 × 题号」整题作废；
+#                          status: empty（默认，置「(空)」）| skipped（置「(跳过)」）
+#   replace_option_text  —— 替换用户选中的选项文本（不含附加文本）；
+#                          questions: 题号；from/to: 选项文本精确匹配；不写 nums 则整题所有答卷都处理
+# 通用字段：questions: 题号列表；nums: 答卷序号（CSV 的「序号」列），可选
 
-- questions: [27]
+- type: void
+  questions: [27]
   nums: [328, 329, 332]
   # 问卷强制必填，受访者补充文字明确表示并没有晨跑/早操/升旗要求
 
-- questions: [7, 8, 9, 10]
+- type: void
+  questions: [7, 8, 9, 10]
   nums: [307]
   status: skipped
   # 本科答卷误答研究生题目（导师/工位/补助/异地联培）
+
+# 选项文本规范化：题 11「八人间或者其他」漏了「以上」，统一补上，附加文本不动
+- type: replace_option_text
+  questions: [11]
+  from: "八人间或者其他（如独立单间等）"
+  to: "八人间以上或者其他（如独立单间等）"
