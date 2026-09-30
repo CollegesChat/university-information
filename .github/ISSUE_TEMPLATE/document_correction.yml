@@ -1,5 +1,5 @@
 name: "📝 文档查漏补缺"
-description: "发现非答卷的文档部分有错别字、信息过期或遗漏？请在此提交反馈。"
+description: "发现择校相关的相关文档有错别字、信息过期或遗漏？请在此提交反馈。"
 title: "【文档】 <文档标题>"
 labels: ["documentation"]
 
