@@ -30,12 +30,13 @@
 感谢大家为本站提出宝贵的建议，您的意见将帮助我们不断改进。
 感谢各位开发者在以下仓库（包括但不限于，内部仓库已略去）的贡献，您的付出将让本站更加完善。
 
-|                                                 仓库                                                 | 说明                             |
-|:----------------------------------------------------------------------------------------------------:|:---------------------------------|
-| [university-information](https://github.com/CollegesChat/university-information/graphs/contributors) | MkDocs 网站生成器 & 前端（旧版） |
-|          [colleges.chat](https://github.com/CollegesChat/colleges.chat/graphs/contributors)          | 生成的前端源码（旧版）           |
-| [CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io/graphs/contributors) | Hugo 前端模板（新版）            |
-|      [website-generator](https://github.com/CollegesChat/website-generator/graphs/contributors)      | Hugo 网站生成器（新版）          |
+|仓库|说明|
+|:--:|:---:|
+|[university-information](https://github.com/CollegesChat/university-information/tree/0aa4c19)（master）|MkDocs 网站生成器 & 前端（旧版）|
+|[colleges.chat](https://github.com/CollegesChat/colleges.chat/graphs/contributors)|生成的前端源码（旧版）|
+|[university-information](https://github.com/CollegesChat/university-information/tree/v2)（v2）|数据 & 文档（新版）|
+|[CollegesChat.github.io](https://github.com/CollegesChat/CollegesChat.github.io/graphs/contributors)|Hugo 前端模板（新版）|
+|[website-generator](https://github.com/CollegesChat/website-generator/graphs/contributors)|Hugo 网站生成器（新版）|
 
 感谢以下赞助者为本项目提供支持，您的帮助将让我们走得更远。
 
