@@ -22,3 +22,18 @@
   questions: [11]
   from: "八人间或者其他（如独立单间等）"
   to: "八人间以上或者其他（如独立单间等）"
+
+- type: replace_option_text
+  questions: [17]
+  from: "既严格查寝又按时封寝"
+  to: "既查寝又封寝"
+
+- type: replace_option_text
+  questions: [17]
+  from: "偶尔查寝但不封寝"
+  to: "查寝但不封寝"
+
+- type: replace_option_text
+  questions: [18]
+  from: "物价偏低（与校外便宜）"
+  to: "物价偏低（比校外便宜）"
