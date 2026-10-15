@@ -1,15 +1,19 @@
 # v2 答卷的脏数据补丁。
-# 每条规则用 type 区分：
-#   void                 —— 按「答卷序号 × 题号」整题作废；
-#                          status: empty（默认，置「(空)」）| skipped（置「(跳过)」）
-#   replace_option_text  —— 替换用户选中的选项文本（不含附加文本）；
-#                          questions: 题号；from/to: 选项文本精确匹配；不写 nums 则整题所有答卷都处理
+# 每条规则用 type 区分（缺省 void）：
+#   void               —— 按「答卷序号 × 题号」整题作废；
+#                        status: empty（默认，置「(空)」）| skipped（置「(跳过)」）
+#   reclassify_option  —— 把整题答案改判为指定选项；
+#                        option: 目标选项文本；
+#                        additional_text: 覆写附加文本（优先于 keep）；
+#                        keep_additional_text: true 保留受访者原文（仅单选形态）；
+#                        两者都不写 = 丢弃附加文本
 # 通用字段：questions: 题号列表；nums: 答卷序号（CSV 的「序号」列），可选
 
 - type: void
   questions: [27]
-  nums: [328, 329, 332]
-  # 问卷强制必填，受访者补充文字明确表示并没有晨跑/早操/升旗要求
+  nums: [324, 328, 329, 332]
+  # 问卷没有「无」选项且强制至少选一个，受访者在补充文字里明确表示并没有
+  # （324：早自习；328/329/332：晨跑/早操/升旗）
 
 - type: void
   questions: [7, 8, 9, 10]
@@ -17,23 +21,33 @@
   status: skipped
   # 本科答卷误答研究生题目（导师/工位/补助/异地联培）
 
-# 选项文本规范化：题 11「八人间或者其他」漏了「以上」，统一补上，附加文本不动
-- type: replace_option_text
-  questions: [11]
-  from: "八人间或者其他（如独立单间等）"
-  to: "八人间以上或者其他（如独立单间等）"
+# Q12 改判：勾了空调但附加文本表示没有（选项集 10-15 扩容后暴露的矛盾）
+- type: reclassify_option
+  questions: [12]
+  nums: [310]
+  option: 其他情况
+  additional_text: 教室基本没有空调
 
-- type: replace_option_text
+- type: reclassify_option
+  questions: [12]
+  nums: [334]
+  option: 其他情况
+  additional_text: 宿舍、教室都没有空调
+
+- type: reclassify_option
+  questions: [12]
+  nums: [397]
+  option: 其他情况
+  additional_text: 教室、宿舍都没有空调
+
+- type: reclassify_option
+  questions: [12]
+  nums: [401]
+  option: 宿舍有电扇
+  keep_additional_text: true
+
+- type: reclassify_option
   questions: [17]
-  from: "既严格查寝又按时封寝"
-  to: "既查寝又封寝"
-
-- type: replace_option_text
-  questions: [17]
-  from: "偶尔查寝但不封寝"
-  to: "查寝但不封寝"
-
-- type: replace_option_text
-  questions: [18]
-  from: "物价偏低（与校外便宜）"
-  to: "物价偏低（比校外便宜）"
+  nums: [307, 322, 333, 354, 408, 414]
+  option: 既查寝又封寝
+  keep_additional_text: true
