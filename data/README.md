@@ -1,0 +1,3 @@
+本目录为调查问卷收集的答卷数据，依据 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议授权使用（引用时请保留来源及答卷中指定的填答者代号）。对于任何违反协议的行为，CollegesChat 保留依据适用法律及平台规则发起侵权投诉（包括但不限于 DMCA 通知及国内云服务商/平台侵权投诉）的权利。
+
+This directory contains survey response data licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) (please retain attribution to the source and any respondent alias specified in the responses). For any violation of this license, CollegesChat reserves the right to file infringement complaints in accordance with applicable laws and platform policies (including, without limitation, DMCA takedown notices and infringement reports to cloud service providers or hosting platforms).
